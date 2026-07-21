@@ -11,8 +11,7 @@ Copito rasca la tierra cerca del gran rosal y encuentra una pista sorprendente.
 > **Texto de Lectura:**  
 > —¡Mirad! —exclama Nico—. ¡Es el mapa de un lugar secreto!
 
-**[Prompt de Ilustración para Colorear - Pág. 4]:**  
-Nico agachado mostrando la hoja dorada con mapa simple. Luna y Copito mirando fascinados con ojos abiertos. Jardín de fondo con flores y un rosal grande. Líneas negras gruesas, estilo libro para colorear infantil, fondo limpio sin sombreado.
+![Página para Colorear 1: El Mapa Mágico](../images/coloring_page_1_mapa.jpg)
 
 ---
 
@@ -25,22 +24,18 @@ Al cruzarlo, el aire huele a pino verde y fresas silvestres.
 > **Texto de Lectura:**  
 > —¡Bienvenid@s al Bosque Mágico! —susurra Luna con alegría.
 
-**[Prompt de Ilustración para Colorear - Pág. 5]:**  
-Nico, Luna y el perrito Copito cruzando un gran arco natural hecho de ramas y enredaderas florales. Árboles altos sonrientes al fondo. Dibujo lineal limpio para colorear, contornos marcados.
-
 ---
 
 ## [PÁGINA 6: ESCENA 3 - LAS SETAS GIGANTES DE LUNARES]
 
 A los pocos pasos, encuentran setas gigantes más altas que Nico.  
 Sus sombreros tienen lunares grandes y divertidos.  
-Una simpatica mariquita saluda desde lo alto de una seta.
+Una simpática mariquita saluda desde lo alto de una seta.
 
 > **Texto de Lectura:**  
 > —¡Estas setas parecen paraguas mágicos! —dice Nico riendo.
 
-**[Prompt de Ilustración para Colorear - Pág. 6]:**  
-Tres setas gigantes de formas redondeadas con lunares grandes para colorear. Nico y Luna caminando entre ellas admirados. Mariquita sonriente sobre la seta principal. Contornos claros y espacios amplios para niños.
+![Página para Colorear 2: Las Setas Gigantes](../images/coloring_page_2_setas.jpg)
 
 ---
 
@@ -53,9 +48,6 @@ Copito intenta dar pequeños saltitos para saludarlas con el hocico.
 > **Texto de Lectura:**  
 > Las mariposas les dan la bienvenida con un divertido baile volador.
 
-**[Prompt de Ilustración para Colorear - Pág. 7]:**  
-Mariposas gigantes con bonitos patrones geométricos en sus alas revoloteando alrededor de Nico, Luna y Copito. Flores sencillas en el suelo. Estilo libre de sombreado, contornos gruesos.
-
 ---
 
 ## [PÁGINA 8: ESCENA 5 - LAS ARDILLAS MALABARISTAS]
@@ -66,6 +58,3 @@ Llevan sombreritos de hojas y hacen malabares con tres grandes bellotas.
 
 > **Texto de Lectura:**  
 > —¡Qué habilidad tienen estas ardillas! —aplaude Luna entusiasmada.
-
-**[Prompt de Ilustración para Colorear - Pág. 8]:**  
-Dos simpáticas ardillas sobre una rama gruesa haciendo malabares con bellotas grandes. Nico y Luna aplaudiendo abajo en el camino. Dibujo infantil claro y fácil de colorear.

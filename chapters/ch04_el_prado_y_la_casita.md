@@ -11,9 +11,6 @@ En el agua clara hay piedras redondas alineadas como escalones.
 > **Texto de Lectura:**  
 > Nico, Luna y Copito cruzan saltando de piedra en piedra con cuidado.
 
-**[Prompt de Ilustración para Colorear - Pág. 14]:**  
-Nico y Luna saltando alegremente de piedra en piedra sobre un arroyo transparente. Piedras redondas con expresiones de caritas sonrientes. El erizo viajando seguro en la mochila abierta de Nico. Líneas gruesas para colorear fácilmente.
-
 ---
 
 ## [PÁGINA 15: ESCENA 12 - LAS FLORES GIGANTES CANTANTES]
@@ -24,9 +21,6 @@ Es el prado cantarín del Bosque Mágico.
 
 > **Texto de Lectura:**  
 > Las flores gigantes cantan melodías que llenan el aire de alegría.
-
-**[Prompt de Ilustración para Colorear - Pág. 15]:**  
-Flores gigantes de tallos ondulados con notas musicales sencillas flotando a su alrededor. Luna oliendo una gran flor mientras ríe. Nico y el erizo disfrutando la música. Dibujo limpio, contornos pronunciados.
 
 ---
 
@@ -39,9 +33,6 @@ Todos se ríen al ver las travesuras del pequeño perrito blanco.
 > **Texto de Lectura:**  
 > ¡Copito atrapa un pétalo volador justo en el aire!
 
-**[Prompt de Ilustración para Colorear - Pág. 16]:**  
-Copito saltando en el aire intentando atrapar pétalos grandes de flor. Pétalos flotando suavemente. Hierba con mariquitas y flores pequeñas al fondo.
-
 ---
 
 ## [PÁGINA 17: ESCENA 14 - LOS CONEJITOS GUÍAS]
@@ -52,9 +43,6 @@ Al ver al pequeño erizito, mueven los bigotes con alegría y señalan hacia la 
 
 > **Texto de Lectura:**  
 > —¡Gracias, amables conejitos! —dicen los niños al unísono.
-
-**[Prompt de Ilustración para Colorear - Pág. 17]:**  
-Tres conejitos amigables de pie señalando hacia una colina arbolada. Nico, Luna y el erizo escuchando sus indicaciones. Paisaje despejado de fondo ideal para colorear.
 
 ---
 
@@ -67,5 +55,4 @@ Tiene un tejado cubierto de suave musgo verde y un chimenea de piedras pequeñas
 > **Texto de Lectura:**  
 > —¡Hemos llegado a mi hogar! —exclama el erizito saltando de júbilo.
 
-**[Prompt de Ilustración para Colorear - Pág. 18]:**  
-Casita diminuta de madera y troncos con chimenea echando humo en espiral. Tejado pintoresco con musgo. El erizito corriendo feliz hacia la puerta abierta. Nico y Luna detrás sonriendo.
+![Página para Colorear 5: La Casita de Troncos del Erizo](../images/coloring_page_5_casita.jpg)

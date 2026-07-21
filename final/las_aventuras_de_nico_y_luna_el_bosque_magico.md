@@ -57,8 +57,7 @@ Copito rasca la tierra cerca del gran rosal y encuentra una pista sorprendente.
 > **Texto de Lectura:**  
 > —¡Mirad! —exclama Nico—. ¡Es el mapa de un lugar secreto!
 
-**[Prompt de Ilustración para Colorear - Pág. 4]:**  
-Nico agachado mostrando la hoja dorada con mapa simple. Luna y Copito mirando fascinados con ojos abiertos. Jardín de fondo con flores y un rosal grande. Líneas negras gruesas, estilo libro para colorear infantil, fondo limpio sin sombreado.
+![Página para Colorear 1: El Mapa Mágico](../images/coloring_page_1_mapa.jpg)
 
 ---
 
@@ -71,22 +70,18 @@ Al cruzarlo, el aire huele a pino verde y fresas silvestres.
 > **Texto de Lectura:**  
 > —¡Bienvenid@s al Bosque Mágico! —susurra Luna con alegría.
 
-**[Prompt de Ilustración para Colorear - Pág. 5]:**  
-Nico, Luna y el perrito Copito cruzando un gran arco natural hecho de ramas y enredaderas florales. Árboles altos sonrientes al fondo. Dibujo lineal limpio para colorear, contornos marcados.
-
 ---
 
 ## [PÁGINA 6: ESCENA 3 - LAS SETAS GIGANTES DE LUNARES]
 
 A los pocos pasos, encuentran setas gigantes más altas que Nico.  
 Sus sombreros tienen lunares grandes y divertidos.  
-Una simpatica mariquita saluda desde lo alto de una seta.
+Una simpática mariquita saluda desde lo alto de una seta.
 
 > **Texto de Lectura:**  
 > —¡Estas setas parecen paraguas mágicos! —dice Nico riendo.
 
-**[Prompt de Ilustración para Colorear - Pág. 6]:**  
-Tres setas gigantes de formas redondeadas con lunares grandes para colorear. Nico y Luna caminando entre ellas admirados. Mariquita sonriente sobre la seta principal. Contornos claros y espacios amplios para niños.
+![Página para Colorear 2: Las Setas Gigantes](../images/coloring_page_2_setas.jpg)
 
 ---
 
@@ -99,9 +94,6 @@ Copito intenta dar pequeños saltitos para saludarlas con el hocico.
 > **Texto de Lectura:**  
 > Las mariposas les dan la bienvenida con un divertido baile volador.
 
-**[Prompt de Ilustración para Colorear - Pág. 7]:**  
-Mariposas gigantes con bonitos patrones geométricos en sus alas revoloteando alrededor de Nico, Luna y Copito. Flores sencillas en el suelo. Estilo libre de sombreado, contornos gruesos.
-
 ---
 
 ## [PÁGINA 8: ESCENA 5 - LAS ARDILLAS MALABARISTAS]
@@ -112,9 +104,6 @@ Llevan sombreritos de hojas y hacen malabares con tres grandes bellotas.
 
 > **Texto de Lectura:**  
 > —¡Qué habilidad tienen estas ardillas! —aplaude Luna entusiasmada.
-
-**[Prompt de Ilustración para Colorear - Pág. 8]:**  
-Dos simpáticas ardillas sobre una rama gruesa haciendo malabares con bellotas grandes. Nico y Luna aplaudiendo abajo en el camino. Dibujo infantil claro y fácil de colorear.
 # Capítulo 3: El Búho Sabio y el Pequeño Erizo
 
 ---
@@ -128,9 +117,6 @@ Farolillos de cristal cuelgan de las ramas iluminando el camino.
 > **Texto de Lectura:**  
 > El árbol más antiguo del bosque custodia los secretos más hermosos.
 
-**[Prompt de Ilustración para Colorear - Pág. 9]:**  
-Un enorme árbol roble sonriente con hojas frondosas y una ventanita redonda en el tronco. Farolillos colgando de las ramas. Nico y Luna contemplándolo con admiración. Contornos negros limpios para niños de 4-8 años.
-
 ---
 
 ## [PÁGINA 10: ESCENA 7 - EL BÚHO SABIO CON GAFAS]
@@ -142,8 +128,7 @@ Es el Búho Sabio, el guardián del conocimiento del bosque.
 > **Texto de Lectura:**  
 > —¡Hola, jóvenes exploradores! —dice el Búho Sabio ajustándose las gafas.
 
-**[Prompt de Ilustración para Colorear - Pág. 10]:**  
-Búho Sabio simpático posado en la ventana del roble con gafas redondas grandes y un libro abierto. Nico y Luna saludando amablemente desde el suelo. Dibujo de contornos gruesos y expresivos.
+![Página para Colorear 3: El Búho Sabio](../images/coloring_page_3_buho.jpg)
 
 ---
 
@@ -156,9 +141,6 @@ Nico y Luna asienten con entusiasmo y promueven estar siempre listos para ayudar
 > **Texto de Lectura:**  
 > —La mejor magia es la bondad y la amistad —enseña el Búho Sabio.
 
-**[Prompt de Ilustración para Colorear - Pág. 11]:**  
-Búho Sabio señalando amistosamente hacia el camino con su ala. Nico y Luna escuchando atentos con sonrisas dulces. Hojas de roble y estrellas sencillas en el fondo.
-
 ---
 
 ## [PÁGINA 12: ESCENA 9 - EL PEQUEÑO ERIZO EN APUROS]
@@ -170,22 +152,18 @@ Tiene una lágrima en su mejilla porque no encuentra el camino de regreso a su c
 > **Texto de Lectura:**  
 > —¡Ayuda, por favor! Me he despistado buscando moras dulces —pide el erizo.
 
-**[Prompt de Ilustración para Colorear - Pág. 12]:**  
-Un tierno erizito sentado sobre hojas secas mirando arriba con ojos redondos. Nico inclinado abriendo las hojas para descubrirlo. Copito olfateando con curiosidad. Estilo de líneas negras marcadas, apto para colorear.
+![Página para Colorear 4: El Encuentro con el Erizo](../images/coloring_page_4_erizo.jpg)
 
 ---
 
 ## [PÁGINA 13: ESCENA 10 - LA PROMESA DE NICO Y LUNA]
 
-Luna se agacha con ternura y le acaricia la hociquito al erizito.  
+Luna se agacha con ternura y le acaricia el hociquito al erizito.  
 —No llores, pequeño amigo. ¡Nico y yo te acompañaremos hasta tu casa!  
 El erizo se alegra tanto que da un salto y sonríe de oreja a oreja.
 
 > **Texto de Lectura:**  
 > —¡Con el mapa y nuestro trabajo en equipo, lo lograremos! —promete Nico.
-
-**[Prompt de Ilustración para Colorear - Pág. 13]:**  
-Luna consolando alegremente al pequeño erizo. Nico mostrando el mapa doradoy señalando el camino. Copito moviendo la cola. Dibujo claro, alegre y sin rellenos oscuros.
 # Capítulo 4: El Prado Encantado y la Casita de Troncos
 
 ---
@@ -199,9 +177,6 @@ En el agua clara hay piedras redondas alineadas como escalones.
 > **Texto de Lectura:**  
 > Nico, Luna y Copito cruzan saltando de piedra en piedra con cuidado.
 
-**[Prompt de Ilustración para Colorear - Pág. 14]:**  
-Nico y Luna saltando alegremente de piedra en piedra sobre un arroyo transparente. Piedras redondas con expresiones de caritas sonrientes. El erizo viajando seguro en la mochila abierta de Nico. Líneas gruesas para colorear fácilmente.
-
 ---
 
 ## [PÁGINA 15: ESCENA 12 - LAS FLORES GIGANTES CANTANTES]
@@ -212,9 +187,6 @@ Es el prado cantarín del Bosque Mágico.
 
 > **Texto de Lectura:**  
 > Las flores gigantes cantan melodías que llenan el aire de alegría.
-
-**[Prompt de Ilustración para Colorear - Pág. 15]:**  
-Flores gigantes de tallos ondulados con notas musicales sencillas flotando a su alrededor. Luna oliendo una gran flor mientras ríe. Nico y el erizo disfrutando la música. Dibujo limpio, contornos pronunciados.
 
 ---
 
@@ -227,9 +199,6 @@ Todos se ríen al ver las travesuras del pequeño perrito blanco.
 > **Texto de Lectura:**  
 > ¡Copito atrapa un pétalo volador justo en el aire!
 
-**[Prompt de Ilustración para Colorear - Pág. 16]:**  
-Copito saltando en el aire intentando atrapar pétalos grandes de flor. Pétalos flotando suavemente. Hierba con mariquitas y flores pequeñas al fondo.
-
 ---
 
 ## [PÁGINA 17: ESCENA 14 - LOS CONEJITOS GUÍAS]
@@ -240,9 +209,6 @@ Al ver al pequeño erizito, mueven los bigotes con alegría y señalan hacia la 
 
 > **Texto de Lectura:**  
 > —¡Gracias, amables conejitos! —dicen los niños al unísono.
-
-**[Prompt de Ilustración para Colorear - Pág. 17]:**  
-Tres conejitos amigables de pie señalando hacia una colina arbolada. Nico, Luna y el erizo escuchando sus indicaciones. Paisaje despejado de fondo ideal para colorear.
 
 ---
 
@@ -255,8 +221,7 @@ Tiene un tejado cubierto de suave musgo verde y un chimenea de piedras pequeñas
 > **Texto de Lectura:**  
 > —¡Hemos llegado a mi hogar! —exclama el erizito saltando de júbilo.
 
-**[Prompt de Ilustración para Colorear - Pág. 18]:**  
-Casita diminuta de madera y troncos con chimenea echando humo en espiral. Tejado pintoresco con musgo. El erizito corriendo feliz hacia la puerta abierta. Nico y Luna detrás sonriendo.
+![Página para Colorear 5: La Casita de Troncos del Erizo](../images/coloring_page_5_casita.jpg)
 # Capítulo 5: El Banquete del Bosque y el Regreso a Casa
 
 ---
