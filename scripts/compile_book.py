@@ -88,6 +88,40 @@ body {
     margin-bottom: 15px;
 }
 
+/* Portadilla de Capítulo Artística */
+.portada-capitulo {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 9.2in;
+    width: 100%;
+    position: relative;
+    page-break-after: always;
+    box-sizing: border-box;
+}
+
+.portada-capitulo-overlay {
+    position: absolute;
+    bottom: 1.0in;
+    left: 5%;
+    right: 5%;
+    background-color: rgba(255, 255, 255, 0.85); /* Fondo semitransparente suave */
+    padding: 15pt 25pt;
+    border-radius: 8px;
+    text-align: center;
+    border: 3px solid #222222;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.portada-capitulo-overlay h1 {
+    font-family: 'Fredoka', sans-serif;
+    font-size: 22pt;
+    color: #111111;
+    margin: 0;
+    text-transform: uppercase;
+    line-height: 1.3;
+}
+
 /* Página de Lectura Estándar */
 .lectura-container {
     padding: 0.2in 0;
@@ -250,6 +284,39 @@ def parse_markdown_to_html(md_content, base_dir):
                 <p>{formatted_content}</p>
             </div>
             """)
+            
+        elif "PORTADILLA CAPÍTULO" in page_title or "PORTADILLA DE CAPÍTULO" in page_title:
+            # Buscar si contiene una imagen de fondo
+            img_match = re.search(r'!\[(.*?)\]\((.*?)\)', page_content)
+            img_path = ""
+            resolved_img_path = ""
+            if img_match:
+                img_path = img_match.group(2)
+                # Resolver la ruta de la imagen
+                resolved_img_path = os.path.normpath(os.path.join(base_dir, "final", img_path))
+                if not os.path.exists(resolved_img_path):
+                    resolved_img_path = os.path.normpath(os.path.join(base_dir, img_path.replace("../", "")))
+            
+            # Limpiar el título quitando las marcas
+            clean_title = page_title.replace("PORTADILLA CAPÍTULO - ", "").replace("PORTADILLA DE CAPÍTULO - ", "").replace("PORTADILLA CAPÍTULO:", "").replace("PORTADILLA DE CAPÍTULO:", "").strip()
+            
+            # Generar el HTML de la portadilla de capítulo con imagen de fondo
+            if img_path:
+                html_out.append(f"""
+                <div class="{page_class} portada-capitulo" style="background-image: url('{resolved_img_path}');">
+                    <div class="portada-capitulo-overlay">
+                        <h1>{clean_title}</h1>
+                    </div>
+                </div>
+                """)
+            else:
+                html_out.append(f"""
+                <div class="{page_class} portada-capitulo">
+                    <div class="portada-capitulo-overlay">
+                        <h1>{clean_title}</h1>
+                    </div>
+                </div>
+                """)
             
         else:
             # Páginas normales
