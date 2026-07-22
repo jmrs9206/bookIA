@@ -8,14 +8,14 @@ import subprocess
 CSS_TEMPLATE = """@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&family=Nunito:wght@400;700&display=swap');
 
 @page {
-    size: 8.5in 11in;
-    margin-top: 0.8in;
-    margin-bottom: 0.8in;
+    size: 8.625in 11.25in;
+    margin-top: 0.875in;
+    margin-bottom: 0.875in;
 }
 
 @page :left {
-    margin-left: 0.6in;
-    margin-right: 0.9in;
+    margin-left: 0.625in;
+    margin-right: 0.875in;
     @bottom-center {
         content: counter(page);
         font-family: 'Fredoka', sans-serif;
@@ -25,8 +25,8 @@ CSS_TEMPLATE = """@import url('https://fonts.googleapis.com/css2?family=Fredoka:
 }
 
 @page :right {
-    margin-left: 0.9in;
-    margin-right: 0.6in;
+    margin-left: 0.875in;
+    margin-right: 0.625in;
     @bottom-center {
         content: counter(page);
         font-family: 'Fredoka', sans-serif;
@@ -36,7 +36,7 @@ CSS_TEMPLATE = """@import url('https://fonts.googleapis.com/css2?family=Fredoka:
 }
 
 @page :first {
-    margin: 0.8in;
+    margin: 0.875in;
     @bottom-center {
         content: none;
     }
@@ -44,8 +44,8 @@ CSS_TEMPLATE = """@import url('https://fonts.googleapis.com/css2?family=Fredoka:
 
 /* Página especial para preliminares (Portada interior, Derechos y Pertenencia) */
 @page page_preliminares {
-    size: 8.5in 11in;
-    margin: 0.8in;
+    size: 8.625in 11.25in;
+    margin: 0.875in;
     @bottom-center {
         content: none;
     }
@@ -53,7 +53,7 @@ CSS_TEMPLATE = """@import url('https://fonts.googleapis.com/css2?family=Fredoka:
 
 /* Página especial para portadillas artísticas de capítulo a sangre completa (full bleed) */
 @page page_portada_capitulo {
-    size: 8.5in 11in;
+    size: 8.625in 11.25in;
     margin: 0;
     @bottom-center {
         content: none;
@@ -62,7 +62,7 @@ CSS_TEMPLATE = """@import url('https://fonts.googleapis.com/css2?family=Fredoka:
 
 /* Página especial para ilustraciones de escena a sangre completa */
 @page page_ilustracion_full {
-    size: 8.5in 11in;
+    size: 8.625in 11.25in;
     margin: 0;
     @bottom-center {
         content: none;
@@ -82,7 +82,7 @@ body {
     page-break-after: always;
     box-sizing: border-box;
     position: relative;
-    height: 9.4in; /* Altura útil con márgenes */
+    height: 9.5in; /* Altura útil con márgenes (11.25in - 1.75in) */
     width: 100%;
     overflow: hidden;
     display: block;
@@ -93,7 +93,7 @@ body {
     page: page_preliminares;
     text-align: center;
     padding-top: 1.0in;
-    height: 9.4in;
+    height: 9.5in;
     width: 100%;
     box-sizing: border-box;
     display: block;
@@ -150,8 +150,8 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 11.0in; /* Ocupa todo el papel físico */
-    width: 8.5in;
+    height: 11.25in; /* Ocupa todo el papel físico con sangría */
+    width: 8.625in;
     position: relative;
     page-break-after: always;
     box-sizing: border-box;
@@ -288,16 +288,16 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 11.0in;
-    width: 8.5in;
+    height: 11.25in;
+    width: 8.625in;
     page-break-after: always;
     box-sizing: border-box;
 }
 
 .page-image-colorear {
     page: page_ilustracion_full;
-    height: 11.0in;
-    width: 8.5in;
+    height: 11.25in;
+    width: 8.625in;
     background-color: #ffffff;
     position: relative;
     page-break-after: always;
@@ -306,10 +306,10 @@ body {
 
 .colorear-container {
     position: absolute;
-    top: 0.8in;
-    bottom: 1.1in;
-    left: 0.8in;
-    right: 0.8in;
+    top: 0.875in;
+    bottom: 1.25in;
+    left: 0.875in;
+    right: 0.875in;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -327,9 +327,9 @@ body {
 
 .colorear-caption {
     position: absolute;
-    bottom: 0.6in;
-    left: 0.8in;
-    right: 0.8in;
+    bottom: 0.625in;
+    left: 0.875in;
+    right: 0.875in;
     text-align: center;
     font-family: 'Fredoka', sans-serif;
     font-size: 11.5pt;
@@ -355,7 +355,7 @@ h3 { font-size: 15pt; font-weight: 600; }
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: calc(100% - 40px);
+    height: 8.5in;
     box-sizing: border-box;
     padding: 0.1in 0.2in;
     width: 100%;
