@@ -351,13 +351,10 @@ h3 { font-size: 15pt; font-weight: 600; }
 
 /* Estilos Premium de Actividades y Juegos */
 .actividad-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    display: block;
     height: 8.5in;
     box-sizing: border-box;
-    padding: 0.1in 0.2in;
+    padding: 0.2in 0.3in;
     width: 100%;
 }
 
@@ -454,17 +451,17 @@ h3 { font-size: 15pt; font-weight: 600; }
 
 /* Probador de colores */
 .probador-container {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
     width: 100%;
     margin-top: 10px;
-    gap: 15px;
     box-sizing: border-box;
+    text-align: center;
 }
 
 .probador-caja {
-    width: 47%;
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    margin: 5px 1.5%;
     border: 2px dashed #999999;
     border-radius: 12px;
     padding: 12px;
@@ -481,18 +478,18 @@ h3 { font-size: 15pt; font-weight: 600; }
 }
 
 .probador-zonas {
-    display: flex;
-    justify-content: center;
-    gap: 12px;
+    text-align: center;
     margin-top: 10px;
 }
 
 .probador-zona-color {
+    display: inline-block;
     width: 40px;
     height: 40px;
     border: 2px dashed #bbbbbb;
     border-radius: 50%;
     background-color: #ffffff;
+    margin: 0 8px;
 }
 
 .probador-zona-rectangular {
