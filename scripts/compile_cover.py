@@ -37,6 +37,23 @@ Ideal para niños de 4 a 8 años.""",
         "border_color": "#415a77",
         "text_color": "#e0e1dd",
         "accent_color": "#e0a96d"
+    },
+    "libro_3_los_dinosaurios_perdidos": {
+        "num": 3,
+        "subtitulo": "Los Dinosaurios Perdidos",
+        "sinopsis": """¡Viaja en el tiempo con Nico, Luna y su valiente perrito Copito a un asombroso valle prehistórico!
+
+Cruza un portal mágico y conoce a entrañables amigos gigantes como el pequeño tiranosaurio Dino y el bondadoso Brontosaurio de cuello largo. En este volumen premium de 60 páginas, Nico y Luna le ayudarán a buscar sus juguetes perdidos a través de cascadas tibias y cuevas de cristales luminosos.
+
+Cada escena del viaje combina una página de lectura ágil en la izquierda con hermosas ilustraciones infantiles a color alternadas con láminas en blanco y negro listas para colorear a la derecha.
+
+¡Fomenta la creatividad, la lectura temprana y el valor de la amistad con divertidos laberintos, conecta los puntos y juegos de diferencias al final del libro!
+
+Ideal para niños de 4 a 8 años.""",
+        "bg_color": "#1e3f20", # Verde selva jurásica profundo
+        "border_color": "#345e37",
+        "text_color": "#eaf2eb",
+        "accent_color": "#ffb703" # Naranja sol prehistórico
     }
 }
 
