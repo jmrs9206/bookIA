@@ -9,7 +9,24 @@ CSS_TEMPLATE = """@import url('https://fonts.googleapis.com/css2?family=Fredoka:
 
 @page {
     size: 8.5in 11in;
-    margin: 0.8in;
+    margin-top: 0.8in;
+    margin-bottom: 0.8in;
+}
+
+@page :left {
+    margin-left: 0.6in;
+    margin-right: 0.9in;
+    @bottom-center {
+        content: counter(page);
+        font-family: 'Fredoka', sans-serif;
+        font-size: 11pt;
+        color: #555555;
+    }
+}
+
+@page :right {
+    margin-left: 0.9in;
+    margin-right: 0.6in;
     @bottom-center {
         content: counter(page);
         font-family: 'Fredoka', sans-serif;
@@ -19,12 +36,16 @@ CSS_TEMPLATE = """@import url('https://fonts.googleapis.com/css2?family=Fredoka:
 }
 
 @page :first {
+    margin: 0.8in;
     @bottom-center {
         content: none;
     }
 }
 
-@page :nth(2) {
+/* Página especial para preliminares (Portada interior, Derechos y Pertenencia) */
+@page page_preliminares {
+    size: 8.5in 11in;
+    margin: 0.8in;
     @bottom-center {
         content: none;
     }
@@ -32,6 +53,15 @@ CSS_TEMPLATE = """@import url('https://fonts.googleapis.com/css2?family=Fredoka:
 
 /* Página especial para portadillas artísticas de capítulo a sangre completa (full bleed) */
 @page page_portada_capitulo {
+    size: 8.5in 11in;
+    margin: 0;
+    @bottom-center {
+        content: none;
+    }
+}
+
+/* Página especial para ilustraciones de escena a sangre completa */
+@page page_ilustracion_full {
     size: 8.5in 11in;
     margin: 0;
     @bottom-center {
@@ -53,24 +83,25 @@ body {
     box-sizing: border-box;
     position: relative;
     height: 9.4in; /* Altura útil con márgenes */
+    width: 100%;
     overflow: hidden;
-    display: flex;
-    flex-direction: column;
+    display: block;
 }
 
 /* Portada Interior */
 .portada-interior {
+    page: page_preliminares;
     text-align: center;
-    padding-top: 1.2in;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    padding-top: 1.0in;
     height: 9.4in;
+    width: 100%;
     box-sizing: border-box;
+    display: block;
 }
 
 .portada-interior-title-area {
     margin-top: 0.5in;
+    margin-bottom: 0.5in;
 }
 
 .portada-interior h1 {
@@ -95,15 +126,18 @@ body {
     font-size: 13pt;
     color: #555555;
     line-height: 1.8;
-    margin-bottom: 1.5in;
+    margin-top: 1.0in;
 }
 
 /* Derechos de Autor */
 .derechos {
+    page: page_preliminares;
     font-size: 11pt;
     color: #333333;
     padding-top: 0.4in;
     line-height: 1.6;
+    display: block;
+    width: 100%;
 }
 
 .derechos h3, .derechos p {
@@ -147,14 +181,19 @@ body {
     line-height: 1.3;
 }
 
-/* Página de Lectura Estándar */
+/* Página de Lectura Estándar (Centrado vertical estable en Weasyprint) */
 .lectura-container {
-    flex-grow: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    display: table;
+    width: 100%;
+    height: 8.0in; /* Ocupa la mayor parte del espacio útil */
     box-sizing: border-box;
-    padding: 0.2in 0.4in;
+}
+
+.lectura-texto-wrapper {
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .page-title {
@@ -243,19 +282,60 @@ body {
     line-height: 1.4;
 }
 
-/* Ajustes especiales para que las imágenes tengan prioridad de página */
-.page-image-only {
-    padding: 0;
+/* Páginas Especiales de Ilustraciones (A Sangre Completa) */
+.page-image-color {
+    page: page_ilustracion_full;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 11.0in;
+    width: 8.5in;
+    page-break-after: always;
+    box-sizing: border-box;
+}
+
+.page-image-colorear {
+    page: page_ilustracion_full;
+    height: 11.0in;
+    width: 8.5in;
+    background-color: #ffffff;
+    position: relative;
+    page-break-after: always;
+    box-sizing: border-box;
+}
+
+.colorear-container {
+    position: absolute;
+    top: 0.8in;
+    bottom: 1.1in;
+    left: 0.8in;
+    right: 0.8in;
+    display: flex;
+    align-items: center;
     justify-content: center;
+    box-sizing: border-box;
 }
 
-.page-image-only .image-container {
-    margin-top: 0;
-}
-
-.page-image-only img {
-    max-height: 7.8in; /* Más grandes si no hay texto */
+.colorear-container img {
     max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border: none;
+    background: transparent;
+    box-shadow: none;
+}
+
+.colorear-caption {
+    position: absolute;
+    bottom: 0.6in;
+    left: 0.8in;
+    right: 0.8in;
+    text-align: center;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 11.5pt;
+    color: #4a4a4a;
+    font-weight: 600;
+    letter-spacing: 0.5px;
 }
 
 h1, h2, h3 {
@@ -920,14 +1000,26 @@ def parse_markdown_to_html(md_content, base_dir):
                 
                 # Si tiene poco texto y una imagen grande, le damos la clase para imagen
                 if len(clean_content.strip()) < 100:
-                    html_out.append(f"""
-                    <div class="{page_class} page-image-only">
-                        <div class="image-container">
-                            <img src="{resolved_img_path}" alt="{img_caption}">
-                            <div class="image-caption">{img_caption}</div>
+                    # Determinar si la página de ilustración es a color o para colorear
+                    es_color = "color" in img_path.lower() or "ilustrada" in page_title.lower() or "bienvenida" in page_title.lower()
+                    
+                    if es_color:
+                        # Ilustración a color a sangre completa (background cover)
+                        html_out.append(f"""
+                        <div class="{page_class} page-image-color" style="background-image: url('{resolved_img_path}');">
+                            <!-- Ilustración a color a sangre completa -->
                         </div>
-                    </div>
-                    """)
+                        """)
+                    else:
+                        # Ilustración de colorear con fondo blanco y márgenes seguros
+                        html_out.append(f"""
+                        <div class="{page_class} page-image-colorear">
+                            <div class="colorear-container">
+                                <img src="{resolved_img_path}" alt="{img_caption}">
+                            </div>
+                            <div class="colorear-caption">{img_caption}</div>
+                        </div>
+                        """)
                 else:
                     html_out.append(f"""
                     <div class="{page_class}">
@@ -947,14 +1039,12 @@ def parse_markdown_to_html(md_content, base_dir):
                 <div class="{page_class}">
                     <div class="page-title">{page_title}</div>
                     <div class="lectura-container">
-                        <div class="lectura-texto">{clean_content}</div>
+                        <div class="lectura-texto-wrapper">
+                            <div class="lectura-texto">{clean_content}</div>
+                        </div>
                     </div>
                 </div>
                 """)
-                
-    html_out.append("</body></html>")
-    return "\n".join(html_out)
-
                 
     html_out.append("</body></html>")
     return "\n".join(html_out)
