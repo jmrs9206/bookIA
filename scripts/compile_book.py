@@ -179,6 +179,17 @@ body {
 .page-image-only img {
     max-height: 7.5in; /* Más grandes si no hay texto */
 }
+
+h1, h2, h3 {
+    font-family: 'Fredoka', sans-serif;
+    text-align: center;
+    color: #222222;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1 { font-size: 24pt; }
+h2 { font-size: 18pt; }
+h3 { font-size: 14pt; }
 """
 
 def parse_markdown_to_html(md_content, base_dir):
@@ -300,6 +311,11 @@ def parse_markdown_to_html(md_content, base_dir):
 def format_body_text(text):
     # Normalizar retornos de carro
     text = text.replace('\r\n', '\n')
+    
+    # Formatear encabezados markdown antes de separar líneas
+    text = re.sub(r'^#\s+(.*?)$', r'<h1>\1</h1>', text, flags=re.MULTILINE)
+    text = re.sub(r'^##\s+(.*?)$', r'<h2>\1</h2>', text, flags=re.MULTILINE)
+    text = re.sub(r'^###\s+(.*?)$', r'<h3>\1</h3>', text, flags=re.MULTILINE)
     
     lines = text.split('\n')
     new_lines = []

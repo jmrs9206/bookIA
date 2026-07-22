@@ -2,7 +2,19 @@
 
 ---
 
-## [PÁGINA 1: PORTADA INTERIOR]
+## [PÁGINA 1: PORTADILLA DE PERTENENCIA]
+
+# LAS AVENTURAS DE NICO Y LUNA
+
+### **Este libro pertenece a:**
+
+__________________________________________________
+
+*¡Que tu viaje esté lleno de colores y fantasía!*
+
+---
+
+## [PÁGINA 2: PORTADA INTERIOR]
 
 # LAS AVENTURAS DE NICO Y LUNA
 ## Viaje al Espacio
@@ -13,7 +25,7 @@
 
 ---
 
-## [PÁGINA 2: DERECHOS DE AUTOR Y NOTA EDITORIAL]
+## [PÁGINA 3: DERECHOS DE AUTOR Y NOTA EDITORIAL]
 
 **Las Aventuras de Nico y Luna: Viaje al Espacio**  
 © 2026 Julio Martín Rodríguez Sánchez. Todos los derechos reservados.
@@ -39,6 +51,8 @@ Nico, Luna y Copito están de vuelta con una nueva aventura fascinante:
 
 > **Instrucción de Coloreado:**  
 > Pinta el cohete con tus colores preferidos, dale brillo a las estrellas y ponle un traje galáctico a Copito.
+
+![¡Preparados para el Despegue!](../images/scene_intro_color.jpg)
 # Capítulo 2: El Despegue Mágico y el Universo Infinito
 
 ---
@@ -75,6 +89,8 @@ Copito flota feliz persiguiendo una galleta canina que vuela suavemente.
 
 > **Texto de Lectura:**  
 > En el espacio sin gravedad, ¡volar es tan fácil como soñar!
+
+![Página Ilustrada 2: Flotando en el Cohete](../images/scene_ingravidez_color.jpg)
 
 ---
 
@@ -133,6 +149,8 @@ En este lugar, las colinas están hechas de vainilla y hay ríos de chocolate su
 
 > **Texto de Lectura:**  
 > —¡Este lugar parece un sueño delicioso! —dice Luna riendo.
+
+![Página Ilustrada 3: El Planeta de los Helados](../images/scene_helados_color.jpg)
 
 ---
 
@@ -205,6 +223,8 @@ Se ve hermosa, redonda y brillante como una canica azul decorada con nubes blanc
 > **Texto de Lectura:**  
 > No hay lugar más lindo en todo el universo que nuestro propio hogar.
 
+![Página Ilustrada 4: La Tierra, nuestro Hogar Azul](../images/scene_tierra_color.jpg)
+
 ---
 
 ## [PÁGINA 18: ESCENA 15 - LA DESPEDIDA GALÁCTICA]
@@ -241,6 +261,8 @@ Parece que la magia del espacio los arropa con su calidez.
 > **Texto de Lectura:**  
 > Los recuerdos de los buenos amigos siempre iluminan la noche.
 
+![Página Ilustrada 5: El Tesoro de las Estrellas](../images/scene_cristal_color.jpg)
+
 ---
 
 ## [PÁGINA 21: ESCENA 18 - CONTANDO LAS ESTRELLAS]
@@ -262,6 +284,8 @@ Saben que mañana les aguarda otra gran aventura.
 
 > **Texto de Lectura:**  
 > Duerme en paz, pequeño explorador. El mundo está lleno de maravillas por descubrir.
+
+![Página Ilustrada 6: Sueños Cósmicos](../images/scene_sueno_color.jpg)
 # Capítulo 6: Actividades y Juegos del Espacio Mágico
 
 ---

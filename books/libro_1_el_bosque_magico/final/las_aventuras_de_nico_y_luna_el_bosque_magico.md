@@ -2,7 +2,19 @@
 
 ---
 
-## [PÁGINA 1: PORTADA INTERIOR]
+## [PÁGINA 1: PORTADILLA DE PERTENENCIA]
+
+# LAS AVENTURAS DE NICO Y LUNA
+
+### **Este libro pertenece a:**
+
+__________________________________________________
+
+*¡Que tu viaje esté lleno de colores y fantasía!*
+
+---
+
+## [PÁGINA 2: PORTADA INTERIOR]
 
 # LAS AVENTURAS DE NICO Y LUNA
 ## El Bosque Mágico
@@ -13,7 +25,7 @@
 
 ---
 
-## [PÁGINA 2: DERECHOS DE AUTOR Y NOTA EDITORIAL]
+## [PÁGINA 3: DERECHOS DE AUTOR Y NOTA EDITORIAL]
 
 **Las Aventuras de Nico y Luna: El Bosque Mágico**  
 © 2026 Julio Martín Rodríguez Sánchez. Todos los derechos reservados.
@@ -42,6 +54,8 @@ Hoy descubriremos un secreto muy especial... ¡Un bosque donde ocurren cosas inc
 > **Instrucción de Coloreado:**  
 > Colorea a Nico con su camiseta preferida, dale color al vestido de Luna y ponle un lazo brillante a Copito.
 
+![¡Conoce a los Protagonistas!](../images/scene_intro_color.jpg)
+
 # Capítulo 2: El Camino al Bosque Mágico
 
 ---
@@ -67,6 +81,8 @@ Al cruzarlo, el aire huele a pino verde y fresas silvestres.
 
 > **Texto de Lectura:**  
 > —¡Bienvenid@s al Bosque Mágico! —susurra Luna con alegría.
+
+![Página Ilustrada 2: El Arco Mágico](../images/scene_arco_color.jpg)
 
 ---
 
@@ -114,6 +130,8 @@ Farolillos de cristal cuelgan de las ramas iluminando el camino.
 
 > **Texto de Lectura:**  
 > El árbol más antiguo del bosque custodia los secretos más hermosos.
+
+![Página Ilustrada 3: El Roble Mágico](../images/scene_roble_color.jpg)
 
 ---
 
@@ -186,6 +204,8 @@ Es el prado cantarín del Bosque Mágico.
 > **Texto de Lectura:**  
 > Las flores gigantes cantan melodías que llenan el aire de alegría.
 
+![Página Ilustrada 4: El Prado Cantarín](../images/scene_prado_color.jpg)
+
 ---
 
 ## [PÁGINA 16: ESCENA 13 - COPITO Y LOS PÉTALOS MÁGICOS]
@@ -245,6 +265,8 @@ El Búho Sabio, los conejitos, las ardillas y los erizos comparten la merienda.
 > **Texto de Lectura:**  
 > ¡Qué merienda tan deliciosa compartida entre verdaderos amigos!
 
+![Página Ilustrada 5: El Picnic del Bosque](../images/scene_picnic_color.jpg)
+
 
 ---
 
@@ -280,6 +302,8 @@ Saben que el mundo está lleno de lugares mágicos por descubrir.
 
 > **Texto de Lectura:**  
 > Buenas noches, Nico. Buenas noches, Luna. ¡Mañana habrá un nuevo viaje!
+
+![Página Ilustrada 6: Dulces Sueños](../images/scene_sueno_color.jpg)
 
 # Capítulo 6: Actividades y Juegos del Bosque Mágico
 
