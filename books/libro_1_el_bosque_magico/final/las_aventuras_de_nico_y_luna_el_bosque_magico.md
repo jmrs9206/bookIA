@@ -8,7 +8,7 @@
 ## El Bosque Mágico
 
 **Colección:** Las Aventuras de Nico y Luna — Libro 1  
-**Escrito e Ilustrado por:** Equipo Editorial bookIA  
+**Escrito e Ilustrado por:** Julio Martín Rodríguez Sánchez  
 **Para pequeños lectores y artistas de 4 a 8 años**
 
 ---
@@ -16,7 +16,7 @@
 ## [PÁGINA 2: DERECHOS DE AUTOR Y NOTA EDITORIAL]
 
 **Las Aventuras de Nico y Luna: El Bosque Mágico**  
-© 2026 Nico & Luna Publishing / KDP Edition. Todos los derechos reservados.
+© 2026 Julio Martín Rodríguez Sánchez. Todos los derechos reservados.
 
 Queda prohibida la reproducción total o parcial de esta obra por cualquier medio sin la autorización escrita del titular de los derechos de autor.
 

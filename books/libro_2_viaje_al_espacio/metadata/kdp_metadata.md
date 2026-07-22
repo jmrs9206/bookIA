@@ -9,7 +9,7 @@
 `Libro de cuento ilustrado para colorear con actividades sobre el espacio para niños de 4 a 8 años (Colección Las Aventuras de Nico y Luna nº 2)`
 
 ### 3. Autor (Author Name)
-`Nico & Luna Publishing`
+`Julio Martín Rodríguez Sánchez`
 
 ### 4. Descripción de Amazon (HTML Enriquecido)
 
