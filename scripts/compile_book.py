@@ -511,8 +511,10 @@ def parse_markdown_to_html(md_content, base_dir):
     html_out.append(f"<style>{CSS_TEMPLATE}</style>")
     html_out.append("</head><body>")
     
-    # Determinar si el libro es de temática espacial o de bosque
+    # Determinar temática del libro
     es_espacio = "viaje_al_espacio" in base_dir.lower() or "espacio" in base_dir.lower()
+    es_dino = "dinosaurios" in base_dir.lower() or "dino" in base_dir.lower()
+    es_bosque = not es_espacio and not es_dino
     
     # Procesar pares de (número_pagina, título_pagina, contenido_pagina)
     idx = 1
@@ -600,20 +602,60 @@ def parse_markdown_to_html(md_content, base_dir):
                 """)
             
         elif "ACTIVIDAD 1" in page_title or "EL LABERINTO" in page_title:
-            # Generar Laberinto SVG interactivo vectorial real
-            entrada_emoji = "🚀" if es_espacio else "🦔"
-            salida_emoji = "🪐" if es_espacio else "🏡"
-            pared_color = "#1d3557" if es_espacio else "#2a9d8f"
-            fondo_color = "#f4f9f9" if es_espacio else "#f4f9f4"
+            # Generar Laberinto SVG interactivo vectorial premium
+            entrada_emoji = "🦖" if es_dino else ("🚀" if es_espacio else "🦔")
+            salida_emoji = "🌋" if es_dino else ("🪐" if es_espacio else "🏡")
+            pared_color = "#2d5a27" if es_dino else ("#1d3557" if es_espacio else "#2a9d8f")
+            fondo_color = "#f3f8f2" if es_dino else ("#f4f7fa" if es_espacio else "#f4fcf9")
+            meta_label = "VOLCÁN" if es_dino else ("PLANETA" if es_espacio else "CASITA")
+            
+            # Elementos decorativos según temática
+            decoraciones_svg = ""
+            if es_dino:
+                decoraciones_svg = """
+                <!-- Hojas y plantas decorativas en esquinas -->
+                <path d="M 25,250 C 15,260 10,280 15,295 C 25,290 30,270 25,250 Z" fill="#d0e5cd" opacity="0.6"/>
+                <path d="M 290,40 C 275,50 270,70 275,85 C 285,80 290,60 290,40 Z" fill="#d0e5cd" opacity="0.6"/>
+                <!-- Huellas de dinosaurio de fondo -->
+                <path d="M 90,90 C 85,90 82,85 82,80 C 82,75 87,72 80,65" stroke="#e0f0df" stroke-width="3" fill="none" opacity="0.7"/>
+                <path d="M 230,210 C 225,210 222,205 222,200" stroke="#e0f0df" stroke-width="3" fill="none" opacity="0.7"/>
+                """
+            elif es_espacio:
+                decoraciones_svg = """
+                <!-- Estrellas y planetas de fondo -->
+                <circle cx="280" cy="80" r="6" fill="#e0e8f5" />
+                <circle cx="60" cy="220" r="4" fill="#e0e8f5" />
+                <polygon points="120,40 123,46 130,46 125,50 127,56 120,52 113,56 115,50 110,46 117,46" fill="#e0e8f5" />
+                """
+            else:
+                decoraciones_svg = """
+                <!-- Flores de fondo -->
+                <circle cx="280" cy="80" r="5" fill="#e2f5f1" />
+                <circle cx="275" cy="85" r="4" fill="#e2f5f1" />
+                <circle cx="285" cy="85" r="4" fill="#e2f5f1" />
+                <circle cx="60" cy="220" r="5" fill="#e2f5f1" />
+                """
             
             svg_laberinto = f"""
             <svg class="actividad-svg" width="310" height="310" viewBox="0 0 340 340">
-                <rect x="10" y="10" width="320" height="320" rx="15" fill="{fondo_color}" stroke="{pared_color}" stroke-width="2" />
-                <!-- Iconos Entrada y Salida -->
-                <text x="35" y="45" font-size="22" text-anchor="middle">{entrada_emoji}</text>
-                <text x="305" y="315" font-size="22" text-anchor="middle">{salida_emoji}</text>
+                <rect x="10" y="10" width="320" height="320" rx="18" fill="{fondo_color}" stroke="{pared_color}" stroke-width="2.5" />
+                
+                {decoraciones_svg}
+                
+                <!-- Cajas de Entrada y Salida con etiquetas -->
+                <g transform="translate(15, 15)">
+                    <rect x="0" y="0" width="50" height="50" rx="8" fill="#ffffff" stroke="{pared_color}" stroke-width="1.5" />
+                    <text x="25" y="28" font-size="20" text-anchor="middle">{entrada_emoji}</text>
+                    <text x="25" y="44" font-size="7pt" font-family="'Fredoka', sans-serif" font-weight="bold" fill="{pared_color}" text-anchor="middle">INICIO</text>
+                </g>
+                <g transform="translate(275, 275)">
+                    <rect x="0" y="0" width="50" height="50" rx="8" fill="#ffffff" stroke="{pared_color}" stroke-width="1.5" />
+                    <text x="25" y="28" font-size="20" text-anchor="middle">{salida_emoji}</text>
+                    <text x="25" y="44" font-size="6pt" font-family="'Fredoka', sans-serif" font-weight="bold" fill="{pared_color}" text-anchor="middle">{meta_label}</text>
+                </g>
+                
                 <!-- Paredes Exteriores -->
-                <path d="M 50,20 L 320,20 L 320,290 M 20,320 L 20,50 M 20,320 L 290,320" stroke="{pared_color}" stroke-width="4" stroke-linecap="round" fill="none" />
+                <path d="M 70,20 L 320,20 L 320,270 M 20,320 L 20,70 M 20,320 L 270,320" stroke="{pared_color}" stroke-width="4.5" stroke-linecap="round" fill="none" />
                 <!-- Paredes Interiores -->
                 <path d="M 50,50 L 80,50 M 110,50 L 170,50 M 20,80 L 50,80 M 80,80 L 110,80 M 140,80 L 200,80 M 230,80 L 260,80 M 290,80 L 320,80
                          M 50,110 L 110,110 M 140,110 L 170,110 M 200,110 L 260,110 M 290,110 L 320,110
@@ -623,7 +665,7 @@ def parse_markdown_to_html(md_content, base_dir):
                          M 20,230 L 80,230 M 110,230 L 170,230 M 200,230 L 260,230 M 290,230 L 320,230
                          M 50,260 L 110,260 M 140,260 L 200,260 M 230,260 L 290,260
                          M 20,290 L 50,290 M 80,290 L 140,290 M 170,290 L 230,290 M 260,290 L 320,290" 
-                       stroke="{pared_color}" stroke-width="3" stroke-linecap="round" fill="none" />
+                       stroke="{pared_color}" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none" />
                 <path d="M 50,20 L 50,50 M 50,80 L 50,140 M 50,170 L 50,230 M 50,260 L 50,290
                          M 80,50 L 80,110 M 80,140 L 80,200 M 80,230 L 80,260 M 80,290 L 80,320
                          M 110,20 L 110,80 M 110,110 L 110,170 M 110,200 L 110,290
@@ -633,7 +675,7 @@ def parse_markdown_to_html(md_content, base_dir):
                          M 230,50 L 230,110 M 230,140 L 230,230 M 230,260 L 230,320
                          M 260,20 L 260,50 M 260,80 L 260,170 M 260,200 L 260,290
                          M 290,50 L 290,140 M 290,170 L 290,260 M 290,290 L 290,320" 
-                       stroke="{pared_color}" stroke-width="3" stroke-linecap="round" fill="none" />
+                       stroke="{pared_color}" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none" />
             </svg>
             """
             
@@ -939,6 +981,58 @@ def parse_markdown_to_html(md_content, base_dir):
                              if "LÁPICES" in page_title else
                              "Prueba la intensidad de tus rotuladores y asegúrate de que no traspase el papel.")
             
+            # Formas SVG personalizadas para las pruebas según la temática
+            if es_dino:
+                # Huella de dinosaurio (zona pequeña)
+                svg_zona = """
+                <svg width="46" height="46" viewBox="0 0 100 100" style="margin: 0 4px; display: inline-block;">
+                    <path d="M 50,85 C 35,85 28,72 28,60 C 28,50 38,45 22,30 C 12,15 32,20 44,35 C 47,40 53,40 56,35 C 68,20 88,15 78,30 C 62,45 72,50 72,60 C 72,72 65,85 50,85 Z" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2.5" />
+                </svg>
+                """
+                # Huevo de dinosaurio grande (zona mezcla)
+                svg_mezcla = """
+                <svg width="220" height="90" viewBox="0 0 220 90" style="display: block; margin: 5px auto 0 auto;">
+                    <rect x="5" y="5" width="210" height="80" rx="10" fill="none" stroke="#cccccc" stroke-width="1.5" stroke-dasharray="2,2" />
+                    <path d="M 60,15 C 45,15 35,35 35,55 C 35,68 45,78 60,78 C 75,78 85,68 85,55 C 85,35 75,15 60,15 Z" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
+                    <path d="M 160,15 C 145,15 135,35 135,55 C 135,68 145,78 160,78 C 175,78 185,68 185,55 C 185,35 175,15 160,15 Z" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
+                </svg>
+                """
+            elif es_espacio:
+                # Estrella (zona pequeña)
+                svg_zona = """
+                <svg width="46" height="46" viewBox="0 0 100 100" style="margin: 0 4px; display: inline-block;">
+                    <polygon points="50,12 63,38 92,38 69,56 78,85 50,68 22,85 31,56 8,38 37,38" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2.5" />
+                </svg>
+                """
+                # Planeta con anillo (zona mezcla)
+                svg_mezcla = """
+                <svg width="220" height="90" viewBox="0 0 220 90" style="display: block; margin: 5px auto 0 auto;">
+                    <rect x="5" y="5" width="210" height="80" rx="10" fill="none" stroke="#cccccc" stroke-width="1.5" stroke-dasharray="2,2" />
+                    <circle cx="110" cy="45" r="24" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
+                    <ellipse cx="110" cy="45" rx="38" ry="8" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" transform="rotate(-15 110 45)" />
+                </svg>
+                """
+            else:
+                # Flor (zona pequeña)
+                svg_zona = """
+                <svg width="46" height="46" viewBox="0 0 100 100" style="margin: 0 4px; display: inline-block;">
+                    <circle cx="50" cy="50" r="8" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
+                    <circle cx="50" cy="30" r="10" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
+                    <circle cx="70" cy="44" r="10" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
+                    <circle cx="62" cy="68" r="10" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
+                    <circle cx="38" cy="68" r="10" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
+                    <circle cx="30" cy="44" r="10" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
+                </svg>
+                """
+                # Seta (zona mezcla)
+                svg_mezcla = """
+                <svg width="220" height="90" viewBox="0 0 220 90" style="display: block; margin: 5px auto 0 auto;">
+                    <rect x="5" y="5" width="210" height="80" rx="10" fill="none" stroke="#cccccc" stroke-width="1.5" stroke-dasharray="2,2" />
+                    <path d="M 70,55 C 70,30 150,30 150,55 C 135,55 130,78 120,78 C 100,78 95,55 70,55 Z" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
+                    <path d="M 103,55 L 103,78 M 117,55 L 117,78" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
+                </svg>
+                """
+            
             html_out.append(f"""
             <div class="{page_class}">
                 <div class="page-title">{page_title}</div>
@@ -949,26 +1043,26 @@ def parse_markdown_to_html(md_content, base_dir):
                     <div class="probador-container">
                         <div class="probador-caja">
                             <h4>Color Suave</h4>
-                            <p style="font-size: 8.5pt; color: #666666; margin: 4px 0;">Pinta con trazos muy suaves.</p>
+                            <p style="font-size: 8.5pt; color: #666666; margin: 3px 0 10px 0;">Pinta con trazos muy suaves.</p>
                             <div class="probador-zonas">
-                                <div class="probador-zona-color"></div>
-                                <div class="probador-zona-color"></div>
+                                {svg_zona}
+                                {svg_zona}
                             </div>
                         </div>
                         
                         <div class="probador-caja">
                             <h4>Color Fuerte</h4>
-                            <p style="font-size: 8.5pt; color: #666666; margin: 4px 0;">Pinta con trazos más fuertes.</p>
+                            <p style="font-size: 8.5pt; color: #666666; margin: 3px 0 10px 0;">Pinta con trazos más fuertes.</p>
                             <div class="probador-zonas">
-                                <div class="probador-zona-color"></div>
-                                <div class="probador-zona-color"></div>
+                                {svg_zona}
+                                {svg_zona}
                             </div>
                         </div>
                         
-                        <div class="probador-caja" style="width: 96%; height: 1.6in;">
+                        <div class="probador-caja" style="width: 93%; height: 1.8in; margin-top: 15px;">
                             <h4>Mezcla y Degradados</h4>
-                            <p style="font-size: 8.5pt; color: #666666; margin: 4px 0;">Prueba a degradar un color o a mezclar dos colores diferentes en esta zona.</p>
-                            <div class="probador-zona-rectangular"></div>
+                            <p style="font-size: 8.5pt; color: #666666; margin: 3px 0 8px 0;">Prueba a degradar un color o a mezclar dos colores diferentes en esta zona.</p>
+                            {svg_mezcla}
                         </div>
                     </div>
                 </div>
