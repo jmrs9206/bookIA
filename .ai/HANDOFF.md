@@ -1,20 +1,20 @@
-# Handoff - bookIA Initialization & Workflow setup
+# Handoff - bookIA Packaging Phase
 
 ## Status
-`NEEDS_APPROVAL` -> `READY_FOR_EXECUTION`
+`IN_PROGRESS` -> `PACKAGING_BOOKS`
 
 ## Summary of actions taken
 
-1. **Framework Integration**: Copied `.agents/` policies, role definitions, workflows, and templates from `orquestadorIA`.
-2. **Project Control Package (`.ai/`)**:
-   - Created `PROJECT_CHARTER.md` with goals, scope, constraints, and success criteria.
-   - Created `PROJECT_CONSTITUTION.md` defining workspace limits and rules.
-   - Created `PROJECT_CONTEXT.md` recording initial state.
-   - Created `REQUIREMENTS.md` and `ACCEPTANCE_CRITERIA.md`.
-   - Created `WORKFLOW_SPEC.md` detailing the 10-step KDP production lifecycle.
-3. **Workflow Documentation**: Updated root `workflow.md` to serve as the master guide for creating books.
+1. **Standardization of Book 1**: Moved all Book 1 files (previously in the root) to `books/libro_1_el_bosque_magico/` using `git mv` to clean up the workspace and maintain a consistent structure.
+2. **Commit of Refactoring**: Committed the restructuring of Book 1.
+3. **Packaging Strategy Plan**: Outlined a strategy for creating high-fidelity PDFs using Weasyprint and EPUBs using Pandoc (see `plan_empaquetado_kdp.md` artifact).
 
 ## Next steps / Active task
 
-- **Fase 1**: Seleccionar el primer libro / nicho a desarrollar (por ejemplo: "IA para principiantes" o "Productividad") y crear la primera carpeta de libro bajo `books/<nicho>/<slug>/`.
-- Ejecutar la investigación de mercado y generación de índice para el primer título.
+- **Fase B (Plan de Empaquetado)**:
+  - Generar el `interior_print.pdf` (8.5" x 11") para el **Libro 1** usando `weasyprint`.
+  - Generar el `interior_ebook.epub` para el **Libro 1** usando `pandoc`.
+  - Generar el `interior_print.pdf` (8.5" x 11") para el **Libro 2** usando `weasyprint`.
+  - Generar el `interior_ebook.epub` para el **Libro 2** usando `pandoc`.
+  - Compilar las portadas impresas en PDF de tamaño calculado.
+
