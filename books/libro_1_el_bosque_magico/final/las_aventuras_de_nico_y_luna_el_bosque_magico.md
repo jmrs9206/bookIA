@@ -42,8 +42,6 @@ Hoy descubriremos un secreto muy especial... ¡Un bosque donde ocurren cosas inc
 > **Instrucción de Coloreado:**  
 > Colorea a Nico con su camiseta preferida, dale color al vestido de Luna y ponle un lazo brillante a Copito.
 
-**[Descripción de la Ilustración para Colorear]:**  
-Nico y Luna saludando sonrientes en el centro de la página con los brazos abiertos. El perrito Copito salta alegremente a su lado. Dibujo de contornos negros gruesos, formas simples y claras sin sombras ni rellenos.
 # Capítulo 2: El Camino al Bosque Mágico
 
 ---
@@ -235,8 +233,6 @@ Luego mira a Nico y Luna con una sonrisa llena de gratitud.
 > **Texto de Lectura:**  
 > La amabilidad siempre llena el corazón de calor y felicidad.
 
-**[Prompt de Ilustración para Colorear - Pág. 19]:**  
-Mamá Erizo abrazando al pequeño erizo frente a su casita. Nico y Luna tomados de la mano mirando la tierna escena. Copito descansando contento en el césped. Dibujo dulce, expresivo y con trazos limpios.
 
 ---
 
@@ -249,8 +245,6 @@ El Búho Sabio, los conejitos, las ardillas y los erizos comparten la merienda.
 > **Texto de Lectura:**  
 > ¡Qué merienda tan deliciosa compartida entre verdaderos amigos!
 
-**[Prompt de Ilustración para Colorear - Pág. 20]:**  
-Nico, Luna y todos los animales del bosque (búho, erizos, ardillas, conejos) sentados en círculo en un picnic con canastas y frutas variadas. Muchas formas sencillas para colorear.
 
 ---
 
@@ -263,8 +257,6 @@ Es momento de volver a casa antes de que salgan las primeras estrellas.
 > **Texto de Lectura:**  
 > El bosque se despide con un cielo brillante lleno de magia.
 
-**[Prompt de Ilustración para Colorear - Pág. 21]:**  
-Paisaje de colinas con árboles al atardecer, un gran sol ocultándose en el horizonte y nubes esponjosas con siluetas de pájaros volando hacia su nido. Nico y Luna caminando de regreso tomados de la mano.
 
 ---
 
@@ -277,8 +269,6 @@ Nico y Luna les prometen regresar muy pronto para vivir nuevas aventuras.
 > **Texto de Lectura:**  
 > —¡Hasta muy pronto, amigos del Bosque Mágico! —se despiden alegremente.
 
-**[Prompt de Ilustración para Colorear - Pág. 22]:**  
-Nico, Luna y Copito despidiéndose desde el arco mágico agitando las manos. Al fondo, las siluetas simpáticas del búho, los erizos y las ardillas saludando.
 
 ---
 
@@ -291,8 +281,6 @@ Saben que el mundo está lleno de lugares mágicos por descubrir.
 > **Texto de Lectura:**  
 > Buenas noches, Nico. Buenas noches, Luna. ¡Mañana habrá un nuevo viaje!
 
-**[Prompt de Ilustración para Colorear - Pág. 23]:**  
-Habitación infantil acogedora con dos camitas. Nico en una y Luna en otra arropados sonriendo mientras duermen. Copito dormido al pie de la cama. Estrellitas y una luna sonriente asomada por la ventana.
 # Capítulo 6: Actividades y Juegos del Bosque Mágico
 
 ---
@@ -303,8 +291,6 @@ Habitación infantil acogedora con dos camitas. Nico en una y Luna en otra arrop
 
 Recorre con tu lápiz el camino correcto evitando los caminos sin salida.
 
-**[Diseño Visual de la Ilustración / Actividad]:**  
-Laberinto sencillo en forma de sendero forestal. Entrada con Nico y Luna arriba a la izquierda. Salida abajo a la derecha con la casita del erizo. Obstáculos bonitos (charco con ranita, setas gigantes, matorral de espinas) en los caminos incorrectos. Líneas gruesas y claras para niños de 4-8 años.
 
 ---
 
@@ -320,8 +306,6 @@ Observa las dos escenas del pequeño erizo comiendo moras. ¿Puedes encontrar lo
 - [ ] 4. La forma del sombrero de la seta.
 - [ ] 5. La manzana en la cesta.
 
-**[Diseño Visual de la Ilustración / Actividad]:**  
-Dos dibujos lineales idénticos lado a lado del erizito en el picnic, excepto por los 5 detalles modificados en el panel derecho. Ideal para pintar y desarrollar concentración.
 
 ---
 
@@ -334,8 +318,6 @@ Une los números en orden y luego... ¡coloréalo como más te guste!
 
 `1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18 - 19 - 20`
 
-**[Diseño Visual de la Ilustración / Actividad]:**  
-Dibujo con la silueta exterior del Búho Sabio posado en una rama, donde la parte superior de las alas y la cabeza son puntos numerados del 1 al 20 fáciles de unir.
 
 ---
 
@@ -348,8 +330,6 @@ En este espacio en blanco, utiliza tu imaginación para dibujar un animal o flor
 **¿Cómo se llama tu criatura?**: ______________________________________  
 **¿Qué poder mágico tiene?**: ________________________________________
 
-**[Diseño Visual de la Ilustración / Actividad]:**  
-Marco decorativo bonito hecho de ramas, hojas y flores con un amplio espacio en blanco al centro para dibujar.
 # Capítulo 7: Próxima Aventura, Probador de Color y Soluciones
 
 ---
@@ -366,8 +346,6 @@ Conocerán planetas sonrientes, robots simpáticos y a un alegre alienígena que
 
 > **¡Consigue el Libro 2 de la colección en Amazon KDP!**
 
-**[Ilustración de Muestra para Colorear - Pág. 28]:**  
-Nico y Luna vestidos con cascos de astronauta dentro de un cohete espacial sonriente despegando entre estrellas grandes y un planeta con anillos. Contornos gruesos para colorear.
 
 ---
 

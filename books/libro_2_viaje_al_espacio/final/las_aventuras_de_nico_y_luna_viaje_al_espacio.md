@@ -272,9 +272,6 @@ Saben que mañana les aguarda otra gran aventura.
 
 Recorre el camino espacial esquivando los agujeros negros y los cometas traviesos.
 
-**[Diseño Visual de la Actividad]:**  
-Laberinto sencillo en forma de mapa estelar. Entrada con el cohete arriba a la izquierda. Salida abajo a la derecha con el planeta de los helados y el alien Bip-Bip.
-
 ---
 
 ## [PÁGINA 25: ACTIVIDAD 2 - BUSCA LAS 5 DIFERENCIAS]
