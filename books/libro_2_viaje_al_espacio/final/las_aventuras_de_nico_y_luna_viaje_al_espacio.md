@@ -181,7 +181,7 @@ Es el Robot Tuerca, el mecánico espacial más alegre de la galaxia.
 ## [PÁGINA 20: ESCENA 7 - EL MOTOR DE BURBUJAS]
 
 El Robot Tuerca les enseña cómo funciona su nave espacial.  
-Su motor no usa combustible ruidoso, ¡sino burbujas de jabón cósmicas multicolor!  
+Su motor no usa combustible ruidoso, ¡sino burbujas cósmicas de jabón multicolor!  
 Nico le ayuda a apretar una tuerca dorada con su llave inglesa de juguete.
 
 > **Texto de Lectura:**  
@@ -290,7 +290,7 @@ El cohete esquiva suavemente a los asteroides mientras estos les dicen adiós co
 
 ## [PÁGINA 33: ESCENA 13 - EL TOBOGÁN DEL ARCO ÍRIS CÓSMICO]
 
-De pronto, un haz de luz de arco íris se despliega frente a la nave.  
+De pronto, un haz de luz de arcoíris se despliega frente a la nave.  
 El cohete se desliza como en un divertido tobogán de agua a través de bandas de rojo, amarillo y azul.  
 Copito ladra de felicidad mientras todos ríen a carcajadas.
 
@@ -350,7 +350,7 @@ Bip-Bip les regala un pequeño cristal brillante como recuerdo.
 ## [PÁGINA 40: ESCENA 16 - ATERRIZAJE ENTRE LAS FLORES]
 
 El cohete desciende suavemente atravesando las últimas nubes del atardecer.  
-Aterriza con un liguerísimo *¡plop!* justo sobre el césped mullido del jardín.  
+Aterriza con un ligerísimo *¡plop!* justo sobre el césped mullido del jardín.  
 Copito salta el primero y se reboza en la hierba fresca.
 
 > **Texto de Lectura:**  

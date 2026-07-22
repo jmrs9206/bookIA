@@ -75,14 +75,23 @@ body {{
 
 /* Se elimina .back-content ya que usamos posicionamiento absoluto en sus hijos */
 
-.back-header {{
+.back-container {{
     position: absolute;
     top: 0.8in;
-    left: 0.925in; /* Alineado por sangría */
-    right: 0.8in;
-    text-align: center;
+    bottom: 0.8in;
+    left: 0.925in; /* 0.8in + 0.125in de sangría izquierda */
+    right: 0.8in; /* Margen seguro con el lomo */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-sizing: border-box;
+}}
+
+.back-header {{
     border-bottom: 3px double {border_color};
-    padding-bottom: 10px;
+    padding-bottom: 12px;
+    text-align: center;
+    margin-bottom: 15px;
 }}
 
 .back-header h2 {{
@@ -91,15 +100,12 @@ body {{
     color: {accent_color};
     margin: 0;
     text-transform: uppercase;
+    letter-spacing: 1px;
 }}
 
 .sinopsis {{
-    position: absolute;
-    top: 1.8in;
-    left: 0.925in;
-    right: 0.8in;
-    font-size: 11.5pt;
-    line-height: 1.5;
+    font-size: 11pt;
+    line-height: 1.6;
     color: {text_color};
     text-align: justify;
     margin: 0;
@@ -107,13 +113,11 @@ body {{
 }}
 
 .specs {{
-    position: absolute;
-    bottom: 2.3in;
-    left: 0.925in;
-    right: 0.8in;
     display: flex;
     justify-content: center;
-    gap: 8px;
+    gap: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }}
 
 .tag {{
@@ -121,41 +125,45 @@ body {{
     border: 1px solid {border_color};
     border-radius: 20px;
     padding: 6px 14px;
-    font-size: 10pt;
+    font-size: 9.5pt;
     font-weight: bold;
     color: {accent_color};
     text-transform: uppercase;
 }}
 
 .barcode-area {{
-    position: absolute;
-    bottom: 0.8in;
-    left: 0.925in;
-    right: 0.8in;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
     border-top: 1px solid {border_color};
     padding-top: 15px;
+    width: 100%;
 }}
 
 .barcode-box {{
     width: 2.0in;
     height: 1.2in;
     background-color: #ffffff;
-    border: 1px solid #999999;
+    border: 1px dashed #999999;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-size: 9pt;
+    font-size: 8pt;
     color: #666666;
     font-weight: bold;
+    box-sizing: border-box;
+    padding: 5px;
+    text-align: center;
 }}
 
 .isbn-label {{
-    font-size: 10pt;
+    font-size: 9.5pt;
     color: {text_color};
     font-style: italic;
+    text-align: left;
+    max-width: 3.5in;
+    line-height: 1.4;
 }}
 
 /* Lomo (Spine) - Centro */
@@ -175,7 +183,7 @@ body {{
     transform-origin: center;
     white-space: nowrap;
     font-family: 'Fredoka', sans-serif;
-    font-size: 8pt;
+    font-size: 7.5pt; /* Reducido ligeramente para seguridad de pliegue KDP */
     font-weight: 600;
     letter-spacing: 1px;
     color: {accent_color};
@@ -302,21 +310,30 @@ def main():
     <div class="cover-wrapper">
         <!-- Contraportada -->
         <div class="back-cover">
-            <div class="back-header">
-                <h2>Colección Nico y Luna</h2>
-            </div>
-            
-            <p class="sinopsis">{info['sinopsis']}</p>
-            
-            <div class="specs">
-                <span class="tag">Lectura A Color</span>
-                <span class="tag">10 Láminas de Pintar</span>
-                <span class="tag">Juegos y Actividades</span>
-            </div>
-            
-            <div class="barcode-area">
-                <div class="barcode-box">CÓDIGO DE BARRAS<br>(KDP Barcode Area)</div>
-                <div class="isbn-label">Libro {info['num']} de la Colección</div>
+            <div class="back-container">
+                <div class="back-header">
+                    <h2>Colección Nico y Luna</h2>
+                </div>
+                
+                <p class="sinopsis">{info['sinopsis']}</p>
+                
+                <div class="specs">
+                    <span class="tag">Lectura A Color</span>
+                    <span class="tag">10 Láminas de Pintar</span>
+                    <span class="tag">Juegos y Actividades</span>
+                </div>
+                
+                <div class="barcode-area">
+                    <div class="isbn-label">
+                        Colección Nico y Luna<br>
+                        Libro {info['num']} de la Colección<br>
+                        Edición Especial Impresa
+                    </div>
+                    <div class="barcode-box">
+                        CÓDIGO BARRAS KDP<br>
+                        <span style="font-size: 6.5pt; font-weight: normal; color: #999999; margin-top: 4px; display: inline-block;">(Espacio reservado 2"x1.2")</span>
+                    </div>
+                </div>
             </div>
         </div>
         

@@ -87,12 +87,12 @@ Copito rasca la tierra cerca del gran rosal y encuentra una pista sorprendente.
 
 ## [PÁGINA 9: ESCENA 2 - EL ARCO DE RAMAS VERDES]
 
-Siguiendo el mapa, los three amigos llegan al final del jardín.  
+Siguiendo el mapa, los tres amigos llegan al final del jardín.  
 Allí descubren un arco mágico formado por ramas entrelazadas y hojas brillantes.  
 Al cruzarlo, el aire huele a pino verde y fresas silvestres.
 
 > **Texto de Lectura:**  
-> —¡Bienvenid@s al Bosque Mágico! —susurra Luna con alegría.
+> —¡Bienvenidos al Bosque Mágico! —susurra Luna con alegría.
 
 ---
 
@@ -181,7 +181,7 @@ Farolillos de cristal cuelgan de las ramas iluminando el camino.
 ## [PÁGINA 20: ESCENA 7 - EL BÚHO SABIO CON GAFAS]
 
 Desde la ventana del roble se asoma un viejo búho de plumas suaves.  
-Llevan puestas unas enormes gafas redondas y un librito bajo la ala.  
+Lleva puestas unas enormes gafas redondas y un librito bajo el ala.  
 Es el Búho Sabio, el guardián del conocimiento del bosque.
 
 > **Texto de Lectura:**  
@@ -215,7 +215,7 @@ Nico y Luna asienten con entusiasmo y prometen estar siempre listos para ayudar.
 ## [PÁGINA 24: ESCENA 9 - EL PEQUEÑO ERIZO EN APUROS]
 
 Al alejarse del gran roble, escuchan un suave sollozo bajo unas hojas secas.  
-Al retirar el follaje, descubren a un pequeño erizito de púas suaves.  
+Al retirar el follaje, descubren a un pequeño ericito de púas suaves.  
 Tiene una lágrima en su mejilla porque no encuentra el camino de regreso a su casita.
 
 > **Texto de Lectura:**  
@@ -231,7 +231,7 @@ Tiene una lágrima en su mejilla porque no encuentra el camino de regreso a su c
 
 ## [PÁGINA 26: ESCENA 10 - LA PROMESA DE NICO Y LUNA]
 
-Luna se agacha con ternura y le acaricia el hociquito al erizito.  
+Luna se agacha con ternura y le acaricia el hociquito al ericito.  
 —No llores, pequeño amigo. ¡Nico y yo te acompañaremos hasta tu casa!  
 El erizo se alegra tanto que da un salto y sonríe de oreja a oreja.
 
@@ -308,7 +308,7 @@ Todos se ríen al ver las travesuras del pequeño perrito blanco.
 ## [PÁGINA 35: ESCENA 14 - LOS CONEJITOS GUÍAS]
 
 Tres simpáticos conejitos de largas orejas salen al paso desde un matorral.  
-Al ver al pequeño erizito, mueven los bigotes con alegría y señalan hacia la colina.  
+Al ver al pequeño ericito, mueven los bigotes con alegría y señalan hacia la colina.  
 —¡La casita de troncos está justo detrás de aquel gran pino! —avisan los conejos.
 
 > **Texto de Lectura:**  
@@ -325,11 +325,11 @@ Al ver al pequeño erizito, mueven los bigotes con alegría y señalan hacia la 
 ## [PÁGINA 37: ESCENA 15 - LA CASITA DE TRONCOS Y MUSGO]
 
 Al subir la colina, contemplan una acogedora casita hecha de tronquitos redondos.  
-Tiene un tejado cubierto de suave musgo verde y un chimenea de piedras pequeñas de la que sale humo en forma de corazones.  
+Tiene un tejado cubierto de suave musgo verde y una chimenea de piedras pequeñas de la que sale humo en forma de corazones.  
 ¡Es la hermosa casita del erizo!
 
 > **Texto de Lectura:**  
-> —¡Hemos llegado a mi hogar! —exclama el erizito saltando de júbilo.
+> —¡Hemos llegado a mi hogar! —exclama el ericito saltando de júbilo.
 
 ---
 
