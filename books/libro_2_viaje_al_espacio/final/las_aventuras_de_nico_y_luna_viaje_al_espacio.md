@@ -70,12 +70,12 @@ Nico, Luna y Copito están de vuelta con una nueva aventura fascinante:
 
 ## [PÁGINA 7: ESCENA 1 - CONSTRUYENDO EL COHETE]
 
-En una tarde soleada, Nico y Luna transforman una gran caja de cartón en un flamante cohete.  
-Le dibujan botones de colores, una gran ventana redonda y alas para volar alto.  
-Copito mueve la cola ansioso por subir a bordo.
+En el cálido y soleado jardín, Nico y Luna trabajan entusiasmados transformando una enorme caja de cartón en un flamante cohete interestelar. Con rotuladores brillantes, dibujan una gran escotilla redonda, alas aerodinámicas y un panel repleto de botones de colores listos para ser pulsados. Copito, el pequeño perrito blanco, corretea alrededor moviendo la cola y ladrando de alegría con su escafandra transparente de juguete ya puesta, ansioso por iniciar el viaje galáctico.
+
+La nave está casi lista para surcar el firmamento infinito. Nico ajusta el timón de madera mientras Luna coloca las últimas pegatinas de estrellas luminiscentes.
 
 > **Texto de Lectura:**  
-> —¡Con imaginación y trabajo en equipo, todo es posible! —exclama Nico.
+> —¡Con imaginación y trabajo en equipo, todo es posible! ¿Estás listo para el despegue, Copito? —pregunta Nico sonriendo.
 
 ---
 
@@ -87,12 +87,12 @@ Copito mueve la cola ansioso por subir a bordo.
 
 ## [PÁGINA 9: ESCENA 2 - ¡DESPEGUE HACIA LAS ESTRELLAS!]
 
-De repente, una chispa de magia hace que el cohete comience a flotar suavemente.  
-Cinco, cuatro, tres, dos, uno... ¡DESPEGUE!  
-El cohete atraviesa las nubes esponjosas elevándose hacia el brillante cielo nocturno.
+De repente, una misteriosa chispa de polvo cósmico y magia hace que el cohete de cartón comience a vibrar y a flotar suavemente sobre el césped. Los motores imaginarios rugen con un suave sonido musical de burbujas. Nico y Luna se sujetan fuerte mientras Copito ladra entusiasmado al ver que se elevan. ¡Cinco, cuatro, tres, dos, uno... DESPEGUE!
+
+La nave atraviesa a toda velocidad una capa de nubes blancas y esponjosas, dejando atrás la Tierra para adentrarse en el inmenso cielo estrellado. A través de la ventana redonda, el vecindario entero se reduce a pequeños puntos luminosos.
 
 > **Texto de Lectura:**  
-> —¡Mirad, el jardín se ve pequeñito desde arriba! —grita Luna emocionada.
+> —¡Mirad, el jardín se ve pequeñito y las casas parecen de juguete! —grita Luna muy emocionada.
 
 ---
 
@@ -104,12 +104,12 @@ El cohete atraviesa las nubes esponjosas elevándose hacia el brillante cielo no
 
 ## [PÁGINA 11: ESCENA 3 - FLOTANDO EN INGRAVIDEZ]
 
-Al salir de la atmósfera, de repente sus pies se separan del suelo de la cabina.  
-¡Están flotando en ingravidez! Nico da volteretas en el aire mientras Luna ríe.  
-Copito flota feliz persiguiendo una galleta canina que vuela suavemente.
+Al cruzar la frontera de la atmósfera terrestre, una sensación maravillosa inunda el cohete. De repente, ¡los pies de Nico y Luna se separan del suelo! Se encuentran flotando en el aire de la cabina, ligeros como plumas en una danza mágica. Nico se impulsa y da divertidas volteretas en el aire, mientras su hermana Luna ríe a carcajadas e intenta atrapar su lápiz flotante que da giros perezosos.
+
+Copito flota panza arriba, agitando sus patitas y persiguiendo con mucho salero una deliciosa galleta canina que viaja en el aire como un pequeño satélite.
 
 > **Texto de Lectura:**  
-> En el espacio sin gravedad, ¡volar es tan fácil como soñar!
+> —¡Miradme, soy un superhéroe espacial! En la ingravidez, ¡volar es tan fácil como soñar! —exclama Nico.
 
 ---
 
@@ -121,12 +121,12 @@ Copito flota feliz persiguiendo una galleta canina que vuela suavemente.
 
 ## [PÁGINA 13: ESCENA 4 - SALUDANDO A LA LUNA SONRIENTE]
 
-El cohete se aproxima a una enorme Luna plateada que sonríe amablemente.  
-Sus cráteres parecen hoyuelos felices y saluda a los niños guiñándoles un ojo.  
-Los tres viajeros agitan sus manos desde la ventana de su nave.
+La nave se desliza por el oscuro océano cósmico y se aproxima a una enorme Luna plateada que brilla con una luz muy dulce. Al acercarse, descubren con asombro que la Luna tiene una cara bondadosa; sus cráteres redondos forman unos hoyuelos simpáticos y sus cejas de polvo estelar se curvan con ternura. Con un guiño juguetón de su ojo brillante, saluda a los pequeños exploradores espaciales.
+
+Nico, Luna y Copito se asoman a la gran ventana de su cohete de cartón para devolver el saludo agitando con entusiasmo sus manos y patitas.
 
 > **Texto de Lectura:**  
-> —¡Buenas noches, señora Luna! —saludan Nico, Luna y Copito.
+> —¡Buenas noches, señora Luna! ¿Nos concede permiso para explorar su hermoso cielo? —pregunta Luna sonriendo.
 
 ---
 
@@ -138,12 +138,12 @@ Los tres viajeros agitan sus manos desde la ventana de su nave.
 
 ## [PÁGINA 15: ESCENA 5 - SATURNO Y SUS ANILLOS BRILLANTES]
 
-Más adelante divisan al majestuoso planeta Saturno rodeado de gigantescos anillos de luz.  
-Los anillos parecen una gran pista de carreras de colores flotantes.  
-Un pequeño cometa pasa veloz dejando una cauda brillante de polvo de estrellas.
+Guiando su cohete hacia los confines de la galaxia, divisan al imponente planeta Saturno, rodeado de gigantescos y centelleantes anillos de luz multicolor. Los anillos giran majestuosos y parecen una fabulosa pista de carreras espacial donde compiten destellos dorados, rosas y azules. Justo en ese instante, un pequeño cometa de hielo cruza veloz, dejando atrás una estela brillante de purpurina plateada y polvo de estrellas mágicas.
+
+Nico y Luna contemplan maravillados el espectáculo celeste, sintiéndose parte de un cuadro pintado con la luz de mil soles.
 
 > **Texto de Lectura:**  
-> El universo guarda los colores más espectaculares del mundo.
+> —¡Es precioso! El universo guarda los colores más espectaculares. ¡Mira esa estela brillante, Copito! —exclama Nico emocionado.
 
 ---
 
@@ -163,12 +163,12 @@ Un pequeño cometa pasa veloz dejando una cauda brillante de polvo de estrellas.
 
 ## [PÁGINA 18: ESCENA 6 - EL SIMPÁTICO ROBOT TUERCA]
 
-Junto a una estación espacial flotante, una pequeña nave dorada les abre paso.  
-De ella se asoma un simpático robot metálico con ojos redondos y antenas parabólicas.  
-Es el Robot Tuerca, el mecánico espacial más alegre de la galaxia.
+Cerca de una gran estación espacial flotante que brilla bajo la luz de las constelaciones, una pequeña y reluciente nave dorada se acerca despacio. De su escotilla superior se asoma un entrañable robot metálico, con ojos grandes y redondos que parpadean con luces azules y dos antenas parabólicas sobre su cabeza que giran sin parar. Es el Robot Tuerca, el mecánico espacial más alegre y hábil de toda la galaxia.
+
+El robot los saluda alzando su brazo metálico y haciendo sonar una divertida melodía de engranajes.
 
 > **Texto de Lectura:**  
-> —¡Bip, bop! ¡Bienvenidos a la estación de las estrellas! —saluda el Robot Tuerca.
+> —¡Bip, bop, bup! ¡Bienvenidos a la estación de las estrellas! ¿En qué puedo ayudar a vuestro cohete? —saluda el Robot Tuerca.
 
 ---
 
@@ -180,12 +180,12 @@ Es el Robot Tuerca, el mecánico espacial más alegre de la galaxia.
 
 ## [PÁGINA 20: ESCENA 7 - EL MOTOR DE BURBUJAS]
 
-El Robot Tuerca les enseña cómo funciona su nave espacial.  
-Su motor no usa combustible ruidoso, ¡sino burbujas cósmicas de jabón multicolor!  
-Nico le ayuda a apretar una tuerca dorada con su llave inglesa de juguete.
+Con gran orgullo, el simpático Robot Tuerca invita a los niños a mirar la parte trasera de su nave dorada para mostrarles su asombroso motor. Para sorpresa de todos, ¡este motor no utiliza combustible ruidoso ni echa humo oscuro! Funciona gracias a una mágica mezcla de burbujas cósmicas de jabón multicolor que impulsan la nave con divertidos estallidos de colores. Nico, muy entusiasmado, ayuda al robot a ajustar un tornillo usando su llave inglesa de juguete.
+
+Copito intenta atrapar las burbujas que escapan flotando y brillando en el vacío del espacio interestelar.
 
 > **Texto de Lectura:**  
-> La energía limpia y divertida mantiene limpia toda la galaxia.
+> —¡Bip! La energía limpia y divertida mantiene hermosa toda la galaxia —dice el Robot Tuerca.
 
 ---
 
@@ -197,12 +197,12 @@ Nico le ayuda a apretar una tuerca dorada con su llave inglesa de juguete.
 
 ## [PÁGINA 22: ESCENA 8 - EL PLANETA DE LOS HELADOS FLOTANTES]
 
-Guiados por el Robot Tuerca, llegan a un planeta muy especial habitado por diminutas nubes de colores.  
-En este lugar, las colinas están hechas de vainilla y hay ríos de chocolate suave.  
-¡Es el planeta de los postres espaciales!
+Siguiendo la estela dorada del Robot Tuerca, el cohete llega a un planeta extraordinario cubierto por una atmósfera perfumada. Está habitado por diminutas nubes esponjosas de colores pastel que flotan perezosas. Al descender, los amigos no pueden creer lo que ven sus ojos: las colinas están moldeadas con cremosa vainilla, las rocas son de caramelo crujiente y por los valles discurren ríos templados de chocolate suave.
+
+¡Es el planeta de los postres espaciales! Un auténtico paraíso de fantasía y sabor donde todo es dulce y comestible.
 
 > **Texto de Lectura:**  
-> —¡Este lugar parece un sueño delicioso! —dice Luna riendo.
+> —¡Oh! ¡Este lugar parece un sueño delicioso! ¿Podemos probar un poco de esa colina de vainilla? —pregunta Luna riendo.
 
 ---
 
@@ -214,12 +214,12 @@ En este lugar, las colinas están hechas de vainilla y hay ríos de chocolate su
 
 ## [PÁGINA 24: ESCENA 9 - EL PEQUEÑO ALIENÍGENA BIP-BIP]
 
-Detrás de una colina de fresa sale a saludar un pequeño alienígena de tres ojos tiernos y largas orejas.  
-Se llama Bip-Bip y lleva un gran cucurucho de helado en la mano.  
-Al ver a Copito, el perrito, Bip-Bip mueve sus antenas con una gran sonrisa.
+Mientras exploran las colinas, detrás de un gran arbusto con forma de fresa gigante sale a saludarlos un pequeño ser de color verde manzana. Es un simpático alienígena que tiene tres ojos tiernos y redondos, largas orejas caídas y un par de antenas delgadas en su cabeza. Se presenta como Bip-Bip y sostiene un gran cucurucho de helado de arándanos que nunca se derrite. Al ver al tierno perrito Copito, las antenas de Bip-Bip giran de alegría.
+
+El pequeño habitante de este dulce planeta les ofrece su mejor sonrisa en señal de bienvenida.
 
 > **Texto de Lectura:**  
-> —¡Hola, nuevos amigos de la Tierra! —dice Bip-Bip con su voz melodiosa.
+> —¡Hola, nuevos amigos de la Tierra! Bienvenidos a mi dulce planeta —dice Bip-Bip con su voz melodiosa.
 
 ---
 
@@ -231,12 +231,12 @@ Al ver a Copito, el perrito, Bip-Bip mueve sus antenas con una gran sonrisa.
 
 ## [PÁGINA 26: ESCENA 10 - EL PICNIC CÓSMICO DE FRESA]
 
-Nico, Luna, Copito, el Robot Tuerca y Bip-Bip se sientan juntos a compartir un picnic.  
-Prueban helados mágicos que nunca se derriten y galletas con forma de estrella.  
-Bip-Bip comparte con felicidad y todos disfrutan del banquete intergaláctico.
+Bajo el cielo violeta tachonado de estrellas parpadeantes, Nico, Luna, Copito, el Robot Tuerca y el pequeño Bip-Bip se sientan sobre un mantel a cuadros en un prado de suave menta. Comparten un picnic mágico: prueban helados espaciales con sabor a fresa cósmica que nunca se derriten y crujientes galletas amarillas con forma de estrellas fugaces que hacen cosquillas al comerlas. Bip-Bip reparte caramelos de menta espacial con gran generosidad.
+
+Todos ríen y charlan en una tarde maravillosa donde los mundos se unen a través del cariño.
 
 > **Texto de Lectura:**  
-> Compartir tus dulces preferidos duplica la alegría de la amistad.
+> —¡Qué delicia! Compartir tus dulces preferidos con amigos duplica la alegría de la aventura —dice Luna contenta.
 
 ---
 
@@ -256,12 +256,12 @@ Bip-Bip comparte con felicidad y todos disfrutan del banquete intergaláctico.
 
 ## [PÁGINA 29: ESCENA 11 - BAILANDO CON LAS ESTRELLAS]
 
-Al finalizar el picnic, pequeñas estrellas fugaces se acercan a jugar.  
-Revolotean en círculos como luciérnagas de luz plateada.  
-Luna extiende las manos y una pequeña estrellita se posa suavemente en su palma.
+Al terminar el dulce festín cósmico, el cielo se llena de diminutos destellos de luz. Un grupo de simpáticas estrellitas fugaces se acerca flotando para jugar con los niños. Revolotean alegremente a su alrededor en círculos concéntricos, brillando como luciérnagas plateadas y emitiendo un suave tintineo musical. Luna, maravillada por la escena, extiende despacio la palma de su mano y una pequeña y brillante estrellita se posa en ella con un cosquilleo cálido.
+
+Los viajeros espaciales bailan y giran al compás de esta mágica melodía del cosmos.
 
 > **Texto de Lectura:**  
-> Las estrellas cantan bajito una canción de cuna espacial.
+> —¡Es tan suave! Las estrellas cantan bajito una dulce canción de cuna espacial para nosotros —susurra Luna.
 
 ---
 
@@ -273,12 +273,12 @@ Luna extiende las manos y una pequeña estrellita se posa suavemente en su palma
 
 ## [PÁGINA 31: ESCENA 12 - EL CINTURÓN DE ASTEROIDES SONRIENTES]
 
-Para iniciar la ruta hacia la Tierra, deben cruzar un cinturón de asteroides muy simpáticos.  
-Las rocas espaciales no son duras ni peligrosas, ¡parecen grandes esponjas suaves con caras felices!  
-El cohete esquiva suavemente a los asteroides mientras estos les dicen adiós con la patita.
+Es hora de iniciar el viaje de vuelta, y el cohete debe cruzar un cinturón de asteroides muy peculiar. Lejos de ser rocas grises y peligrosas, ¡estos asteroides parecen grandes y mullidas esponjas de colores con sonrisas gigantes! Tienen ojitos parpadeantes y saludan al pasar. Nico toma con firmeza el timón y maniobra con suavidad para esquivarlos, mientras los asteroides flotan alrededor y giran como si bailaran.
+
+Copito ladra alegremente saludando a una gran roca rosa que le guiña un ojo.
 
 > **Texto de Lectura:**  
-> En el espacio de Nico y Luna, hasta las rocas son amigables.
+> —¡Cuidado a la izquierda, capitán Nico! En nuestro espacio mágico, ¡hasta las rocas son amigables! —advierte Luna riendo.
 
 ---
 
@@ -290,12 +290,12 @@ El cohete esquiva suavemente a los asteroides mientras estos les dicen adiós co
 
 ## [PÁGINA 33: ESCENA 13 - EL TOBOGÁN DEL ARCO ÍRIS CÓSMICO]
 
-De pronto, un haz de luz de arcoíris se despliega frente a la nave.  
-El cohete se desliza como en un divertido tobogán de agua a través de bandas de rojo, amarillo y azul.  
-Copito ladra de felicidad mientras todos ríen a carcajadas.
+De pronto, un deslumbrante haz de luz multicolor se despliega ante la proa de su cohete. ¡Es un impresionante arcoíris cósmico! La nave se posa suavemente sobre él y comienza a deslizarse a gran velocidad, como si fuera un divertidísimo tobogán de parque acuático. Viajan a través de resplandecientes bandas rojas, amarillas, verdes y azules que desprenden chispas mágicas al contacto con el cohete de cartón.
+
+Copito da ladridos de puro entusiasmo mientras Nico y Luna ríen a carcajadas, disfrutando de esta vertiginosa atracción estelar.
 
 > **Texto de Lectura:**  
-> ¡El tobogán de luz los lleva velozmente de regreso a casa!
+> —¡Agárrate bien, Copito! ¡Este tobogán de luz nos lleva velozmente de regreso a casa! —grita Nico con los brazos abiertos.
 
 ---
 
@@ -307,12 +307,12 @@ Copito ladra de felicidad mientras todos ríen a carcajadas.
 
 ## [PÁGINA 35: ESCENA 14 - LA TIERRA, NUESTRO HOGAR AZUL]
 
-Desde la ventana frontal contemplan el planeta Tierra flotando en la inmensidad.  
-Se ve hermosa, redonda y brillante como una canica azul decorada con nubes blancas y continentes verdes.  
-—¡Qué hermosa es nuestra casa! —suspira Nico con orgullo.
+Al final del arcoíris, a través de la ventana delantera del cohete, aparece una imagen maravillosa. Allí está el planeta Tierra, flotando majestuoso y pacífico en medio de la inmensidad oscura del espacio. Se ve precioso, redondo y brillante, como una valiosa canica azul decorada con suaves espirales de nubes blancas y retazos de continentes verdes y marrones. Nico contempla la escena abrazando a su perrito.
+
+Una inmensa alegría y tranquilidad llena la cabina al saber que ya están muy cerca de regresar al jardín.
 
 > **Texto de Lectura:**  
-> No hay lugar más lindo en todo el universo que nuestro propio hogar.
+> —¡Es preciosa! No hay lugar más lindo en todo el universo que nuestro propio hogar —suspira Nico con orgullo.
 
 ---
 
@@ -324,12 +324,12 @@ Se ve hermosa, redonda y brillante como una canica azul decorada con nubes blanc
 
 ## [PÁGINA 37: ESCENA 15 - LA DESPEDIDA GALÁCTICA]
 
-El Robot Tuerca y Bip-Bip acompañan al cohete hasta el límite del espacio.  
-Se dan un fuerte abrazo y se prometen volver a encontrarse para explorar nuevas galaxias.  
-Bip-Bip les regala un pequeño cristal brillante como recuerdo.
+Justo antes de entrar en la atmósfera, las naves doradas del Robot Tuerca y del tierno alienígena Bip-Bip se coloquan al lado del cohete para escoltarlos. A través de las ventanas, se envían besos y se despiden con alegres gestos. Prometen volver a encontrarse muy pronto para explorar nuevas galaxias lejanas. Bip-Bip, con un guiño de sus tres ojos, activa un transportador mágico y les hace llegar un pequeño cristal que brilla como una estrella cautiva.
+
+Este cristal estelar les recordará siempre la fantástica amistad que nació en el espacio exterior.
 
 > **Texto de Lectura:**  
-> —¡Hasta la próxima aventura intergaláctica, amigos! —se despiden con emoción.
+> —¡Gracias por todo! ¡Hasta la próxima aventura intergaláctica, amigos! —gritan Nico y Luna despidiéndose con emoción.
 
 ---
 
@@ -349,12 +349,12 @@ Bip-Bip les regala un pequeño cristal brillante como recuerdo.
 
 ## [PÁGINA 40: ESCENA 16 - ATERRIZAJE ENTRE LAS FLORES]
 
-El cohete desciende suavemente atravesando las últimas nubes del atardecer.  
-Aterriza con un ligerísimo *¡plop!* justo sobre el césped mullido del jardín.  
-Copito salta el primero y se reboza en la hierba fresca.
+El cohete plateado de cartón va descendiendo suavemente, mecido por la brisa fresca del final del día. Atraviesa con gracia las últimas nubes de color naranja y violeta del atardecer terrestre. Con un ligerísimo *¡plop!* mágico, aterriza de pie justo en medio del césped mullido y verde de su propio jardín. Copito, con su escafandra en la patita, salta entusiasmado el primero de la cabina y se reboza feliz sobre la hierba perfumada.
+
+Nico y Luna abren la puerta y respiran el aroma familiar de las flores del hogar, felices de estar sanos y salvos.
 
 > **Texto de Lectura:**  
-> —¡Misión cumplida! —anuncia el capitán Nico con entusiasmo.
+> —¡Misión cumplida, tripulación! ¡Aterrizaje perfecto en el planeta Tierra! —anuncia el capitán Nico con orgullo.
 
 ---
 
@@ -366,12 +366,12 @@ Copito salta el primero y se reboza en la hierba fresca.
 
 ## [PÁGINA 42: ESCENA 17 - EL TESORO CRISTALINO]
 
-Luna coloca el cristal brillante que les regaló Bip-Bip en la repisa de su habitación.  
-El cristal proyecta diminutas constelaciones de luz por todo el techo.  
-Parece que la magia del espacio los arropa con su calidez.
+Ya en casa, antes de meterse en la cama, Luna coloca con sumo cuidado el precioso cristal de las estrellas que les regaló su amigo Bip-Bip en la repisa de su habitación. Enseguida, la habitación se inunda de una magia asombrosa. El pequeño cristal comienza a brillar y proyecta en el techo y las paredes diminutas constelaciones de colores que giran despacio, llenando el cuarto de luces parpadeantes y una calidez encantadora.
+
+Nico y Luna contemplan embelesados el mapa estelar desde sus camas, sintiendo que el universo los abraza.
 
 > **Texto de Lectura:**  
-> Los recuerdos de los buenos amigos siempre iluminan la noche.
+> —¡Es mágico! Los recuerdos de los buenos amigos siempre iluminan la noche, incluso en la oscuridad —dice Luna.
 
 ---
 
@@ -383,12 +383,12 @@ Parece que la magia del espacio los arropa con su calidez.
 
 ## [PÁGINA 44: ESCENA 18 - CONTANDO LAS ESTRELLAS]
 
-Arropados en sus camitas, Nico y Luna miran por la ventana abierta.  
-Buscan con la mirada el planeta de los helados y la estación del Robot Tuerca.  
-Copito duerme a los pies de la cama dando suaves ronquidos de perrito feliz.
+Bien arropados bajo sus mantas suaves, Nico y Luna miran a través de la ventana abierta hacia el cielo nocturno y despejado. Buscan con ilusión entre los miles de destellos plateados la silueta de la divertida estación espacial y la luz mágica del planeta de los postres deliciosos. Copito, muy cansado tras tanta exploración galáctica, duerme plácidamente hecho una rosquilla a los pies de la cama, emitiendo unos graciosos ronquidos de perrito astronauta feliz.
+
+La suave brisa de la noche parece mecer sus pensamientos hacia un plácido descanso.
 
 > **Texto de Lectura:**  
-> —Buenas noches, Nico. Buenas noches, Luna. ¡Buenas noches, universo!
+> —Buenas noches, Nico. Buenas noches, Luna. ¡Buenas noches a todo nuestro inmenso y maravilloso universo! —susurran los hermanos.
 
 ---
 
@@ -400,12 +400,12 @@ Copito duerme a los pies de la cama dando suaves ronquidos de perrito feliz.
 
 ## [PÁGINA 46: ESCENA 19 - SUEÑOS CÓSMICOS]
 
-Los párpados de los pequeños exploradores se van cerrando despacito.  
-En sus sueños continúan flotando alegremente entre cometas sonrientes y nubes de colores.  
-Saben que mañana les aguarda otra gran aventura.
+Los pesados párpados de los pequeños y valientes exploradores se van cerrando muy despacito. En el dulce mundo de los sueños, Nico y Luna continúan su fantástico viaje flotando libremente entre cometas sonrientes, planetas de helado de fresa y estrellas mágicas que les guiñan el ojo con cariño. Saben muy bien que al despertar les esperarán mil juegos nuevos en el jardín, pero ahora es momento de dejar volar la imaginación y descansar bajo el manto nocturno.
+
+Copito suspira en sueños, soñando tal vez con galletas que vuelan solas.
 
 > **Texto de Lectura:**  
-> Duerme en paz, pequeño explorador. El mundo está lleno de maravillas por descubrir.
+> Duerme en paz, pequeño explorador. El universo entero vela por tus hermosos sueños —susurra una voz misteriosa.
 
 ---
 
@@ -417,11 +417,12 @@ Saben que mañana les aguarda otra gran aventura.
 
 ## [PÁGINA 48: ESCENA 20 - DESPERTAR CON SONRISAS]
 
-Al brillar los primeros rayos de sol de la mañana, Nico y Luna abren sus ojos llenos de felicidad.  
-Saben que el universo es gigante, pero su amistad es el viaje más bonito de todos.
+Al brillar los primeros y cálidos rayos de sol de la mañana, Nico y Luna abren los ojos con una gran sonrisa. Se estiran y miran hacia el cohete de cartón del jardín, recordando con emoción el picnic con Bip-Bip y al Robot Tuerca. Saben que el espacio es gigante, pero su amistad es la aventura más bonita de todas.
+
+Copito entra corriendo en el cuarto con su escafandra en la boca, listo para un nuevo día de travesuras.
 
 > **Texto de Lectura:**  
-> Cada nuevo amanecer trae una galaxia de oportunidades.
+> —¡Buenos días! Cada nuevo amanecer trae una galaxia entera de oportunidades para jugar —exclama Nico sonriendo.
 
 ---
 

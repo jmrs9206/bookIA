@@ -70,12 +70,12 @@ Nico, Luna y Copito vuelven en una aventura prehistórica increíble:
 
 ## [PÁGINA 7: ESCENA 1 - EL PORTAL BRILLANTE ENTRE LOS HELECHOS]
 
-Copito olfatea con curiosidad la raíz de una vieja higuera en el rincón del jardín.  
-De pronto, un destello verde y dorado brota del suelo, iluminando las ramas.  
-¡Es un portal mágico que gira y brilla con destellos de luz prehistórica!
+El intrépido perrito Copito corre de un lado a otro por el jardín, olfateando con mucha curiosidad las gruesas raíces de una vieja higuera. De repente, el suelo empieza a temblar suavemente y un asombroso destello de color verde manzana y dorado brillante brota de la tierra, iluminando los arbustos del jardín. ¡Un portal mágico de luz prehistórica empieza a girar como un remolino de purpurina frente a ellos!
+
+Nico y Luna se acercan tomados de la mano, con los ojos muy abiertos y el corazón latiendo de emoción por el maravilloso descubrimiento.
 
 > **Texto de Lectura:**  
-> —¡Mirad! —susurra Luna—. ¡El portal del tiempo nos llama a una nueva aventura!
+> —¡Mirad, chicos! —susurra Luna con una gran sonrisa—. ¡El portal del tiempo se ha abierto y nos invita a una fantástica aventura!
 
 ---
 
@@ -87,12 +87,12 @@ De pronto, un destello verde y dorado brota del suelo, iluminando las ramas.
 
 ## [PÁGINA 9: ESCENA 2 - LA LLEGADA A LA SELVA PREHISTÓRICA]
 
-Al cruzar el portal, el aire se vuelve cálido y huele a tierra húmeda y flores gigantes.  
-Están rodeados de helechos más altos que una casa y árboles con hojas del tamaño de sábanas.  
-Una enorme y simpática libélula azul sobrevuela sus cabezas para darles la bienvenida.
+Al dar un paso a través del portal brillante, los niños sienten que el aire se vuelve cálido y huele a tierra mojada y a dulces flores gigantes. A su alrededor se extiende una selva alucinante, repleta de helechos verdes que son más altos que un edificio de tres pisos y árboles con hojas tan gigantescas que parecen sábanas de colores. De repente, una simpática libélula de color azul brillante y del tamaño de un pájaro sobrevuela sus cabezas dándoles una alegre bienvenida.
+
+Nico se acomoda su gorro de explorador y mira su brújula mágica, que da vueltas sin parar en su mano.
 
 > **Texto de Lectura:**  
-> —¡Estamos en la prehistoria! —exclama Nico mirando a su alrededor con asombro.
+> —¡Es increíble! —exclama Nico asombrado—. ¡Estamos en la época de los dinosaurios!
 
 ---
 
@@ -104,12 +104,12 @@ Una enorme y simpática libélula azul sobrevuela sus cabezas para darles la bie
 
 ## [PÁGINA 11: ESCENA 3 - EL ENCUENTRO CON EL TIRANOSAURIO DINO]
 
-Bajo una gran hoja de palma, Nico y Luna escuchan un llanto bajito y tierno.  
-Al acercarse, descubren a un pequeño tiranosaurio Rex de escamas verdes y ojos grandes.  
-Dino, el bebé dinosaurio, está triste porque ha perdido sus juguetes preferidos.
+Caminando entre los enormes troncos de la selva, Nico y Luna escuchan un llanto muy bajito y tierno que proviene de una gran hoja de palma plateada. Al apartar la hoja con cuidado, descubren a un pequeño Tiranosaurio Rex con escamas de color verde brillante y grandes ojos amarillos llenos de lágrimas. El pequeño dinosaurio Dino les explica, dando pequeños hipos, que ha perdido sus tres juguetes favoritos y no sabe dónde buscarlos.
+
+Copito se acerca moviendo la cola y le da un cariñoso lengüetazo en la patita para animarlo.
 
 > **Texto de Lectura:**  
-> —No llores, Dino —le consuela Luna—. ¡Nosotros te ayudaremos a encontrarlos!
+> —No llores, Dino —le consuela Luna dándole un suave abrazo—. ¡Te ayudaremos a buscar tus juguetes por todo el valle!
 
 ---
 
@@ -121,12 +121,12 @@ Dino, el bebé dinosaurio, está triste porque ha perdido sus juguetes preferido
 
 ## [PÁGINA 13: ESCENA 4 - EL MAPA DE HOJAS FÓSILES]
 
-Dino les muestra una piedra plana con la forma de tres hojas fosilizadas.  
-El fósil marca los lugares del valle donde Dino solía jugar con sus amigos.  
-Nico usa su brújula mágica para orientarse en la espesa selva prehistórica.
+El pequeño Dino deja de llorar y les enseña una piedra muy lisa y plana que lleva grabada la silueta de tres hojas fosilizadas de colores brillantes. Este asombroso mapa prehistórico muestra los mágicos rincones del valle donde solía jugar con sus amigos los dinosaurios. Nico saca de su mochila su brújula mágica dorada, cuya aguja señala de inmediato hacia un sendero oculto bajo unos helechos gigantescos de color morado.
+
+Dino da un saltito alegre e intenta imitar el rugido de un gran T-Rex, haciendo un gracioso "¡grrr!" que parece más bien un tierno bostezo.
 
 > **Texto de Lectura:**  
-> —¡El primer lugar está cruzando el río de vapor! —indica Nico señalando el mapa de piedra.
+> —¡La primera pista está cruzando el río de vapor! —indica Nico señalando el mapa de piedra.
 
 ---
 
@@ -138,12 +138,14 @@ Nico usa su brújula mágica para orientarse en la espesa selva prehistórica.
 
 ## [PÁGINA 15: ESCENA 5 - LAS HUELLAS GIGANTES EN EL LODO]
 
-Siguiendo el sendero, Copito encuentra unas pisadas circulares y gigantescas en el barro blando.  
-¡Son tan grandes que Nico y Luna podrían sentarse dentro de ellas!  
-Copito mete su patita en la huella y ladra feliz pensando que es una bañera.
+Guiados por el mapa de piedra, el travieso perrito Copito descubre unas enormes pisadas circulares marcadas en el barro blando del camino. ¡Son tan increíblemente gigantes que Nico y Luna podrían sentarse dentro de ellas y usarlas como divertidos columpios! Copito se mete emocionado en una de las huellas y empieza a ladrar de alegría, salpicando gotitas de barro a su alrededor mientras Dino intenta meter su pequeña cola en la huella vecina.
+
+—¿De quién crees que sean estas pisadas tan grandes, Dino? —pregunta Nico con curiosidad.
+
+—¡Son de mi amigo Bronto, el gigante comelón! —responde Dino dando saltitos.
 
 > **Texto de Lectura:**  
-> —¡Estas huellas nos llevarán al Valle de los Gigantes! —ríe Luna.
+> —¡Sigamos estas huellas gigantes! —rie Luna—. ¡Nos llevarán directos al Valle de los Dinosaurios Buenos!
 
 ---
 
@@ -163,12 +165,12 @@ Copito mete su patita en la huella y ladra feliz pensando que es una bañera.
 
 ## [PÁGINA 18: ESCENA 6 - EL NIDO DE LOS TRICERATOPS BEBÉS]
 
-Llegan a un claro del bosque donde una mamá Triceratops cuida de sus tres bebés.  
-Los pequeños dinosaurios tienen tres diminutos cuernos blancos y juegan en su nido de arena.  
-Los bebés Triceratops saludan a Copito moviendo sus cabezas redondas.
+Los pequeños aventureros llegan a un hermoso claro del bosque donde una mamá Triceratops vigila con ternura a sus tres pequeños bebés. Los dinosaurios bebés tienen tres simpáticos cuernos blancos y redondos, y juegan muy alegres en su nido de arena suave y de color rosa. Al ver llegar al grupo, los bebés Triceratops se acercan y saludan a Copito moviendo sus cabecitas decoradas con pequeños volantes en el cuello.
+
+Dino corre a saludarlos con alegría y da vueltas buscando su pelota de piedra favorita.
 
 > **Texto de Lectura:**  
-> —¡Hola, pequeños! —saluda Luna—. ¿Habéis visto la pelota de piedra de Dino?
+> —¡Hola, pequeños amigos! —saluda Luna con voz suave—. ¿Sabéis dónde está la pelota perdida de Dino?
 
 ---
 
@@ -180,12 +182,16 @@ Los bebés Triceratops saludan a Copito moviendo sus cabezas redondas.
 
 ## [PÁGINA 20: ESCENA 7 - EL PUENTE SOBRE EL RÍO DE LAVA TIBIA]
 
-Para continuar, los amigos deben cruzar un arroyo de lava tibia que fluye lentamente.  
-Por suerte, hay un puente hecho de rocas naturales muy seguras y lisas.  
-Burbujas de vapor de colores flotan en el aire, estallando con un suave sonido.
+Para seguir el mapa, los amigos deben cruzar un pequeño arroyo de lava tibia y brillante que fluye despacio como si fuera miel de fresa. Afortunadamente, hay un puente natural formado por grandes piedras lisas y redondas que son completamente seguras. En el aire flotan hermosas burbujas de vapor de colores que estallan con un gracioso sonido de "¡plop!".
+
+Dino mira el agua rosada con duda y dice:
+
+—¡Tengo miedo de mojar mis garritas de T-Rex!
+
+Nico le toma de la pata con cariño y le da confianza.
 
 > **Texto de Lectura:**  
-> —¡Cruzad con cuidado, de roca en roca sin prisa! —advierte Nico guiando al grupo.
+> —¡No te preocupes, Dino! —advierte Nico—. ¡Crucemos de roca en roca, despacio y sin prisa!
 
 ---
 
@@ -197,12 +203,16 @@ Burbujas de vapor de colores flotan en el aire, estallando con un suave sonido.
 
 ## [PÁGINA 22: ESCENA 8 - EL GRAN BRONTOSAURIO DE CUELLO LARGO]
 
-En la otra orilla del río, un Brontosaurio gigante de cuello larguísimo come hojas tiernas de los árboles.  
-Su cabeza llega casi hasta las nubes, pero sus ojos son muy tiernos y su sonrisa es amable.  
-Nico le saluda ondeando su pañuelo desde el suelo.
+Al otro lado del arroyo de lava, un gigantesco Brontosaurio de cuello larguísimo mastica con calma las hojas más tiernas de una palmera. Aunque su cabeza llega casi hasta las esponjosas nubes del cielo prehistórico, sus grandes ojos son muy dulces y tiene una sonrisa de lo más amigable. Nico se quita su gorro de explorador y lo agita en el aire para saludar al simpático gigante.
+
+Dino da un gran salto y grita entusiasmado:
+
+—¡Hola, señor Bronto! ¿Ha visto mis juguetes perdidos por aquí arriba?
+
+El gigante menea la cabeza con cariño.
 
 > **Texto de Lectura:**  
-> —¡Es el dinosaurio más grande que he visto en mi vida! —exclama Nico asombrado.
+> —¡Caramba! —exclama Nico asombrado—. ¡Es el dinosaurio más grande y bueno que he visto en mi vida!
 
 ---
 
@@ -214,12 +224,12 @@ Nico le saluda ondeando su pañuelo desde el suelo.
 
 ## [PÁGINA 24: ESCENA 9 - EL JUEGO CON LOS PTERODÁCTILOS MALABARISTAS]
 
-Dos Pterodáctilos de alas grandes vuelan en círculos sobre las copas de los helechos.  
-Se pasan divertidos cocos redondos en el aire haciendo malabares espectaculares.  
-Copito da saltitos en el suelo intentando atrapar las sombras de las alas.
+Dos simpáticos Pterodáctilos de alas moradas y brillantes vuelan en círculos sobre las copas de los helechos gigantes de la selva. En sus picos llevan unos cocos redondos y se los lanzan el uno al otro en el aire, realizando unos divertidos malabares dignos de un circo prehistórico. Copito da graciosos saltitos en el suelo persiguiendo las sombras de sus alas gigantes, mientras Dino intenta atrapar los cocos con sus cortitos brazos de T-Rex.
+
+—¡Casi lo tengo! —grita Dino haciendo reír a todos con sus divertidas piruetas.
 
 > **Texto de Lectura:**  
-> —¡Esos Pterodáctilos son unos malabaristas increíbles! —aplaude Luna alegremente.
+> —¡Qué divertido! —aplaude Luna alegremente—. ¡Esos Pterodáctilos voladores son unos malabaristas fantásticos!
 
 ---
 
@@ -231,12 +241,14 @@ Copito da saltitos en el suelo intentando atrapar las sombras de las alas.
 
 ## [PÁGINA 26: ESCENA 10 - LA CUEVA DE LOS CRISTALES LUMINOSOS]
 
-El camino se estrecha y entra en una misteriosa cueva tallada en la montaña.  
-Dentro de ella, cientos de cristales de colores brillan en la oscuridad como bombillas mágicas.  
-Los destellos de los cristales iluminan las caritas de Nico, Luna y del pequeño Dino.
+El sendero se vuelve estrecho y los conduce al interior de una misteriosa cueva excavada en la gran montaña del valle. Al entrar, todos se quedan sin aliento: ¡miles de cristales mágicos de color rosa, azul y amarillo brillan en las paredes oscuras como si fuesen pequeñas bombillas! La luz multicolor ilumina los rostros de Nico y Luna, y hace que las verdes escamas de Dino brillen de una forma espectacular.
+
+Dino da palmas muy emocionado y dice:
+
+—¡Esta cueva brilla más que mi pelota de piedra!
 
 > **Texto de Lectura:**  
-> —¡Esta cueva parece un cielo lleno de estrellas de colores! —susurra Luna maravillada.
+> —¡Es bellísimo! —susurra Luna maravillada—. ¡Esta cueva parece un cielo mágico lleno de estrellas de colores!
 
 ---
 
@@ -256,12 +268,12 @@ Los destellos de los cristales iluminan las caritas de Nico, Luna y del pequeño
 
 ## [PÁGINA 29: ESCENA 11 - LA PELOTA DE PIEDRA DE DINO EN LA CASCADA]
 
-Al salir de la cueva, oyen el rumor de una cascada de agua tibia y cristalina.  
-Cerca de la orilla, Copito ve algo redondo que flota en el agua: ¡la pelota de piedra de Dino!  
-Dino da saltitos de alegría y estira sus manitas para intentar alcanzarla.
+Al salir de la cueva de cristales, los amigos escuchan el alegre sonido de una cascada de agua cristalina y tibia que cae en una laguna azul. De pronto, el perspicaz Copito empieza a ladrar señalando hacia la orilla: ¡allí está la pelota de piedra de Dino flotando suavemente entre unas flores acuáticas gigantes! Dino da grandes saltos de alegría en la arena y estira sus pequeños brazos intentando alcanzar su preciado juguete.
+
+—¡Cuidado, Dino, no te caigas al agua! —le advierte Nico mientras busca una solución ingeniosa.
 
 > **Texto de Lectura:**  
-> —¡Yo la pesco con esta rama larga! —dice Nico sujetándola con fuerza.
+> —¡No te preocupes! —dice Nico sujetando una rama larga—. ¡Yo la pescaré con cuidado desde la orilla!
 
 ---
 
@@ -273,12 +285,12 @@ Dino da saltitos de alegría y estira sus manitas para intentar alcanzarla.
 
 ## [PÁGINA 31: ESCENA 12 - EL PELUCHE DE HELECHO EN EL GRAN ÁRBOL]
 
-El segundo juguete de Dino es un peluche suave hecho de musgo y hojas de helecho.  
-¡Está atorado en una rama muy alta de una palmera jurásica y nadie llega a él!  
-El Brontosaurio estira su largo cuello y coge el peluche con suavidad con su boca.
+El segundo juguete de Dino es un peluche de dinosaurio muy suave, fabricado con musgo verde y hojas tiernas de helecho. Sin embargo, el peluche se encuentra atorado en una rama altísima de una palmera jurásica y ninguno de los pequeños amigos logra alcanzarlo. Por suerte, el Brontosaurio gigante pasa por allí, estira su larguísimo cuello con elegancia y toma el juguete con su boca con muchísimo cuidado para no dañarlo.
+
+Dino aplaude con sus patitas y le da las gracias con un simpático silbido de alegría.
 
 > **Texto de Lectura:**  
-> —¡Muchas gracias, gigante bueno! —agradece Luna abrazando al peluche.
+> —¡Muchísimas gracias, gigante bueno! —agradece Luna abrazando con cariño el suave peluche de Dino.
 
 ---
 
@@ -290,12 +302,12 @@ El Brontosaurio estira su largo cuello y coge el peluche con suavidad con su boc
 
 ## [PÁGINA 33: ESCENA 13 - LA CORONA DE FLORES DEL TRICERATOPS]
 
-El último juguete, una hermosa corona de flores silvestres, la tiene puesta un bebé Triceratops.  
-Se la ha colocado en la cabeza y corretea alegremente creyendo que es un gran rey prehistórico.  
-Luna le ofrece una corona de hojas tiernas de sauce a cambio del juguete de Dino.
+El último juguete perdido de Dino es una preciosa corona tejida con flores silvestres del valle. Al buscarla por los alrededores, descubren que se la ha puesto un travieso bebé Triceratops, quien corretea de un lado a otro creyéndose el rey de la selva jurásica. Luna, muy lista, decide tejer una preciosa corona de hojas de sauce tiernas y crujientes y se la ofrece al pequeño dinosaurio a cambio de la corona de flores.
+
+—¡Mira qué corona verde tan deliciosa! —le dice Dino ofreciéndole una gran sonrisa.
 
 > **Texto de Lectura:**  
-> —¡Un trato fantástico para los dos reyes del valle! —sonríe Luna intercambiándolas.
+> —¡Es un trato fantástico para los dos reyes del valle! —sonríe Luna intercambiando los regalos.
 
 ---
 
@@ -307,12 +319,12 @@ Luna le ofrece una corona de hojas tiernas de sauce a cambio del juguete de Dino
 
 ## [PÁGINA 35: ESCENA 14 - LOS DINOSAURIOS NADADORES DEL LAGO AZUL]
  
-Nico, Luna y Dino van al lago azul a buscar al Plesiosaurio, un dinosaurio nadador.  
-El Plesiosaurio asoma su cabeza y su largo cuello del agua cristalina.  
-Lleva en el hocico una caracola brillante que regala a los niños como agradecimiento.
+Para agradecer a Nico y Luna su valiosa ayuda, Dino los lleva al lago azul, el hogar del Plesiosaurio, el simpático dinosaurio nadador. De repente, una hermosa cabeza con un cuello muy largo y elegante emerge de las tranquilas aguas de color turquesa. El Plesiosaurio sostiene en su hocico una caracola mágica que brilla bajo el sol con los colores del arcoíris y se la entrega a los niños como un regalo especial por su bondad.
+
+—¡Es un amuleto mágico del lago! —dice Dino entusiasmado dando pequeños saltitos en la orilla.
 
 > **Texto de Lectura:**  
-> —¡Gracias por ayudar a Dino y cuidar de nuestro valle! —canta el Plesiosaurio.
+> —¡Gracias por ayudar a Dino a encontrar sus juguetes y por cuidar de nuestro hermoso valle! —canta el Plesiosaurio.
 
 ---
 
@@ -324,12 +336,12 @@ Lleva en el hocico una caracola brillante que regala a los niños como agradecim
 
 ## [PÁGINA 37: ESCENA 15 - EL REGRESO AL NIDO CON TODOS LOS JUGUETES]
 
-Dino ya tiene de vuelta su pelota de piedra, su peluche de helecho y su corona de flores.  
-Corre feliz por el prado y abraza sus juguetes contra su pechito con mucho cariño.  
-Copito ladra dando vueltas alrededor de él celebrando la gran victoria.
+Con la ayuda de Nico, Luna y el travieso Copito, el pequeño Dino por fin tiene de vuelta sus tres queridos juguetes: su pelota de piedra, su peluche de helecho y su corona de flores silvestres. El pequeño T-Rex corre feliz por el verde prado prehistórico, abrazando sus juguetes contra su pechito con mucho cariño y dando alegres vueltas. Copito ladra sin parar y corre a su alrededor celebrando la gran victoria del equipo de exploradores del tiempo.
+
+—¡Sois los mejores amigos del mundo entero! —exclama Dino muy emocionado.
 
 > **Texto de Lectura:**  
-> —¡Lo hemos conseguido trabajando juntos! —dice Nico abrazando a Dino.
+> —¡Lo hemos conseguido trabajando juntos como un gran equipo! —dice Nico abrazando a su nuevo amigo.
 
 ---
 
@@ -349,12 +361,12 @@ Copito ladra dando vueltas alrededor de él celebrando la gran victoria.
 
 ## [PÁGINA 40: ESCENA 16 - LA FIESTA PREHISTÓRICA EN EL PRADO]
 
-Para celebrar el hallazgo, todos los dinosaurios del valle se reúnen en el prado verde.  
-Los Triceratops, el Brontosaurio y los Pterodáctilos bailan al son de un alegre ritmo.  
-Nico, Luna y Copito bailan en círculos con Dino saltando de alegría.
+Para celebrar que han encontrado todos los juguetes de Dino, todos los simpáticos dinosaurios del valle se reúnen en el gran prado verde de helechos gigantes. Los pequeños Triceratops tocan el tambor en troncos huecos, el gran Brontosaurio menea su largo cuello al compás y los Pterodáctilos silban una melodía alegre en el aire. Nico, Luna y el travieso Copito bailan en un gran círculo con Dino, quien da graciosos pasos de T-Rex.
+
+—¡Este es el mejor baile de la historia! —grita Dino riendo sin parar.
 
 > **Texto de Lectura:**  
-> La música y la risa unen a los amigos de todas las épocas de la Tierra.
+> ¡La música y las divertidas risas unen a los amigos de todas las épocas de la Tierra!
 
 ---
 
@@ -366,12 +378,12 @@ Nico, Luna y Copito bailan en círculos con Dino saltando de alegría.
 
 ## [PÁGINA 42: ESCENA 17 - EL VOLCÁN ECHA BURBUJAS DE COLORES]
 
-De repente, el volcán gigante del fondo del valle comienza a rugir con fuerza.  
-Pero no echa lava caliente, ¡sino millones de burbujas gigantes de jabón de colores!  
-Las burbujas flotan por todo el cielo prehistórico brillando bajo el sol dorado.
+De repente, un suave sonido de tambores lejanos se escucha y el gran volcán que se alza al fondo del valle comienza a rugir con fuerza. ¡Pero no hay de qué preocuparse! En lugar de lava caliente, el volcán empieza a lanzar millones de burbujas gigantes de jabón de todos los colores del arcoíris. Las burbujas flotan perezosas por el cielo prehistórico, brillando y reflejando la luz del sol dorado sobre las copas de los árboles gigantes.
+
+—¡Me encantan las burbujas! —exclama Dino intentando explotar una muy grande con su hocico.
 
 > **Texto de Lectura:**  
-> —¡Mirad! ¡El volcán está celebrando nuestra amistad! —grita Luna entusiasmada.
+> —¡Mirad hacia arriba! —grita Luna entusiasmada—. ¡El volcán mágico está celebrando nuestra gran amistad con burbujas!
 
 ---
 
@@ -383,12 +395,12 @@ Las burbujas flotan por todo el cielo prehistórico brillando bajo el sol dorado
 
 ## [PÁGINA 44: ESCENA 18 - EL REGALO DE DINO: UN DIENTE DE PIEDRA]
 
-Antes de despedirse, Dino le da a Nico un colgante especial hecho con una piedrecilla fosilizada.  
-Es un recuerdo brillante del valle que Nico se cuelga orgulloso en el cuello.  
-Dino les da un gran abrazo con sus manitas traseras rozando sus mejillas.
+Antes de despedirse, el pequeño Dino saca de su nido un colgante muy especial fabricado con una piedrecilla fósil que brilla con destellos plateados. Con mucho cuidado, Dino se lo entrega a Nico para que nunca olvide su viaje a la prehistoria, y Nico se lo cuelga en el cuello muy orgulloso. Luego, el tierno tiranosaurio Rex les da a Nico y a Luna un enorme y cálido abrazo, rozando sus mejillas con cariño.
+
+—Llevad este recuerdo siempre con vosotros —dice Dino con una gran sonrisa de agradecimiento.
 
 > **Texto de Lectura:**  
-> —¡Siempre seremos amigos de la prehistoria! —promete Nico con emoción.
+> —¡Muchas gracias, Dino! —promete Nico con gran emoción—. ¡Siempre seremos amigos de la prehistoria!
 
 ---
 
@@ -400,12 +412,12 @@ Dino les da un gran abrazo con sus manitas traseras rozando sus mejillas.
 
 ## [PÁGINA 46: ESCENA 19 - EL PORTAL SE ABRE DE NUEVO EN LAS ROCAS]
 
-El portal verde y dorado vuelve a brillar con destellos mágicos entre dos grandes rocas.  
-Es la hora de volver a casa antes de que el sol se oculte por completo tras las montañas.  
-Nico, Luna y Copito miran atrás una última vez y dicen adiós con la mano.
+Entre dos inmensas rocas cubiertas de musgo blando, el portal mágico de color verde y dorado comienza a brillar de nuevo con hermosos destellos. Ha llegado el momento de regresar a casa antes de que el sol se oculte del todo tras las montañas jurásicas. Nico con su brújula, Luna con su lupa y el perrito Copito miran hacia atrás una última vez para despedirse de todos sus amigos prehistóricos.
+
+Dino los despide agitando alegremente su colita y dando pequeños saltitos de T-Rex en la hierba.
 
 > **Texto de Lectura:**  
-> —¡Adiós, Dino! ¡Adiós, amigos del valle! —se despiden los tres aventureros.
+> —¡Adiós, Dino! ¡Adiós, gigantes buenos del valle! —se despiden los tres viajeros con la mano.
 
 ---
 
@@ -417,12 +429,12 @@ Nico, Luna y Copito miran atrás una última vez y dicen adiós con la mano.
 
 ## [PÁGINA 48: ESCENA 20 - DORMIR Y SOÑAR EN LA HABITACIÓN]
 
-De vuelta en su habitación, Nico y Luna se acuestan cansados en sus camitas suaves.  
-Nico sostiene el collar de fósil de Dino y Luna abraza su lupa de exploradora.  
-Copito duerme enroscado a los pies de la cama soñando con dinosaurios y helechos.
+De regreso en su acogedora habitación, Nico y Luna se acuestan cansados pero muy felices en sus camitas suaves y abrigadas. Nico sostiene con fuerza en su mano el colgante brillante que le regaló Dino, mientras Luna abraza su lupa de exploradora y recuerda a los simpáticos Triceratops. A los pies de la cama, el pequeño Copito ya duerme profundamente enroscado como una rosquilla, soñando con volcanes de burbujas y divertidos juegos prehistóricos.
+
+Al fondo, la luna brilla en la ventana, iluminando una noche llena de magia y dulces sueños.
 
 > **Texto de Lectura:**  
-> Al cerrar los ojos, la imaginación nos lleva de vuelta a las tierras mágicas.
+> ¡Al cerrar los ojos, nuestra gran imaginación nos llevará siempre de vuelta a las tierras mágicas!
 
 ---
 
