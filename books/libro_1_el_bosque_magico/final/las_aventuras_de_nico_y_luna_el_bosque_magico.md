@@ -421,11 +421,11 @@ De vuelta en la seguridad de su hogar, Nico y Luna entran en su habitación cans
 
 ---
 
-## [PÁGINA 51: ACTIVIDAD 1 - EL LABERINTO DEL BOSQUE]
+## [PÁGINA 51: ACTIVIDAD 1 - BUSCA, CUENTA Y COLOREA EL BOSQUE]
 
-### 🧩 ¡Ayuda a Nico y Luna a llegar a la Casita del Erizo!
+### 🧩 ¡Busca, Cuenta y Colorea!
 
-Recorre con tu lápiz el camino correcto evitando los caminos sin salida.
+Observa el dibujo y cuenta cuántas criaturas encuentras en este claro del bosque. Escribe el número en los círculos y colorea la página.
 
 ---
 

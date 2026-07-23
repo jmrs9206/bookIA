@@ -601,102 +601,115 @@ def parse_markdown_to_html(md_content, base_dir):
                 </div>
                 """)
             
-        elif "ACTIVIDAD 1" in page_title or "EL LABERINTO" in page_title:
-            # Generar Laberinto SVG interactivo vectorial premium
-            entrada_emoji = "🦖" if es_dino else ("🚀" if es_espacio else "🦔")
-            salida_emoji = "🌋" if es_dino else ("🪐" if es_espacio else "🏡")
+        elif "ACTIVIDAD 1" in page_title or "EL LABERINTO" in page_title or "BUSCA Y CUENTA" in page_title:
+            # Generar Actividad Premium "Busca, Cuenta y Colorea" en lugar del laberinto
             pared_color = "#2d5a27" if es_dino else ("#1d3557" if es_espacio else "#2a9d8f")
             fondo_color = "#f3f8f2" if es_dino else ("#f4f7fa" if es_espacio else "#f4fcf9")
-            meta_label = "VOLCÁN" if es_dino else ("PLANETA" if es_espacio else "CASITA")
             
-            # Elementos decorativos según temática
-            decoraciones_svg = ""
+            # Definir elementos a buscar según temática
             if es_dino:
-                decoraciones_svg = """
-                <!-- Hojas y plantas decorativas en esquinas -->
-                <path d="M 25,250 C 15,260 10,280 15,295 C 25,290 30,270 25,250 Z" fill="#d0e5cd" opacity="0.6"/>
-                <path d="M 290,40 C 275,50 270,70 275,85 C 285,80 290,60 290,40 Z" fill="#d0e5cd" opacity="0.6"/>
-                <!-- Huellas de dinosaurio de fondo -->
-                <path d="M 90,90 C 85,90 82,85 82,80 C 82,75 87,72 80,65" stroke="#e0f0df" stroke-width="3" fill="none" opacity="0.7"/>
-                <path d="M 230,210 C 225,210 222,205 222,200" stroke="#e0f0df" stroke-width="3" fill="none" opacity="0.7"/>
+                item_1, item_2, item_3 = "🦖", "🦕", "🥚"
+                label_1, label_2, label_3 = "T-Rex", "Brontosaurio", "Huevos"
+                # Posiciones de los elementos para contar
+                elementos_svg = """
+                <!-- Elementos del bosque de fondo -->
+                <text x="40" y="70" font-size="28">🦖</text>
+                <text x="260" y="80" font-size="28">🦕</text>
+                <text x="140" y="90" font-size="22">🥚</text>
+                <text x="80" y="130" font-size="28">🦕</text>
+                <text x="210" y="140" font-size="28">🦖</text>
+                <text x="280" y="150" font-size="22">🥚</text>
+                <text x="50" y="190" font-size="22">🥚</text>
+                <text x="150" y="190" font-size="28">🦖</text>
+                <text x="220" y="200" font-size="22">🥚</text>
+                <text x="110" y="140" font-size="22">🥚</text>
+                <text x="270" y="210" font-size="28">🦕</text>
+                <text x="90" y="75" font-size="28">🦖</text>
                 """
             elif es_espacio:
-                decoraciones_svg = """
-                <!-- Estrellas y planetas de fondo -->
-                <circle cx="280" cy="80" r="6" fill="#e0e8f5" />
-                <circle cx="60" cy="220" r="4" fill="#e0e8f5" />
-                <polygon points="120,40 123,46 130,46 125,50 127,56 120,52 113,56 115,50 110,46 117,46" fill="#e0e8f5" />
+                item_1, item_2, item_3 = "🚀", "🪐", "🛸"
+                label_1, label_2, label_3 = "Cohetes", "Saturnos", "Platillos"
+                elementos_svg = """
+                <text x="50" y="80" font-size="28">🚀</text>
+                <text x="150" y="70" font-size="28">🪐</text>
+                <text x="270" y="90" font-size="28">🛸</text>
+                <text x="90" y="130" font-size="28">🛸</text>
+                <text x="210" y="130" font-size="28">🚀</text>
+                <text x="40" y="180" font-size="28">🪐</text>
+                <text x="140" y="180" font-size="28">🛸</text>
+                <text x="260" y="190" font-size="28">🚀</text>
+                <text x="100" y="85" font-size="28">🪐</text>
+                <text x="200" y="195" font-size="28">🛸</text>
                 """
             else:
-                decoraciones_svg = """
-                <!-- Flores de fondo -->
-                <circle cx="280" cy="80" r="5" fill="#e2f5f1" />
-                <circle cx="275" cy="85" r="4" fill="#e2f5f1" />
-                <circle cx="285" cy="85" r="4" fill="#e2f5f1" />
-                <circle cx="60" cy="220" r="5" fill="#e2f5f1" />
+                item_1, item_2, item_3 = "🦔", "🍄", "🦋"
+                label_1, label_2, label_3 = "Erizos", "Setas", "Mariposas"
+                elementos_svg = """
+                <text x="40" y="70" font-size="28">🦔</text>
+                <text x="140" y="80" font-size="28">🍄</text>
+                <text x="250" y="70" font-size="28">🦋</text>
+                <text x="90" y="130" font-size="28">🦋</text>
+                <text x="210" y="120" font-size="28">🦔</text>
+                <text x="280" y="140" font-size="28">🍄</text>
+                <text x="50" y="190" font-size="28">🍄</text>
+                <text x="150" y="180" font-size="28">🦔</text>
+                <text x="220" y="190" font-size="28">🦋</text>
+                <text x="110" y="80" font-size="28">🦋</text>
+                <text x="270" y="200" font-size="28">🦔</text>
                 """
             
-            svg_laberinto = f"""
+            svg_busca_cuenta = f"""
             <svg class="actividad-svg" width="310" height="310" viewBox="0 0 340 340">
-                <rect x="10" y="10" width="320" height="320" rx="18" fill="{fondo_color}" stroke="{pared_color}" stroke-width="2.5" />
+                <!-- Marco del juego -->
+                <rect x="10" y="10" width="320" height="220" rx="15" fill="{fondo_color}" stroke="{pared_color}" stroke-width="2.5" />
                 
-                {decoraciones_svg}
+                {elementos_svg}
                 
-                <!-- Cajas de Entrada y Salida con etiquetas -->
-                <g transform="translate(15, 15)">
-                    <rect x="0" y="0" width="50" height="50" rx="8" fill="#ffffff" stroke="{pared_color}" stroke-width="1.5" />
-                    <text x="25" y="28" font-size="20" text-anchor="middle">{entrada_emoji}</text>
-                    <text x="25" y="44" font-size="7pt" font-family="'Fredoka', sans-serif" font-weight="bold" fill="{pared_color}" text-anchor="middle">INICIO</text>
+                <!-- Panel de Respuestas inferior -->
+                <g transform="translate(10, 245)">
+                    <rect x="0" y="0" width="320" height="85" rx="12" fill="#ffffff" stroke="{pared_color}" stroke-width="1.5" />
+                    
+                    <!-- Item 1 -->
+                    <g transform="translate(20, 15)">
+                        <circle cx="20" cy="20" r="16" fill="none" stroke="{pared_color}" stroke-dasharray="3,3" stroke-width="2" />
+                        <text x="55" y="27" font-size="22">{item_1}</text>
+                        <text x="55" y="44" font-size="6.5pt" font-family="'Fredoka', sans-serif" font-weight="bold" fill="#666666">{label_1}</text>
+                    </g>
+                    
+                    <!-- Item 2 -->
+                    <g transform="translate(120, 15)">
+                        <circle cx="20" cy="20" r="16" fill="none" stroke="{pared_color}" stroke-dasharray="3,3" stroke-width="2" />
+                        <text x="55" y="27" font-size="22">{item_2}</text>
+                        <text x="55" y="44" font-size="6.5pt" font-family="'Fredoka', sans-serif" font-weight="bold" fill="#666666">{label_2}</text>
+                    </g>
+                    
+                    <!-- Item 3 -->
+                    <g transform="translate(220, 15)">
+                        <circle cx="20" cy="20" r="16" fill="none" stroke="{pared_color}" stroke-dasharray="3,3" stroke-width="2" />
+                        <text x="55" y="27" font-size="22">{item_3}</text>
+                        <text x="55" y="44" font-size="6.5pt" font-family="'Fredoka', sans-serif" font-weight="bold" fill="#666666">{label_3}</text>
+                    </g>
                 </g>
-                <g transform="translate(275, 275)">
-                    <rect x="0" y="0" width="50" height="50" rx="8" fill="#ffffff" stroke="{pared_color}" stroke-width="1.5" />
-                    <text x="25" y="28" font-size="20" text-anchor="middle">{salida_emoji}</text>
-                    <text x="25" y="44" font-size="6pt" font-family="'Fredoka', sans-serif" font-weight="bold" fill="{pared_color}" text-anchor="middle">{meta_label}</text>
-                </g>
-                
-                <!-- Paredes Exteriores -->
-                <path d="M 70,20 L 320,20 L 320,270 M 20,320 L 20,70 M 20,320 L 270,320" stroke="{pared_color}" stroke-width="4.5" stroke-linecap="round" fill="none" />
-                <!-- Paredes Interiores -->
-                <path d="M 50,50 L 80,50 M 110,50 L 170,50 M 20,80 L 50,80 M 80,80 L 110,80 M 140,80 L 200,80 M 230,80 L 260,80 M 290,80 L 320,80
-                         M 50,110 L 110,110 M 140,110 L 170,110 M 200,110 L 260,110 M 290,110 L 320,110
-                         M 80,140 L 140,140 M 170,140 L 230,140 M 260,140 L 290,140
-                         M 20,170 L 50,170 M 80,170 L 110,170 M 140,170 L 200,170 M 230,170 L 290,170
-                         M 50,200 L 80,200 M 110,200 L 140,200 M 170,200 L 230,200 M 260,200 L 320,200
-                         M 20,230 L 80,230 M 110,230 L 170,230 M 200,230 L 260,230 M 290,230 L 320,230
-                         M 50,260 L 110,260 M 140,260 L 200,260 M 230,260 L 290,260
-                         M 20,290 L 50,290 M 80,290 L 140,290 M 170,290 L 230,290 M 260,290 L 320,290" 
-                       stroke="{pared_color}" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-                <path d="M 50,20 L 50,50 M 50,80 L 50,140 M 50,170 L 50,230 M 50,260 L 50,290
-                         M 80,50 L 80,110 M 80,140 L 80,200 M 80,230 L 80,260 M 80,290 L 80,320
-                         M 110,20 L 110,80 M 110,110 L 110,170 M 110,200 L 110,290
-                         M 140,50 L 140,110 M 140,140 L 140,230 M 140,260 L 140,320
-                         M 170,80 L 170,140 M 170,170 L 170,200 M 170,230 L 170,290
-                         M 200,20 L 200,80 M 200,110 L 200,170 M 200,200 L 200,260 M 200,290 L 200,320
-                         M 230,50 L 230,110 M 230,140 L 230,230 M 230,260 L 230,320
-                         M 260,20 L 260,50 M 260,80 L 260,170 M 260,200 L 260,290
-                         M 290,50 L 290,140 M 290,170 L 290,260 M 290,290 L 290,320" 
-                       stroke="{pared_color}" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none" />
             </svg>
             """
             
-            # Limpiar contenido del markdown
+            # Limpiar contenido de la instrucción del markdown
             instruccion = re.sub(r'###\s+.*', '', page_content).strip()
             instruccion = re.sub(r'\*\*.*?\*\*', '', instruccion).strip()
             instruccion_html = format_body_text(instruccion)
             
-            titulo_h3 = "🧩 ¡Guía al Cohete de Nico y Luna!" if es_espacio else "🧩 ¡Ayuda a Nico y Luna!"
+            titulo_actividad = "🧩 ¡Busca, Cuenta y Colorea!"
             
             html_out.append(f"""
             <div class="{page_class}">
                 <div class="page-title">{page_title}</div>
                 <div class="actividad-container">
-                    <h3>{titulo_h3}</h3>
+                    <h3>{titulo_actividad}</h3>
                     <div class="actividad-instrucciones">{instruccion_html}</div>
-                    {svg_laberinto}
+                    {svg_busca_cuenta}
                 </div>
             </div>
             """)
-            
         elif "ACTIVIDAD 2" in page_title or "DIFERENCIAS" in page_title:
             # Generar Diferencias SVG vectorial limpio
             if es_espacio:

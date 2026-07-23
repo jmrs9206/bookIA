@@ -440,11 +440,11 @@ Copito entra corriendo en el cuarto con su escafandra en la boca, listo para un 
 
 ---
 
-## [PÁGINA 51: ACTIVIDAD 1 - EL LABERINTO ESPACIAL]
+## [PÁGINA 51: ACTIVIDAD 1 - BUSCA, CUENTA Y COLOREA EL ESPACIO]
 
-### 🧩 ¡Guía al Cohete de Nico y Luna hasta el Planeta de Helado!
+### 🧩 ¡Busca, Cuenta y Colorea!
 
-Recorre el camino espacial esquivando los agujeros negros y los cometas traviesos.
+Observa el dibujo y cuenta cuántos elementos espaciales encuentras en el espacio. Escribe el número en los círculos y colorea la escena.
 
 ---
 

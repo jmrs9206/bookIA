@@ -452,11 +452,11 @@ Al fondo, la luna brilla en la ventana, iluminando una noche llena de magia y du
 
 ---
 
-## [PÁGINA 51: ACTIVIDAD 1 - EL LABERINTO DEL VOLCÁN]
+## [PÁGINA 51: ACTIVIDAD 1 - BUSCA, CUENTA Y COLOREA LOS DINOSAURIOS]
 
-### 🧩 ¡Ayuda al pequeño Dino a llegar al Volcán de Burbujas!
+### 🧩 ¡Busca, Cuenta y Colorea!
 
-Recorre con tu lápiz el camino correcto evitando los caminos sin salida.
+Observa el dibujo y cuenta cuántos dinosaurios de cada tipo encuentras en este valle prehistórico. Escribe el número en los círculos y coloréalos todos.
 
 ---
 
