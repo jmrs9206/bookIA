@@ -88,6 +88,23 @@ Ideal para niños de 4 a 8 años.""",
         "border_color": "#215d26",
         "text_color": "#eaf5eb",
         "accent_color": "#adff2f" # Verde lima brillante
+    },
+    "libro_6_aventura_en_el_desierto_dorado": {
+        "num": 6,
+        "subtitulo": "Aventura en el Desierto Dorado",
+        "sinopsis": """¡Viaja al desierto dorado con Nico, Luna y su valiente perrito Copito en una expedición mágica entre dunas gigantes!
+
+Cruza desfiladeros de arena y conoce a simpáticos amigos animales como el camello con turbante Dandi, el zorro de dunas de orejas grandes Zori y el halcón cantor. En este volumen premium de 60 páginas, Nico y Luna viajarán sobre el lomo de un camello y volarán sobre una alfombra mágica a través de oasis de agua de cristal y templos de arena en busca de la jarra de cristal dorada.
+
+Cada escena del viaje combina una página de lectura ágil en la izquierda con hermosas ilustraciones infantiles a color alternadas con láminas en blanco y negro listas para colorear a la derecha.
+
+¡Fomenta la creatividad, la lectura temprana y la concentración con divertidas sopas de letras, busca y cuenta, conecta los puntos, conecta las sombras y juegos de diferencias al final del libro!
+
+Ideal para niños de 4 a 8 años.""",
+        "bg_color": "#5c3d11", # Marrón desierto profundo
+        "border_color": "#7a541b",
+        "text_color": "#faf2e6",
+        "accent_color": "#ffd700" # Amarillo oro brillante
     }
 }
 
