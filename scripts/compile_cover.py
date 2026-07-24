@@ -71,6 +71,23 @@ Ideal para niños de 4 a 8 años.""",
         "border_color": "#244b6f",
         "text_color": "#e2f1fc",
         "accent_color": "#ffc300" # Amarillo dorado brillante
+    },
+    "libro_5_aventura_en_la_selva_tropical": {
+        "num": 5,
+        "subtitulo": "Aventura en la Selva Tropical",
+        "sinopsis": """¡Adéntrate en la selva tropical con Nico, Luna y su valiente perrito Copito en una expedición llena de vida y color!
+
+Explora la espesura de la naturaleza y conoce a simpáticos amigos animales como el travieso monito Coco, el tucán de pico arcoíris Kiko y el adorable cachorro de jaguar manchado. En este volumen premium de 60 páginas, Nico y Luna viajarán en un gran jeep verde todo terreno a través de ríos misteriosos, puentes colgantes de lianas y cascadas secretas en busca de la flor de loto dorada.
+
+Cada escena del viaje combina una página de lectura ágil en la izquierda con hermosas ilustraciones infantiles a color alternadas con láminas en blanco y negro listas para colorear a la derecha.
+
+¡Fomenta la creatividad, la lectura temprana y la concentración con divertidas sopas de letras, busca y cuenta, conecta los puntos, conecta las sombras y juegos de diferencias al final del libro!
+
+Ideal para niños de 4 a 8 años.""",
+        "bg_color": "#113f15", # Verde selva tropical profundo
+        "border_color": "#215d26",
+        "text_color": "#eaf5eb",
+        "accent_color": "#adff2f" # Verde lima brillante
     }
 }
 
