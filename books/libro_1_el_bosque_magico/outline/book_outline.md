@@ -34,13 +34,13 @@
 | **Pág. 21** | Historia (Escena 18) | El atardecer tiñendo el bosque de dorado | "El sol comienza a ocultarse tras las colinas..." |
 | **Pág. 22** | Historia (Escena 19) | Despedida cariñosa de los amigos del bosque | "—¡Hasta pronto, amigos! —se despiden Nico y Luna..." |
 | **Pág. 23** | Historia (Escena 20) | Regreso a casa sabiendo que la magia continúa | "De vuelta en su habitación, guardan la aventura en su corazón..." |
-| **Pág. 24** | Actividad 1 | Laberinto: Ayuda a Nico y Luna a llegar al árbol del Búho | *Página interactiva para colorear y resolver* |
+| **Pág. 24** | Actividad 1 | Busca, Cuenta y Colorea: Cuenta los elementos del bosque | *Página interactiva para colorear y resolver* |
 | **Pág. 25** | Actividad 2 | Busca las 5 diferencias entre las escenas del erizo | *Página de agudeza visual* |
 | **Pág. 26** | Actividad 3 | Conecta los puntos (1 a 20) para descubrir al Búho Sabio | *Conectar puntos e ilustrar* |
 | **Pág. 27** | Actividad 4 | Dibujo libre: Dibuja tu animal mágico preferido del bosque | *Espacio creativo para el niño* |
 | **Pág. 28** | Próxima Aventura | Avance del Libro 2: *Viaje al Espacio* (con ilustración para colorear) | *Promoción de la colección* |
-| **Pág. 29** | Probador de Color | Página para probar lápices y rotuladores | *Sección utilitaria para KDP* |
-| **Pág. 30** | Soluciones | Respuestas a los juegos y laberintos | *Solucionario* |
+| **Pág. 29** | Actividad 5 | Sopa de Letras Mágica: Encuentra 5 palabras ocultas | *Pasatiempo* |
+| **Pág. 30** | Actividad 6 y Soluc. | Conecta las Sombras y Soluciones a los juegos | *Solucionario* |
 
 ---
 

@@ -2,14 +2,11 @@
 
 ---
 
-## [PÁGINA 24: ACTIVIDAD 1 - EL LABERINTO DEL BOSQUE]
+## [PÁGINA 24: ACTIVIDAD 1 - BUSCA, CUENTA Y COLOREA EL BOSQUE]
 
-### 🧩 ¡Ayuda a Nico y Luna a llegar a la Casita del Erizo!
+### 🧩 ¡Busca, Cuenta y Colorea!
 
-Recorre con tu lápiz el camino correcto evitando los caminos sin salida.
-
-**[Diseño Visual de la Ilustración / Actividad]:**  
-Laberinto sencillo en forma de sendero forestal. Entrada con Nico y Luna arriba a la izquierda. Salida abajo a la derecha con la casita del erizo. Obstáculos bonitos (charco con ranita, setas gigantes, matorral de espinas) en los caminos incorrectos. Líneas gruesas y claras para niños de 4-8 años.
+Observa el dibujo y cuenta cuántos elementos del bosque encuentras. Escribe el número en los círculos y colorea la escena.
 
 ---
 
