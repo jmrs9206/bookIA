@@ -449,56 +449,47 @@ h3 { font-size: 15pt; font-weight: 600; }
     display: inline-block;
 }
 
-/* Probador de colores */
-.probador-container {
+/* Sopa de Letras */
+.sopa-container {
     width: 100%;
-    margin-top: 10px;
-    box-sizing: border-box;
+    margin-top: 5px;
     text-align: center;
 }
-
-.probador-caja {
-    display: inline-block;
-    width: 45%;
-    vertical-align: top;
-    margin: 5px 1.5%;
-    border: 2px dashed #999999;
-    border-radius: 12px;
-    padding: 12px;
-    text-align: center;
+.sopa-tabla {
+    margin: 8px auto;
+    border-collapse: collapse;
     background-color: #fafafa;
-    box-sizing: border-box;
+    border: 2.5px solid #222222;
+    border-radius: 12px;
+    overflow: hidden;
 }
-
-.probador-caja h4 {
-    margin: 0 0 5px 0;
-    font-family: 'Fredoka', sans-serif;
-    font-size: 12pt;
-    color: #111111;
-}
-
-.probador-zonas {
+.sopa-tabla td {
+    width: 25px;
+    height: 25px;
+    border: 1px solid #dddddd;
     text-align: center;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 11pt;
+    font-weight: 600;
+    color: #333333;
+}
+.sopa-palabras {
     margin-top: 10px;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 10pt;
+    color: #444444;
+    text-align: center;
+    width: 100%;
 }
-
-.probador-zona-color {
+.sopa-palabra-tag {
     display: inline-block;
-    width: 40px;
-    height: 40px;
-    border: 2px dashed #bbbbbb;
-    border-radius: 50%;
-    background-color: #ffffff;
-    margin: 0 8px;
-}
-
-.probador-zona-rectangular {
-    width: 90%;
-    height: 50px;
-    border: 2px dashed #bbbbbb;
+    padding: 3px 8px;
+    margin: 3px 5px;
+    background-color: #f7f7f7;
+    border: 1.5px solid #cccccc;
     border-radius: 8px;
-    background-color: #ffffff;
-    margin: 8px auto 0 auto;
+    font-weight: bold;
+    font-size: 9pt;
 }
 """
 
@@ -695,7 +686,6 @@ def parse_markdown_to_html(md_content, base_dir):
             
             # Limpiar contenido de la instrucción del markdown
             instruccion = re.sub(r'###\s+.*', '', page_content).strip()
-            instruccion = re.sub(r'\*\*.*?\*\*', '', instruccion).strip()
             instruccion_html = format_body_text(instruccion)
             
             titulo_actividad = "🧩 ¡Busca, Cuenta y Colorea!"
@@ -987,97 +977,138 @@ def parse_markdown_to_html(md_content, base_dir):
             </div>
             """)
             
-        elif "PROBADOR DE COLORES" in page_title or "PROBADOR DE LÁPICES" in page_title or "PROBADOR DE ROTULADORES" in page_title:
-            # Probadores
-            titulo_probador = "🖍️ Probador de Lápices de Colores" if "LÁPICES" in page_title else "🎨 Probador de Rotuladores"
-            desc_probador = ("Prueba el trazo, la presión y los tonos de tus lápices o ceras de colores."
-                             if "LÁPICES" in page_title else
-                             "Prueba la intensidad de tus rotuladores y asegúrate de que no traspase el papel.")
+        elif "ACTIVIDAD 5" in page_title or "SOPA DE LETRAS" in page_title or "SOPA" in page_title or "PROBADOR DE COLORES - LÁPICES" in page_title:
+            # Actividad 5: Sopa de Letras
+            palabras = ["DINO", "HUEVO", "SELVA", "FÓSIL", "NICO"] if es_dino else (
+                ["ASTRO", "PLANETA", "COHETE", "LUNA", "NICO"] if es_espacio else
+                ["BOSQUE", "ERIZO", "FLOR", "SETAS", "LUNA"]
+            )
             
-            # Formas SVG personalizadas para las pruebas según la temática
+            # Cuadrícula de 8x8 pre-diseñada según temática
             if es_dino:
-                # Huella de dinosaurio (zona pequeña)
-                svg_zona = """
-                <svg width="46" height="46" viewBox="0 0 100 100" style="margin: 0 4px; display: inline-block;">
-                    <path d="M 50,85 C 35,85 28,72 28,60 C 28,50 38,45 22,30 C 12,15 32,20 44,35 C 47,40 53,40 56,35 C 68,20 88,15 78,30 C 62,45 72,50 72,60 C 72,72 65,85 50,85 Z" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2.5" />
-                </svg>
-                """
-                # Huevo de dinosaurio grande (zona mezcla)
-                svg_mezcla = """
-                <svg width="220" height="90" viewBox="0 0 220 90" style="display: block; margin: 5px auto 0 auto;">
-                    <rect x="5" y="5" width="210" height="80" rx="10" fill="none" stroke="#cccccc" stroke-width="1.5" stroke-dasharray="2,2" />
-                    <path d="M 60,15 C 45,15 35,35 35,55 C 35,68 45,78 60,78 C 75,78 85,68 85,55 C 85,35 75,15 60,15 Z" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
-                    <path d="M 160,15 C 145,15 135,35 135,55 C 135,68 145,78 160,78 C 175,78 185,68 185,55 C 185,35 175,15 160,15 Z" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
-                </svg>
-                """
+                grid = [
+                    ["D", "I", "N", "O", "X", "Y", "Z", "H"],
+                    ["A", "B", "C", "D", "E", "F", "G", "U"],
+                    ["S", "E", "L", "V", "A", "O", "P", "E"],
+                    ["Q", "W", "E", "R", "T", "Y", "U", "V"],
+                    ["F", "Ó", "S", "I", "L", "M", "N", "O"],
+                    ["P", "Q", "R", "S", "T", "U", "V", "W"],
+                    ["N", "I", "C", "O", "A", "B", "C", "D"],
+                    ["X", "Y", "Z", "A", "B", "C", "D", "E"]
+                ]
             elif es_espacio:
-                # Estrella (zona pequeña)
-                svg_zona = """
-                <svg width="46" height="46" viewBox="0 0 100 100" style="margin: 0 4px; display: inline-block;">
-                    <polygon points="50,12 63,38 92,38 69,56 78,85 50,68 22,85 31,56 8,38 37,38" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2.5" />
-                </svg>
-                """
-                # Planeta con anillo (zona mezcla)
-                svg_mezcla = """
-                <svg width="220" height="90" viewBox="0 0 220 90" style="display: block; margin: 5px auto 0 auto;">
-                    <rect x="5" y="5" width="210" height="80" rx="10" fill="none" stroke="#cccccc" stroke-width="1.5" stroke-dasharray="2,2" />
-                    <circle cx="110" cy="45" r="24" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
-                    <ellipse cx="110" cy="45" rx="38" ry="8" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" transform="rotate(-15 110 45)" />
-                </svg>
-                """
+                grid = [
+                    ["A", "S", "T", "R", "O", "X", "Y", "Z"],
+                    ["P", "L", "A", "N", "E", "T", "A", "W"],
+                    ["Q", "C", "O", "H", "E", "T", "E", "V"],
+                    ["E", "R", "T", "Y", "U", "I", "O", "P"],
+                    ["L", "U", "N", "A", "X", "Y", "Z", "A"],
+                    ["N", "I", "C", "O", "B", "C", "D", "E"],
+                    ["F", "G", "H", "I", "J", "K", "L", "M"],
+                    ["N", "O", "P", "Q", "R", "S", "T", "U"]
+                ]
             else:
-                # Flor (zona pequeña)
-                svg_zona = """
-                <svg width="46" height="46" viewBox="0 0 100 100" style="margin: 0 4px; display: inline-block;">
-                    <circle cx="50" cy="50" r="8" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
-                    <circle cx="50" cy="30" r="10" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
-                    <circle cx="70" cy="44" r="10" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
-                    <circle cx="62" cy="68" r="10" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
-                    <circle cx="38" cy="68" r="10" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
-                    <circle cx="30" cy="44" r="10" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
-                </svg>
-                """
-                # Seta (zona mezcla)
-                svg_mezcla = """
-                <svg width="220" height="90" viewBox="0 0 220 90" style="display: block; margin: 5px auto 0 auto;">
-                    <rect x="5" y="5" width="210" height="80" rx="10" fill="none" stroke="#cccccc" stroke-width="1.5" stroke-dasharray="2,2" />
-                    <path d="M 70,55 C 70,30 150,30 150,55 C 135,55 130,78 120,78 C 100,78 95,55 70,55 Z" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
-                    <path d="M 103,55 L 103,78 M 117,55 L 117,78" fill="none" stroke="#888888" stroke-dasharray="3,3" stroke-width="2" />
-                </svg>
-                """
+                grid = [
+                    ["B", "O", "S", "Q", "U", "E", "X", "Y"],
+                    ["A", "B", "C", "E", "R", "I", "Z", "O"],
+                    ["F", "L", "O", "R", "D", "E", "F", "G"],
+                    ["H", "I", "J", "S", "E", "T", "A", "S"],
+                    ["L", "U", "N", "A", "K", "L", "M", "N"],
+                    ["O", "P", "Q", "R", "S", "T", "U", "V"],
+                    ["W", "X", "Y", "Z", "A", "B", "C", "D"],
+                    ["E", "F", "G", "H", "I", "J", "K", "L"]
+                ]
+                
+            tabla_html = "<table class='sopa-tabla'>"
+            for row in grid:
+                tabla_html += "<tr>"
+                for letter in row:
+                    tabla_html += f"<td>{letter}</td>"
+                tabla_html += "</tr>"
+            tabla_html += "</table>"
+            
+            palabras_html = "<div class='sopa-palabras'>"
+            for pal in palabras:
+                palabras_html += f"<span class='sopa-palabra-tag'>{pal}</span>"
+            palabras_html += "</div>"
+            
+            # Limpiar contenido del markdown
+            instruccion = re.sub(r'###\s+.*', '', page_content).strip()
+            instruccion_html = format_body_text(instruccion)
             
             html_out.append(f"""
             <div class="{page_class}">
                 <div class="page-title">{page_title}</div>
                 <div class="actividad-container">
-                    <h3>{titulo_probador}</h3>
-                    <div class="actividad-instrucciones">{desc_probador}</div>
-                    
-                    <div class="probador-container">
-                        <div class="probador-caja">
-                            <h4>Color Suave</h4>
-                            <p style="font-size: 8.5pt; color: #666666; margin: 3px 0 10px 0;">Pinta con trazos muy suaves.</p>
-                            <div class="probador-zonas">
-                                {svg_zona}
-                                {svg_zona}
-                            </div>
-                        </div>
-                        
-                        <div class="probador-caja">
-                            <h4>Color Fuerte</h4>
-                            <p style="font-size: 8.5pt; color: #666666; margin: 3px 0 10px 0;">Pinta con trazos más fuertes.</p>
-                            <div class="probador-zonas">
-                                {svg_zona}
-                                {svg_zona}
-                            </div>
-                        </div>
-                        
-                        <div class="probador-caja" style="width: 93%; height: 1.8in; margin-top: 15px;">
-                            <h4>Mezcla y Degradados</h4>
-                            <p style="font-size: 8.5pt; color: #666666; margin: 3px 0 8px 0;">Prueba a degradar un color o a mezclar dos colores diferentes en esta zona.</p>
-                            {svg_mezcla}
-                        </div>
+                    <h3>🧩 Sopa de Letras Mágica</h3>
+                    <div class="actividad-instrucciones">{instruccion_html}</div>
+                    <div class="sopa-container">
+                        {tabla_html}
+                        {palabras_html}
                     </div>
+                </div>
+            </div>
+            """)
+            
+        elif "ACTIVIDAD 6" in page_title or "CONECTA LAS SOMBRAS" in page_title or "SOMBRA" in page_title or "PROBADOR DE COLORES - ROTULADORES" in page_title:
+            # Actividad 6: Conecta las Sombras
+            emoji_fig = "🦖" if es_dino else ("🚀" if es_espacio else "🦔")
+            color_pared = "#2d5a27" if es_dino else ("#1d3557" if es_espacio else "#2a9d8f")
+            color_fondo = "#f3f8f2" if es_dino else ("#f4f7fa" if es_espacio else "#f4fcf9")
+            
+            # SVG de sombras
+            svg_sombras = f"""
+            <svg class="actividad-svg" width="310" height="310" viewBox="0 0 340 340">
+                <rect x="10" y="10" width="320" height="320" rx="15" fill="{color_fondo}" stroke="{color_pared}" stroke-width="2.5" />
+                
+                <!-- Figura original (A color y grande) -->
+                <g transform="translate(45, 120)">
+                    <rect x="0" y="0" width="80" height="80" rx="10" fill="#ffffff" stroke="{color_pared}" stroke-width="1.5" />
+                    <text x="40" y="55" font-size="44" text-anchor="middle">{emoji_fig}</text>
+                    <circle cx="95" cy="40" r="6" fill="{color_pared}" />
+                </g>
+                
+                <!-- Sombras del lado derecho -->
+                <!-- Opción A: Incorrecta (Volteada) -->
+                <g transform="translate(200, 30)">
+                    <rect x="0" y="0" width="70" height="70" rx="8" fill="#e0e0e0" stroke="#888888" stroke-width="1.5" />
+                    <text x="35" y="48" font-size="34" text-anchor="middle" fill="#333333" opacity="0.15" transform="scale(-1, 1) translate(-70, 0)">{emoji_fig}</text>
+                    <circle cx="-15" cy="35" r="6" fill="#888888" />
+                    <text x="82" y="40" font-size="10" font-family="'Fredoka', sans-serif" font-weight="bold" fill="#666666">A</text>
+                </g>
+                
+                <!-- Opción B: Correcta -->
+                <g transform="translate(200, 125)">
+                    <rect x="0" y="0" width="70" height="70" rx="8" fill="#e0e0e0" stroke="#888888" stroke-width="1.5" />
+                    <text x="35" y="48" font-size="34" text-anchor="middle" fill="#333333" opacity="0.15">{emoji_fig}</text>
+                    <circle cx="-15" cy="35" r="6" fill="#888888" />
+                    <text x="82" y="40" font-size="10" font-family="'Fredoka', sans-serif" font-weight="bold" fill="#666666">B</text>
+                </g>
+                
+                <!-- Opción C: Incorrecta (Rotada) -->
+                <g transform="translate(200, 220)">
+                    <rect x="0" y="0" width="70" height="70" rx="8" fill="#e0e0e0" stroke="#888888" stroke-width="1.5" />
+                    <text x="35" y="48" font-size="34" text-anchor="middle" fill="#333333" opacity="0.15" transform="rotate(45 35 35)">{emoji_fig}</text>
+                    <circle cx="-15" cy="35" r="6" fill="#888888" />
+                    <text x="82" y="40" font-size="10" font-family="'Fredoka', sans-serif" font-weight="bold" fill="#666666">C</text>
+                </g>
+                
+                <!-- Línea de instrucción -->
+                <path d="M 160,160 L 175,160" stroke="#888888" stroke-width="2" stroke-dasharray="3,3" />
+            </svg>
+            """
+            
+            # Limpiar contenido del markdown
+            instruccion = re.sub(r'###\s+.*', '', page_content).strip()
+            instruccion_html = format_body_text(instruccion)
+            
+            html_out.append(f"""
+            <div class="{page_class}">
+                <div class="page-title">{page_title}</div>
+                <div class="actividad-container">
+                    <h3>🧩 Conecta con su Sombra</h3>
+                    <div class="actividad-instrucciones">{instruccion_html}</div>
+                    {svg_sombras}
                 </div>
             </div>
             """)

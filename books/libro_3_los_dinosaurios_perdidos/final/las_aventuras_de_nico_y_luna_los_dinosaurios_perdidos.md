@@ -519,23 +519,19 @@ Ayudarán a un pequeño escarabajo de la suerte a recuperar el amuleto dorado de
 
 ---
 
-## [PÁGINA 57: PROBADOR DE COLORES - LÁPICES]
+## [PÁGINA 57: ACTIVIDAD 5 - SOPA DE LETRAS MÁGICA]
 
-### 🖍️ Probador de Lápices de Colores y Ceras
+### 🧩 Encuentra las 5 palabras ocultas de los dinosaurios en esta sopa de letras.
 
-Utiliza esta página para probar la textura e intensidad de tus lápices de colores o ceras antes de pintar las páginas del libro.
-
-- **Prueba de intensidad de lápiz:**  
-  [ Rellena este círculo con color suave ]  
-  [ Rellena este círculo con color fuerte ]
+Las palabras que debes buscar son: **DINO**, **HUEVO**, **SELVA**, **FÓSIL** y **NICO**. ¡Diviértete!
 
 ---
 
-## [PÁGINA 58: PROBADOR DE COLORES - ROTULADORES]
+## [PÁGINA 58: ACTIVIDAD 6 - CONECTA LAS SOMBRAS]
 
-### 🎨 Probador de Rotuladores y Acuarelas
+### 🧩 Une con una línea el dinosaurio de la izquierda con su sombra correcta a la derecha.
 
-Utiliza este espacio en blanco para probar la intensidad de tus rotuladores mágicos y asegurarte de que el color no traspase al otro lado de la hoja.
+Observa muy bien la posición, la dirección y la silueta del pequeño Dino T-Rex.
 
 ---
 
@@ -543,9 +539,11 @@ Utiliza este espacio en blanco para probar la intensidad de tus rotuladores mág
 
 ### 💡 Soluciones de los Juegos
 
-- **Página 51 (Laberinto):** El camino correcto gira a la izquierda tras el gran helecho, pasa por debajo del cuello del Brontosaurio y cruza directo el camino de rocas hasta el pie del volcán.
+- **Página 51 (Busca y Cuenta):** Encontraste 4 T-Rex (🦖), 3 Brontosaurios (🦕) y 5 Huevos (🥚).
 - **Página 52 (Diferencias):** 1. Falta la punta del cuerno; 2. La mariposa tiene alas redondas; 3. Hay una flor más en el suelo; 4. La nube es más alargada; 5. Falta la piedra pequeña junto a la pata.
 - **Página 53 (Conecta Puntos):** ¡Es un simpático Triceratops bebé!
+- **Página 57 (Sopa de Letras):** Las palabras están ocultas en horizontal.
+- **Página 58 (Conecta las Sombras):** La sombra correcta es la opción **B**.
 
 ---
 

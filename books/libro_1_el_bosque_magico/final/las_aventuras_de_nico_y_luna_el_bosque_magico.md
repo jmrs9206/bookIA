@@ -487,23 +487,19 @@ Conocerán planetas sonrientes, robots simpáticos y a un alegre alienígena que
 
 ---
 
-## [PÁGINA 57: PROBADOR DE COLORES - LÁPICES]
+## [PÁGINA 57: ACTIVIDAD 5 - SOPA DE LETRAS MÁGICA]
 
-### 🖍️ Probador de Lápices de Colores y Ceras
+### 🧩 Encuentra las 5 palabras ocultas del bosque en esta sopa de letras.
 
-Utiliza esta página para probar la textura e intensidad de tus lápices de colores o ceras antes de pintar las páginas del libro.
-
-- **Prueba de intensidad de lápiz:**  
-  [ Rellena este círculo con color suave ]  
-  [ Rellena este círculo con color fuerte ]
+Las palabras que debes buscar son: **BOSQUE**, **ERIZO**, **FLOR**, **SETAS** y **LUNA**. ¡Diviértete!
 
 ---
 
-## [PÁGINA 58: PROBADOR DE COLORES - ROTULADORES]
+## [PÁGINA 58: ACTIVIDAD 6 - CONECTA LAS SOMBRAS]
 
-### 🎨 Probador de Rotuladores y Acuarelas
+### 🧩 Une con una línea la criatura de la izquierda con su sombra correcta a la derecha.
 
-Utiliza este espacio en blanco para probar la intensidad de tus rotuladores mágicos y asegurarte de que el color no traspase al otro lado de la hoja.
+Observa muy bien la posición, la dirección y la silueta del Erizo mágico.
 
 ---
 
@@ -511,9 +507,11 @@ Utiliza este espacio en blanco para probar la intensidad de tus rotuladores mág
 
 ### 💡 Soluciones de los Juegos
 
-- **Página 51 (Laberinto):** El camino correcto gira a la derecha tras el rosal, pasa por la izquierda de la seta gigante y cruza recto el puente de madera hasta la casita.
+- **Página 51 (Busca y Cuenta):** Encontraste 4 Erizos (🦔), 3 Setas (🍄) y 4 Mariposas (🦋).
 - **Página 52 (Diferencias):** 1. La mora sobre la cabeza; 2. La mariquita en la hoja; 3. La flor junto al pie; 4. Los lunares de la seta; 5. La manzana en la cesta.
 - **Página 53 (Conecta Puntos):** ¡Es el entrañable Búho Sabio!
+- **Página 57 (Sopa de Letras):** Las palabras están ocultas en horizontal.
+- **Página 58 (Conecta las Sombras):** La sombra correcta es la opción **B**.
 
 ---
 
