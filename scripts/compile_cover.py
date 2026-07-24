@@ -219,10 +219,25 @@ body {{
 }}
 
 .front-content {{
-    /* Contenedor relativo para posicionar al autor de forma absoluta */
     position: relative;
     width: 100%;
     height: 100%;
+}}
+
+.front-header-container {{
+    position: absolute;
+    top: 0.8in;
+    left: 0.8in;
+    right: 0.925in; /* Margen seguro con sangría derecha */
+    text-align: center;
+    box-sizing: border-box;
+}}
+
+.subtitle-container {{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 15px;
 }}
 
 .main-title {{
@@ -314,6 +329,22 @@ def main():
     if info["num"] == 2:
         css_rendered = css_rendered.replace("color: #c71585;", "color: #ff8c00;") # Naranja en el libro 2
         
+    # Cabecera condicional para portada (solo para Libro 3, que tiene portada limpia sin texto)
+    if info["num"] == 3:
+        portada_header = f"""
+                <div class="front-header-container">
+                    <div class="main-title">Las Aventuras de</div>
+                    <div class="main-title" style="font-size: 38pt; font-weight: 600; margin-top: 5px;">Nico y Luna</div>
+                    <div class="subtitle-container">
+                        <div class="subtitle-badge">
+                            <h2 class="sub-title">{info['subtitulo']}</h2>
+                        </div>
+                    </div>
+                </div>
+        """
+    else:
+        portada_header = ""
+        
     # Generar HTML
     html_content = f"""<!DOCTYPE html>
 <html>
@@ -364,7 +395,7 @@ def main():
         <!-- Portada -->
         <div class="front-cover" style="background-image: url('{cover_img_path}');">
             <div class="front-content">
-                <!-- Se omite el título duplicado en HTML ya que la ilustración ya lo tiene integrado artísticamente -->
+                {portada_header}
                 <div class="author-label">Julio Martín Rodríguez Sánchez</div>
             </div>
         </div>
