@@ -13,7 +13,7 @@ BOOKS_DATA = {
 
 En este libro híbrido premium de cuento ilustrado y actividades, descubrirás una entrañable historia de amistad y generosidad. Cada página de lectura a color viene acompañada de una hermosa página ilustrada en gran tamaño para leer, y páginas interactivas en blanco y negro para colorear y pintar.
 
-¡Fomenta la creatividad, la concentración y la lectura temprana con divertidos laberintos, conecta los puntos y juegos de diferencias al final del libro!
+¡Fomenta la creatividad, la concentración y la lectura temprana con divertidas sopas de letras, busca y cuenta, conecta los puntos y juegos de diferencias al final del libro!
 
 Ideal para pequeños lectores y artistas de 4 a 8 años.""",
         "bg_color": "#d6ebdc",
@@ -26,11 +26,11 @@ Ideal para pequeños lectores y artistas de 4 a 8 años.""",
         "subtitulo": "Viaje al Espacio",
         "sinopsis": """¡Despega hacia las estrellas con Nico, Luna y su perrito Copito en una aventura espacial inolvidable!
 
-Construye un cohete de cartón, viaja más allá de las nubes y descubre planetas sonrientes hechos de helado de fresa. En este volumen premium de 60 páginas, Nico y Luna harán nuevos amigos intergalácticos como el Robot Tuerca y el adorable alienígena Bip-Bip.
+Construye un cohete de cartón, viaja más allá de las nubes y descubre planetas sonrientes hechos de helado de fresa. En este volumen premium de 60 páginas, Nico y Luna harán nuevos amigos intergalécticos como el Robot Tuerca y el adorable alienígena Bip-Bip.
 
 Cada escena del viaje combina una página de cuento con hermosas ilustraciones infantiles a color alternadas con láminas en blanco y negro listas para colorear.
 
-Fomenta el amor por la astronomía, la lectura temprana y los valores positivos de la amistad y el trabajo en equipo.
+¡Fomenta el aprendizaje, la lectura temprana y la creatividad con divertidas sopas de letras, busca y cuenta, conecta los puntos y juegos de diferencias al final del libro!
 
 Ideal para niños de 4 a 8 años.""",
         "bg_color": "#0d1b2a",
@@ -47,7 +47,7 @@ Cruza un portal mágico y conoce a entrañables amigos gigantes como el pequeño
 
 Cada escena del viaje combina una página de lectura ágil en la izquierda con hermosas ilustraciones infantiles a color alternadas con láminas en blanco y negro listas para colorear a la derecha.
 
-¡Fomenta la creatividad, la lectura temprana y el valor de la amistad con divertidos laberintos, conecta los puntos y juegos de diferencias al final del libro!
+¡Fomenta la creatividad, la lectura temprana y la concentración con divertidas sopas de letras, busca y cuenta, conecta los puntos, conecta las sombras y juegos de diferencias al final del libro!
 
 Ideal para niños de 4 a 8 años.""",
         "bg_color": "#1e3f20", # Verde selva jurásica profundo
