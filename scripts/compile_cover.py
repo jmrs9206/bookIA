@@ -105,6 +105,23 @@ Ideal para niños de 4 a 8 años.""",
         "border_color": "#7a541b",
         "text_color": "#faf2e6",
         "accent_color": "#ffd700" # Amarillo oro brillante
+    },
+    "libro_7_aventura_en_los_andes": {
+        "num": 7,
+        "subtitulo": "Aventura en los Andes",
+        "sinopsis": """¡Viaja a la cordillera de los Andes en Perú con Nico, Luna y su valiente perrito Copito en una expedición mágica entre picos nevados y ruinas incas!
+
+Explora las cuestas empedradas de la ciudad imperial de Cusco y conoce a simpáticos amigos animales como la alpaca lanuda Paco y el majestuoso cóndor de los Andes Kusi. En este volumen premium de 60 páginas, Nico y Luna viajarán a lomos de una alpaca y volarán con el viento sobre las ruinas de Machu Picchu en busca de la estatuilla de oro del estanque sagrado de la Montaña de los Siete Colores.
+
+Cada escena del viaje combina una página de lectura ágil en la izquierda con hermosas ilustraciones infantiles a color alternadas con láminas en blanco y negro listas para colorear a la derecha.
+
+¡Fomenta la creatividad, la lectura temprana y la concentración con divertidas sopas de letras, busca y cuenta, conecta los puntos, conecta las sombras y juegos de diferencias al final del libro!
+
+Ideal para niños de 4 a 8 años.""",
+        "bg_color": "#7a1a1c", # Rojo poncho inca profundo
+        "border_color": "#9e2528",
+        "text_color": "#fcf5f5",
+        "accent_color": "#ffd103" # Amarillo sol brillante
     }
 }
 
