@@ -54,6 +54,23 @@ Ideal para niños de 4 a 8 años.""",
         "border_color": "#345e37",
         "text_color": "#eaf2eb",
         "accent_color": "#ffb703" # Naranja sol prehistórico
+    },
+    "libro_4_aventura_bajo_el_mar": {
+        "num": 4,
+        "subtitulo": "Aventura Bajo el Mar",
+        "sinopsis": """¡Sumérgete en el océano profundo con Nico, Luna y su valiente perrito Copito en una aventura submarina inolvidable!
+
+Explora el Reino del Coral y conoce a entrañables amigos marinos como el caballito de mar dorado Goldy, el cangrejo percusionista Pinzas y el delfín cantarín Saltarín. En este volumen premium de 60 páginas, Nico y Luna viajarán en un submarino amarillo gigante a través de bosques de algas y cuevas misteriosas en busca de la perla dorada de la Ostra Gigante.
+
+Cada escena del viaje combina una página de lectura ágil en la izquierda con hermosas ilustraciones infantiles a color alternadas con láminas en blanco y negro listas para colorear a la derecha.
+
+¡Fomenta la creatividad, la lectura temprana y la concentración con divertidas sopas de letras, busca y cuenta, conecta los puntos, conecta las sombras y juegos de diferencias al final del libro!
+
+Ideal para niños de 4 a 8 años.""",
+        "bg_color": "#0f2b46", # Azul océano profundo
+        "border_color": "#244b6f",
+        "text_color": "#e2f1fc",
+        "accent_color": "#ffc300" # Amarillo dorado brillante
     }
 }
 
@@ -334,8 +351,8 @@ def main():
     if info["num"] == 2:
         css_rendered = css_rendered.replace("color: #c71585;", "color: #ff8c00;") # Naranja en el libro 2
         
-    # Cabecera condicional para portada (solo para Libro 3, que tiene portada limpia sin texto)
-    if info["num"] == 3:
+    # Cabecera condicional para portada (para Libros >= 3, que tienen portada limpia sin texto)
+    if info["num"] >= 3:
         portada_header = f"""
                 <div class="front-header-container">
                     <div class="main-title">Las Aventuras de</div>
