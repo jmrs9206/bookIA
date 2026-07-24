@@ -231,6 +231,11 @@ body {{
     right: 0.925in; /* Margen seguro con sangría derecha */
     text-align: center;
     box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.45); /* Placa oscura para contraste */
+    padding: 20px 15px;
+    border-radius: 20px;
+    border: 3.5px solid rgba(255, 255, 255, 0.25);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.35);
 }}
 
 .subtitle-container {{
