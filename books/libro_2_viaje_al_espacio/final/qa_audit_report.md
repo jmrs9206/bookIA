@@ -16,7 +16,7 @@
 | **3. Calidad Ortotipográfica** | Cero errores de ortografía, tildes, signos de puntuación y apertura de admiración (`¡!`). | **PASÓ** | Verificado al 100% en todas las páginas e introducción. |
 | **4. Páginas para Colorear** | Exactamente 5 ilustraciones en blanco y negro integradas en puntos clave del cuento. | **PASÓ** | Trazos negros gruesos, 100% fondo blanco sin sombras grises ni rellenos negros. |
 | **5. Coherencia Texto-Imagen** | Las imágenes para colorear corresponden exactamente al texto de la escena. | **PASÓ** | - Pág. 5: Cohete despegando.<br>- Pág. 9: Robot Tuerca.<br>- Pág. 12: Alien Bip-Bip con helado.<br>- Pág. 15: Asteroides sonrientes.<br>- Pág. 18: Abrazo grupal y Tierra al fondo. |
-| **6. Estructura y Juegos** | 4 actividades finales completas con solucionario y avance del Libro 3. | **PASÓ** | Laberinto, 5 Diferencias, Conecta Puntos (1-20), Dibujo Libre, Probador de Color y Solucionario. |
+| **6. Estructura y Juegos** | 6 actividades finales completas con solucionario y avance del Libro 3. | **PASÓ** | Busca y Cuenta, 5 Diferencias, Conecta Puntos (1-20), Dibujo Libre, Sopa de Letras, Conecta las Sombras y Solucionario. |
 | **7. Metadatos KDP** | Título, subtítulo, descripción HTML, 7 palabras clave y categorías. | **PASÓ** | Cumple al 100% las normativas de metadatos y declaración de IA en Amazon KDP. |
 | **8. Exportación Técnica** | Compilaciones finales en Markdown y DOCX libres de errores de recursos. | **PASÓ** | Archivos `final/las_aventuras_de_nico_y_luna_viaje_al_espacio.docx` y `.md` generados y validados mediante Pandoc. |
 

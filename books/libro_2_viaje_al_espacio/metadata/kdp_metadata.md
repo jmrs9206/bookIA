@@ -16,14 +16,14 @@
 ```html
 <h3><b>¡Despega hacia las estrellas con Nico, Luna y Copito en una aventura espacial inolvidable!</b></h3>
 
-<p><b>Las Aventuras de Nico y Luna: Viaje al Espacio</b> es el segundo volumen de la aclamada colección para niños de 4 a 8 años. Combina una hermosa historia rimada y accesible de lectura temprana con <b>5 páginas dedicadas para colorear en blanco y negro</b>, laberintos y juegos espaciales.</p>
+<p><b>Las Aventuras de Nico y Luna: Viaje al Espacio</b> es el segundo volumen de la aclamada colección para niños de 4 a 8 años. Combina una hermosa historia rimada y accesible de lectura temprana con <b>5 páginas dedicadas para colorear en blanco y negro</b>, juegos y actividades espaciales.</p>
 
 <h4><b>¿Qué descubrirán los pequeños exploradores en este libro?</b></h4>
 <ul>
-  <li><b>Una aventura espacial fascinante:</b> Nico y Luna construyen un cohete mágico y viajan más allá de las nubes para conocer al Búho Sabio de las estrellas, a un simpático Robot mecánico y a un adorable alienígena llamado Bip-Bip.</li>
+  <li><b>Una aventura espacial fascinante:</b> Nico y Luna construyen un cohete mágico y viajan más allá de las nubes para conocer a un simpático Robot mecánico y a un adorable alienígena llamado Bip-Bip.</li>
   <li><b>5 Dibujos grandes en blanco y negro para colorear:</b> Diseñados con contornos negros claros, formas sencillas y sin sombras grises, ideales para ceras, lápices o rotuladores.</li>
   <li><b>Fomenta valores positivos:</b> Trabajo en equipo, creatividad, generosidad y curiosidad por el universo.</li>
-  <li><b>Sección de juegos y pasatiempos:</b> Incluye el laberinto espacial, busca las 5 diferencias entre naves alienígenas, conecta los puntos (1 al 20) y dibujo libre.</li>
+  <li><b>Sección de juegos y pasatiempos:</b> Incluye busca, cuenta y colorea, sopa de letras mágica, conecta las sombras, busca las 5 diferencias entre naves alienígenas, conecta los puntos (1 al 20) y dibujo libre.</li>
   <li><b>Formato de gran tamaño:</b> 8.5 x 11 pulgadas (A4) perfecto para las manos de niños de 4 a 8 años.</li>
 </ul>
 
@@ -44,4 +44,4 @@
 
 - **Categoría Principal 1**: `Libros infantiles > Arte, música y fotografía > Arte > Libros para colorear`
 - **Categoría Principal 2**: `Libros infantiles > Ciencia, naturaleza y tecnología > Astronomía y espacio`
-- **Categoría Secundaria**: `Libros infantiles > Libros de actividades > Laberintos y juegos`
+- **Categoría Secundaria**: `Libros infantiles > Libros de actividades > Sopas de letras y pasatiempos`

@@ -1,4 +1,4 @@
-# Capítulo 7: Próxima Aventura, Probador de Color y Soluciones
+# Capítulo 7: Próxima Aventura, Juegos Adicionales y Soluciones
 
 ---
 
@@ -16,18 +16,28 @@ Conocerán a un T-Rex simpático que come hojas, a un Triceratops que le encanta
 
 ---
 
-## [PÁGINA 29: PROBADOR DE COLORES]
+## [PÁGINA 29: ACTIVIDAD 5 - SOPA DE LETRAS MÁGICA]
 
-### 🖍️ Probador de Colores y Rotuladores
+### 🧩 Encuentra las 5 palabras ocultas del espacio en esta sopa de letras.
 
-Utiliza esta página para probar tus lápices de colores o rotuladores espaciales antes de pintar las páginas del libro.
+Las palabras que debes buscar son: **ASTRO**, **PLANETA**, **COHETE**, **LUNA** y **NICO**. ¡Diviértete!
 
 ---
 
-## [PÁGINA 30: SOLUCIONARIO DE ACTIVIDADES]
+## [PÁGINA 30: ACTIVIDAD 6 - CONECTA LAS SOMBRAS]
+
+### 🧩 Une con una línea la nave espacial de la izquierda con su sombra correcta a la derecha.
+
+Observa muy bien la posición, la dirección y la silueta del cohete estelar.
+
+---
+
+## [PÁGINA 31: SOLUCIONARIO DE ACTIVIDADES]
 
 ### 💡 Soluciones de los Juegos
 
-- **Página 24 (Laberinto):** El camino correcto rodea el primer asteroide por la derecha, pasa por debajo de la luna sonriente y avanza directo al planeta de helado.
+- **Página 24 (Busca y Cuenta):** Encontraste 3 Cohetes (🚀), 3 Saturnos (🪐) y 4 Platillos (🛸).
 - **Página 25 (Diferencias):** 1. La antena del casco; 2. La estrella cerca de la ventana; 3. La burbuja extra del motor; 4. El botón del pecho; 5. La llave inglesa en la mano.
 - **Página 26 (Conecta Puntos):** ¡Es el majestuoso Cohete Espacial!
+- **Página 29 (Sopa de Letras):** Las palabras están ocultas en horizontal.
+- **Página 30 (Conecta las Sombras):** La sombra correcta es la opción **B**.

@@ -34,10 +34,10 @@
 | **Pág. 21**| Historia (Escena 18) | Nico y Luna arropados contando las estrellas | No |
 | **Pág. 22**| Historia (Escena 19) | Buenas noches a los nuevos amigos galácticos | No |
 | **Pág. 23**| Historia (Escena 20) | Cierre poético de la aventura espacial | No |
-| **Pág. 24**| Actividad 1 | Laberinto Espacial: Guía al cohete hasta el planeta | N/A |
+| **Pág. 24**| Actividad 1 | Busca, Cuenta y Colorea: Cuenta los elementos espaciales | N/A |
 | **Pág. 25**| Actividad 2 | Busca las 5 diferencias entre las naves alienígenas | N/A |
 | **Pág. 26**| Actividad 3 | Conecta los puntos (1 al 20) para formar el cohete | N/A |
 | **Pág. 27**| Actividad 4 | Dibujo libre: Diseña tu propio planeta divertido | N/A |
 | **Pág. 28**| Próxima Aventura | Avance del Libro 3: *Los Dinosaurios Perdidos* | N/A |
-| **Pág. 29**| Probador de Color | Página utilitaria para probar lápices y rotuladores | N/A |
-| **Pág. 30**| Soluciones | Respuestas a los juegos y laberintos | N/A |
+| **Pág. 29**| Actividad 5 | Sopa de Letras Mágica: Encuentra 5 palabras ocultas | N/A |
+| **Pág. 30**| Actividad 6 y Soluc. | Conecta las Sombras y Soluciones a los juegos | N/A |
