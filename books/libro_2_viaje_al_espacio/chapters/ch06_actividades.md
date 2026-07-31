@@ -2,14 +2,11 @@
 
 ---
 
-## [PÁGINA 24: ACTIVIDAD 1 - EL LABERINTO ESPACIAL]
+## [PÁGINA 24: ACTIVIDAD 1 - BUSCA, CUENTA Y COLOREA EL ESPACIO]
 
-### 🧩 ¡Guía al Cohete de Nico y Luna hasta el Planeta de Helado!
+### 🧩 ¡Busca, Cuenta y Colorea!
 
-Recorre el camino espacial esquivando los agujeros negros y los cometas traviesos.
-
-**[Diseño Visual de la Actividad]:**  
-Laberinto sencillo en forma de mapa estelar. Entrada con el cohete arriba a la izquierda. Salida abajo a la derecha con el planeta de los helados y el alien Bip-Bip.
+Observa el dibujo y cuenta cuántos elementos espaciales encuentras en el espacio. Escribe el número en los círculos y colorea la escena.
 
 ---
 

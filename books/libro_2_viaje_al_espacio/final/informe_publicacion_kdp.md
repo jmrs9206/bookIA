@@ -7,7 +7,7 @@
 - **Total de Palabras**: 2.085 palabras
 - **Páginas Proyectadas KDP**: 32 páginas (8.5" x 11" / A4)
 - **Páginas para Colorear**: 5 ilustraciones en blanco y negro integradas en la historia.
-- **Sección de Juegos**: 4 páginas de actividades (Laberinto Espacial, 5 Diferencias, Conecta Puntos 1-20, Dibujo Libre).
+- **Sección de Juegos**: 6 páginas de actividades (Busca, Cuenta y Colorea, Sopa de Letras Mágica, Conecta las Sombras, 5 Diferencias, Conecta Puntos 1-20, Dibujo Libre).
 - **Archivos Entregables**:
   - Manuscrito Markdown: `books/libro_2_viaje_al_espacio/final/las_aventuras_de_nico_y_luna_viaje_al_espacio.md`
   - Documento DOCX: `books/libro_2_viaje_al_espacio/final/las_aventuras_de_nico_y_luna_viaje_al_espacio.docx`
