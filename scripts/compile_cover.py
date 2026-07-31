@@ -122,6 +122,91 @@ Ideal para niños de 4 a 8 años.""",
         "border_color": "#9e2528",
         "text_color": "#fcf5f5",
         "accent_color": "#ffd103" # Amarillo sol brillante
+    },
+    "libro_8_aventura_en_el_castillo": {
+        "num": 8,
+        "subtitulo": "Aventura en el Castillo",
+        "sinopsis": """¡Viaja en el tiempo a un castillo medieval en España con Nico, Luna y su valiente perrito Copito en una expedición mágica entre torres de piedra y caballeros andantes!
+
+Explora las murallas y patios de armas y conoce a simpáticos amigos como el dragoncito que sopla pompas de jabón Lolo y al valiente caballero de juguete Don Quijote. En este volumen premium de 60 páginas, Nico y Luna viajarán sobre caballitos de madera mágicos y volarán por el cielo nocturno sobre un gran escudo de caballero en busca de la corona de luces de la torre más alta.
+
+Cada escena del viaje combina una página de lectura ágil en la izquierda con hermosas ilustraciones infantiles a color alternadas con láminas en blanco y negro listas para colorear a la derecha.
+
+¡Fomenta la creatividad, la lectura temprana y la concentración con divertidas sopas de letras, busca y cuenta, conecta los puntos, conecta las sombras y juegos de diferencias al final del libro!
+
+Ideal para niños de 4 a 8 años.""",
+        "bg_color": "#8b0000", # Rojo medieval oscuro
+        "border_color": "#a81215",
+        "text_color": "#fff7f7",
+        "accent_color": "#ffd700" # Oro brillante
+    },
+    "libro_9_aventura_en_la_isla_volcanica": {
+        "num": 9,
+        "subtitulo": "Aventura en la Isla Volcánica",
+        "sinopsis": """¡Viaja a una hermosa isla volcánica en las Islas Canarias en España con Nico, Luna y su valiente perrito Copito en una expedición mágica entre playas de arena negra y plataneras verdes!
+
+Explora valles tropicales y conoce a simpáticos amigos animales como el lagarto gigante Guanche que adora comer higos y a Chochi la cantarina abubilla. En este volumen premium de 60 páginas, Nico y Luna cruzarán puentes de lava petrificada y subirán al majestuoso volcán Teide en busca de la estrella de fuego que da color a la isla.
+
+Cada escena del viaje combina una página de lectura ágil en la izquierda con hermosas ilustraciones infantiles a color alternadas con láminas en blanco y negro listas para colorear a la derecha.
+
+¡Fomenta la creatividad, la lectura temprana y la concentración con divertidas sopas de letras, busca y cuenta, conecta los puntos, conecta las sombras y juegos de diferencias al final del libro!
+
+Ideal para niños de 4 a 8 años.""",
+        "bg_color": "#c84b12", # Naranja cobre volcánico cálido
+        "border_color": "#9e3406",
+        "text_color": "#fffbfb",
+        "accent_color": "#ffd700" # Oro/brillo de fuego
+    },
+    "libro_10_aventura_en_el_bosque_de_secuoyas": {
+        "num": 10,
+        "subtitulo": "Aventura en el Bosque de Secuoyas",
+        "sinopsis": """¡Viaja al impresionante bosque de secuoyas gigantes en Cantabria con Nico, Luna y su valiente perrito Copito en una expedición mágica entre helechos gigantes y musgo esmeralda!
+
+Explora senderos mágicos y conoce a simpáticos amigos animales como la ardilla voladora Saltarina que planea de rama en rama y al sabio carbonero cantor. En este volumen premium de 60 páginas, Nico y Luna cruzarán puentes de troncos caídos y escalarán las raíces del roble centenario en busca de la piña de oro que da energía al bosque.
+
+Cada escena del viaje combina una página de lectura ágil en la izquierda con hermosas ilustraciones infantiles a color alternadas con láminas en blanco y negro listas para colorear a la derecha.
+
+¡Fomenta la creatividad, la lectura temprana y la concentración con divertidas sopas de letras, busca y cuenta, conecta los puntos, conecta las sombras y juegos de diferencias al final del libro!
+
+Ideal para niños de 4 a 8 años.""",
+        "bg_color": "#133a1b", # Verde bosque de secuoyas profundo
+        "border_color": "#1f5c2c",
+        "text_color": "#f4faf5",
+        "accent_color": "#ffd700" # Oro brillante
+    },
+    "libro_11_aventura_en_los_pirineos": {
+        "num": 11,
+        "subtitulo": "Aventura en los Pirineos",
+        "sinopsis": """¡Viaja a la majestuosa cordillera de los Pirineos en Aragón con Nico, Luna y su valiente perrito Copito en una expedición mágica entre lagos cantarines y cumbres nevadas!
+
+Explora senderos alpinos y conoce a simpáticos amigos animales como la marmota silbadora Mendi y al majestuoso quebrantahuesos que planea por los cielos. En este volumen premium de 60 páginas, Nico y Luna cruzarán el Paso de Mahoma y subirán a la cumbre del gran pico de Aneto en busca de la flor de nieve de cristal que protege a todos los valles.
+
+Cada escena del viaje combina una página de lectura ágil en la izquierda con hermosas ilustraciones infantiles a color alternadas con láminas en blanco y negro listas para colorear a la derecha.
+
+¡Fomenta la creatividad, la lectura temprana y la concentración con divertidas sopas de letras, busca y cuenta, conecta los puntos, conecta las sombras y juegos de diferencias al final del libro!
+
+Ideal para niños de 4 a 8 años.""",
+        "bg_color": "#0e3150", # Azul alta montaña profundo
+        "border_color": "#1a4d7c",
+        "text_color": "#f4f9ff",
+        "accent_color": "#00bfff" # Celeste/flor de nieve de cristal
+    },
+    "libro_12_aventura_en_los_molinos_de_viento": {
+        "num": 12,
+        "subtitulo": "Aventura en los Molinos de Viento",
+        "sinopsis": """¡Viaja a los hermosos campos dorados de La Mancha con Nico, Luna y su valiente perrito Copito en una expedición mágica entre molinos de viento gigantes y caminos de tierra blanca!
+
+Explora antiguos molinos de viento blancos y conoce a simpáticos amigos como la perdiz roja Perlita que canta coplas y al bondadoso borriquillo Platerito. En este volumen premium de 60 páginas, Nico y Luna cruzarán puentes de piedra antiguos y subirán por escaleras de caracol en el interior del molino Sancho en busca de la llave de viento dorada que hace moler el grano.
+
+Cada escena del viaje combina una página de lectura ágil en la izquierda con hermosas ilustraciones infantiles a color alternadas con láminas en blanco y negro listas para colorear a la derecha.
+
+¡Fomenta la creatividad, la lectura temprana y la concentración con divertidas sopas de letras, busca y cuenta, conecta los puntos, conecta las sombras y juegos de diferencias al final del libro!
+
+Ideal para niños de 4 a 8 años.""",
+        "bg_color": "#8b6d11", # Trigo tostado oscuro
+        "border_color": "#aa881e",
+        "text_color": "#fffdf0",
+        "accent_color": "#ffd700" # Oro
     }
 }
 

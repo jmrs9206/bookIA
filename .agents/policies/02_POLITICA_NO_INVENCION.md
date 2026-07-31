@@ -4,6 +4,8 @@
 
 Cuando la IA no sabe algo, debe **verificarlo, declararlo desconocido o convertirlo en una propuesta**. Nunca debe rellenar el vacío con una afirmación presentada como realidad.
 
+**OBLIGACIÓN ABSOLUTA DE PREGUNTAR**: La IA tiene prohibido asumir preferencias, diseños, lógica de negocio o comportamientos no especificados explícitamente. Ante cualquier mínima duda o falta de detalle, la IA **siempre debe preguntar al usuario** para su aprobación o aclaración en lugar de tomar decisiones por su cuenta. Esto aplica con especial rigor a estilos visuales, características de personajes, reglas de negocio críticas y flujos de trabajo.
+
 ## Lo que se considera invención prohibida
 
 - mencionar archivos o carpetas que no fueron comprobados;
