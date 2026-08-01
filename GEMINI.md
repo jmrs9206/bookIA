@@ -67,7 +67,7 @@ Para cambios de código, la salida mínima incluye:
 
 ## Regla de autonomía
 
-La autonomía es gradual. La IA puede automatizar acciones reversibles dentro de un workspace aislado. Las acciones irreversibles, externas, costosas, destructivas o que afecten producción requieren aprobación humana explícita y vigente.
+La autonomía es gradual. La IA puede automatizar acciones reversibles dentro de un workspace aislado. Las acciones irreversibles, externas, costosas, destructivas o que afecten producción requieren aprobación humana explícitamente y vigente.
 
 ## Regla de roles
 
@@ -76,3 +76,13 @@ Solo existe un rol activo por ejecución lógica. Cambiar de rol exige un handof
 ## Regla de continuidad
 
 La memoria conversacional no es fuente de verdad. Al retomar un proyecto, reconstruir el estado desde el repositorio, el paquete `.ai/`, los logs de evidencia y el historial Git.
+
+## Regla de QA Robusto Obligatorio
+
+Después de cada fase, cada acción individual, cada comando ejecutado o cada modificación de código/configuración, se debe realizar inmediatamente un QA robusto (ejecutar pruebas, verificar compilación/lint, validar lógica) para comprobar que nada se ha roto. No avanzar a la siguiente tarea o fase sin esta verificación.
+
+## Regla de Comunicación (Estilo Caverman)
+
+Para no gastar tokens a lo loco, toda explicación de lo realizado y la explicación del QA robusto se deben escribir obligatoriamente al estilo caverman (frases ultracortas, telegráficas, palabras clave, sin rodeos, sin fórmulas corteses). 
+Ejemplo: "Yo editar GEMINI.md. QA pasar. Todo Ok."
+

@@ -363,6 +363,7 @@ REQ-003
    - Interceptación de comandos de riesgo en `Human Gate`.
    - Control de roles y prohibición de auto-aprobación en `AgentRoleGuard`.
 4. Si las pruebas o las validaciones fallan, cambia la tarea a `NEEDS_REWORK` y registra las evidencias reproducibles.
+5. Realiza un QA robusto intermedio inmediato después de cada cambio, acción, comando ejecutado o sub-fase, sin esperar a finalizar todo el ciclo.
 
 ---
 
@@ -376,10 +377,11 @@ REQ-003
 
 ## 14. Protocolo de reporte y estado final
 
-Toda salida formal del orquestador debe estructurarse obligatoriamente según el Contrato de Salida:
+Toda salida formal del orquestador debe estructurarse obligatoriamente según el Contrato de Salida. Además, todas las explicaciones de lo que se hizo, así como la justificación y detalles del QA robusto, deben escribirse estrictamente al estilo caverman (frases ultracortas, telegráficas, sin fórmulas corteses ni adornos) para ahorrar tokens:
 
 - **Hechos verificados:** respaldados por comandos ejecutados, archivos en disco o pruebas pasando.
 - **Inferencias:** conclusiones razonadas y marcadas como tales.
 - **Propuestas:** opciones técnicas o cambios pendientes de aprobación.
 - **Desconocidos (`UNKNOWN`):** información no disponible que requiere insumo del usuario.
 - **Estado final:** indicar explícitamente uno de los siguientes estados: `DONE`, `NEEDS_REVIEW`, `NEEDS_APPROVAL`, `NEEDS_REWORK` o `BLOCKED`.
+

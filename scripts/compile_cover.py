@@ -11,7 +11,7 @@ BOOKS_DATA = {
         "subtitulo": "El Bosque Mágico",
         "sinopsis": """¡Acompaña a Nico, Luna y su travieso perrito Copito en un viaje mágico al corazón de un bosque encantado!
 
-En este libro híbrido premium de cuento ilustrado y actividades, descubrirás una entrañable historia de amistad y generosidad. Cada página de lectura a color viene acompañada de una hermosa página ilustrada en gran tamaño para leer, y páginas interactivas en blanco y negro para colorear y pintar.
+En este libro híbrido premium de cuento ilustrado y actividades, descubrirás una entrañable historia de amistad y generosidad. Cada página de lectura viene acompañada de una hermosa página ilustrada en gran tamaño para leer, y páginas interactivas en blanco y negro para colorear y pintar.
 
 ¡Fomenta la creatividad, la concentración y la lectura temprana con divertidas sopas de letras, busca y cuenta, conecta los puntos y juegos de diferencias al final del libro!
 
@@ -310,22 +310,6 @@ body {{
     width: 100%;
 }}
 
-.barcode-box {{
-    width: 2.0in;
-    height: 1.2in;
-    background-color: #ffffff;
-    border: 1px dashed #999999;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: 8pt;
-    color: #666666;
-    font-weight: bold;
-    box-sizing: border-box;
-    padding: 5px;
-    text-align: center;
-}}
 
 .isbn-label {{
     font-size: 9.5pt;
@@ -524,7 +508,7 @@ def main():
                 <p class="sinopsis">{info['sinopsis']}</p>
                 
                 <div class="specs">
-                    <span class="tag">Lectura A Color</span>
+                    <span class="tag">Cuento Ilustrado</span>
                     <span class="tag">10 Láminas de Pintar</span>
                     <span class="tag">Juegos y Actividades</span>
                 </div>
@@ -534,10 +518,6 @@ def main():
                         Colección Nico y Luna<br>
                         Libro {info['num']} de la Colección<br>
                         Edición Especial Impresa
-                    </div>
-                    <div class="barcode-box">
-                        CÓDIGO BARRAS KDP<br>
-                        <span style="font-size: 6.5pt; font-weight: normal; color: #999999; margin-top: 4px; display: inline-block;">(Espacio reservado 2"x1.2")</span>
                     </div>
                 </div>
             </div>
