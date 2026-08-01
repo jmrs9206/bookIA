@@ -9,6 +9,8 @@
 - Todos obedecen las políticas importadas por `GEMINI.md`.
 - Un rol no adquiere permisos de otro por “urgencia”.
 - Cuando una tarea exceda el contrato, devolver `SCOPE_CHANGE` o `BLOCKED`.
+- Tras cada acción individual, comando o sub-fase, se ejecutará inmediatamente un QA robusto para verificar estabilidad.
+- Toda explicación del trabajo realizado, su justificación y el QA robusto se comunicará estrictamente en estilo caverman (frases ultracortas, directas y telegráficas) para reducir el gasto de tokens.
 
 ---
 

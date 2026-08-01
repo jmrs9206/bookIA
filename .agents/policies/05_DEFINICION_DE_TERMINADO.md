@@ -16,6 +16,7 @@ Una tarea no está terminada porque el agente haya dejado de escribir. Está ter
 8. La documentación afectada está actualizada.
 9. Un rol distinto revisó el cambio.
 10. Las operaciones externas pendientes permanecen en `NEEDS_APPROVAL`.
+11. Se realizó un QA robusto intermedio y final (pruebas, lint, compilación) tras cada acción y fase.
 
 ## Matriz de evidencia
 
@@ -47,6 +48,9 @@ Una tarea no está terminada porque el agente haya dejado de escribir. Está ter
 - No afirmar cobertura o rendimiento sin medición.
 
 ## Reporte de finalización
+
+> [!NOTE]
+> El reporte de finalización, la justificación de evidencias y cualquier explicación adicional deben redactarse estrictamente al estilo caverman (cortas, telegráficas, sin relleno) para economizar tokens.
 
 ```text
 Task: ...
